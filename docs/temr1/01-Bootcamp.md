@@ -11,7 +11,7 @@ hide:
 
 ![](../images/submission01/SUBMISSION_01_page-0002.jpg)
 
-this is image 2
+# this is image 2
 
 
 Vision - Personal ID - Personal Development
