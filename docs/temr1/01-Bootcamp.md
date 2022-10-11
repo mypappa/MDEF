@@ -5,13 +5,22 @@ hide:
 
 # Bootcamp
 
+# Vision
+
 ![](../images/submission01/SUBMISSION_01_page-0001.jpg)
 
-# this is image 1
+# Fight
 
 ![](../images/submission01/SUBMISSION_01_page-0002.jpg)
 
-# this is image 2
+# Fight Description
 
+![](../images/submission01/SUBMISSION_01_page-0003.jpg)
 
-Vision - Personal ID - Personal Development
+# Personal Identity
+
+![](../images/submission01/SUBMISSION_01_page-0004.jpg)
+
+# Personal Development
+
+![](../images/submission01/SUBMISSION_01_page-0005.jpg)
