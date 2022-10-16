@@ -17,6 +17,7 @@ nav:
       - Term 1:
           - Bootcamp: temr1/01-Bootcamp.md
           - AoWS: temr1/02-Atlas of Weak Signals.md
+          - Bio & Agri Zero:
 
       - Term 2:
           - digi: temr1/01-Bootcamp.md
@@ -43,7 +44,7 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: yellow
+    primary: magenda
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
