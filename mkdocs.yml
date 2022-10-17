@@ -15,9 +15,9 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Bootcamp: temr1/01-Bootcamp.md
-          - AoWS: temr1/02-Atlas of Weak Signals.md
-          - Bio & Agri Zero:
+          - Bootcamp: term1/01-Bootcamp.md
+          - AoWS: term1/02-Atlas of Weak Signals.md
+          - Bio & Agri Zero: term1/03-Bio & Agri Zero.md
 
       - Term 2:
           - digi: temr1/01-Bootcamp.md
@@ -44,8 +44,8 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: blue
-    accent: purple
+    primary: purple
+    accent: yellow
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
