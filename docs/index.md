@@ -1,6 +1,6 @@
 ## Welcome
 
-![](../images/perezoso.jpg)
+![](images/perezoso.jpg)
 
 HERHRHRHRHRHRHRHRRH
 
