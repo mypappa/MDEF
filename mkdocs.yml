@@ -15,9 +15,15 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
+<<<<<<< HEAD
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
           - Bio & Agri Zero: term1/03-Bio & Agri Zero.md
+=======
+          - Bootcamp: temr1/01-Bootcamp.md
+          - AoWS: temr1/02-Atlas of Weak Signals.md
+          - Bio & Agri Zero: 
+>>>>>>> caeca87ae142d5a6fd2ec6acf368270cd3a0624f
 
       - Term 2:
           - digi: temr1/01-Bootcamp.md
