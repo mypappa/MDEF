@@ -17,8 +17,7 @@ nav:
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: temr1/02-Atlas of Weak Signals.md
-          - Bio & Agri Zero:
-
+          - Bio & Agri Zero: term1/03-Bio & Agri Zero.md
       - Term 2:
           - digi: temr1/01-Bootcamp.md
           - studio: temr1/01-Bootcamp.md
