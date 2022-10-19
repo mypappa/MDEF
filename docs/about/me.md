@@ -1,7 +1,19 @@
 # About
 
-![](../images/perezoso.jpg)
+![](arch_uth.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Myrto-Eirini Pappa (two personalities or just a way to keep both of my grandmas happy).
+Currently an architect on recovery
+Researcher of how to survive the 9-5 nightmare
+Exploring the boundaries of Design
+Truth wars hostess
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+Areas of Interest:
+- post-natural environments
+- new ecologies: Dissolving the nature / culture binominal, queer ecologies
+- Future past
+- Subconscious intelligence (SI)
+
+*soon to be called :
+- an alumni
+- an advocate
