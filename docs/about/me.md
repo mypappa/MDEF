@@ -1,7 +1,7 @@
 # About
 
 ![](arch_uth.jpg)
-
+img src="arch_uth.jpg" width=50% height=50%
 Myrto-Eirini Pappa
 
 Two personalities or just a way to keep both of my grandmas happy
