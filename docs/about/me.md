@@ -4,17 +4,15 @@
 
 Myrto-Eirini Pappa
 
-Two personalities or just a way to keep both of my grandmas happy)
+Two personalities or just a way to keep both of my grandmas happy
 
-Currently an architect in recovery
+Architect in recovery
 
 Researcher of how to survive the 9-5 nightmare
 
-Exploring the boundaries of Design
+Currently exploring the boundaries of Design
 
-Truth wars hostess
-
-Areas of Interest:
+Areas of interest:
 
 - post-natural environments
 
@@ -25,6 +23,7 @@ Areas of Interest:
 - Subconscious intelligence (SI)
 
 *soon to be called :
+
 - an alumni
 
 - an advocate
