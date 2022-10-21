@@ -1,9 +1,12 @@
 **Role 1**: The prototype as an experimental component
 Prototyping the design itself
+
 **Role 2**: The prototype as a means of inquiry
 Prototyping objects that will later contribute / form the design. Instruments to collect, record and measure phenomena
+
 **Role 3**: The prototype as a research archetype
 ex: showroom, exhibition, interactive process that gives information about the development
+
 **Role 4**: The process of prototyping as a vehicle for inquiry
 The research method: Can be used in a participatory workshop
 
@@ -19,12 +22,12 @@ http://www.arch.uth.gr/en/studies/course/1774/7
 
 3. Of course, I have worked in several physical and digital models, which would match the **role 3** of prototyping, the research archetype. From the first to the last year of my studies and my professional experience I got involved in multiple types of modelling:
 
-- working models; made out of inferior materials (foam, paper, cardboard) and simple tools (cutter, scissors, pencils) which mainly served the purpose of shaping the volume.
-- concept / interpretative models; made out of all kinds of materials and colours (from glitter to coffee beans) which were used as mediums to communicate the concept / story / idea.
-- final models; carefully made with high quality materials (plexiglass, balsa, grass, puppets) and tools (laser cutter, 3d printers,..)
+  - working models; made out of inferior materials (foam, paper, cardboard) and simple tools (cutter, scissors, pencils) which mainly served the purpose of shaping the volume.
+  - concept / interpretative models; made out of all kinds of materials and colours (from glitter to coffee beans) which were used as mediums to communicate the concept / story / idea.
+  - final models; carefully made with high quality materials (plexiglass, balsa, grass, puppets) and tools (laser cutter, 3d printers,..)
 
-At the 5th year of studies, within the Design Studio "City of Rooms" we curated an exhibition in a public gallery presenting the projects of the students. The exhibits were multikind (drawings, models, concepts, videos) and later became objects of discussion among the visitors: professors, students, student's families and all the public participated in the discussion. As the exhibition took place in the middle of the semester, we then had the chance to use the feedback in to further developing our designs.
-https://www.archisearch.gr/press/exhibition-volos-city-of-rooms/
+  At the 5th year of studies, within the Design Studio "City of Rooms" we curated an exhibition in a public gallery presenting the projects of the students. The exhibits were multikind (drawings, models, concepts, videos) and later became objects of discussion among the visitors: professors, students, student's families and all the public participated in the discussion. As the exhibition took place in the middle of the semester, we then had the chance to use the feedback in to further developing our designs.
+  https://www.archisearch.gr/press/exhibition-volos-city-of-rooms/
 
 4. Finally, my experience in the **4th role** of prototyping was within the course "NARRATIVE TRAILS: Designing [for] the Pelion hiking trails". The course was about mapping of a thematic route and then design and construct an outdoor small-scale intervention. Along the process, we designed multiple different sizes and versions for the game design (board, floor, wearable) which we tested with our classmates real-time. We ended up 'wrapping' the game around tree trunks. The game consisted of cards with figures designed by a local artist and the goal was to place the cards in the right position, according to the hints. The passengers could play while taking a break from their hike and at the same time get useful information about the culture of the trail.
 
