@@ -24,13 +24,10 @@ http://www.arch.uth.gr/en/studies/course/1774/7
   _ working models; made out of inferior materials (foam, paper, cardboard) and simple tools (cutter, scissors, pencils) which mainly served the purpose of shaping the volume.
   _ concept / interpretative models; made out of all kinds of materials and colours (from glitter to coffee beans) which were used as mediums to communicate the concept / story / idea.
   _ final models; carefully made with high quality materials (plexiglass, balsa, grass, puppets) and tools (laser cutter, 3d printers,..)
-
   At the 5th year of studies, within the Design Studio "City of Rooms" we curated an exhibition in a public gallery presenting the projects of the students. The exhibits were multikind (drawings, models, concepts, videos) and later became objects of discussion among the visitors: professors, students, student's families and all the public participated in the discussion. As the exhibition took place in the middle of the semester, we then had the chance to use the feedback in to further developing our designs.
-
   https://www.archisearch.gr/press/exhibition-volos-city-of-rooms/
   ![](../images/models.jpg)
 
 4. Finally, my experience in the **4th role** of prototyping was within the course "NARRATIVE TRAILS: Designing [for] the Pelion hiking trails". The course was about mapping of a thematic route and then design and construct an outdoor small-scale intervention. Along the process, we designed multiple different sizes and versions for the game design (board, floor, wearable) which we tested with our classmates real-time. We ended up 'wrapping' the game around tree trunks. The game consisted of cards with figures designed by a local artist and the goal was to place the cards in the right position, according to the hints. The passengers could play while taking a break from their hike and at the same time get useful information about the culture of the trail.
-
 http://www.arch.uth.gr/en/studies/course/1811/8
 ![](../images/narrative.jpg)
