@@ -6,7 +6,7 @@ hide:
 # Bootcamp
 
 
-![](../images/submission01/SUBMISSION_01_page-0001.jpg)
+![](images/submission01/SUBMISSION_01_page-0001.jpg)
 
 
 ![](../images/submission01/SUBMISSION_01_page-0002.jpg)
