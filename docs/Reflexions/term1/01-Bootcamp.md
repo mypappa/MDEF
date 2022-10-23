@@ -5,7 +5,9 @@ hide:
 
 # Bootcamp
 
+**The images are not here due to website troubleshooting. Soon to be fixed**
 
+![](../images/submission1/SUBMISSION_01_page-0001.jpg)
 ![](../images/submission1/SUBMISSION_01_page-0001.jpg)
 
 
