@@ -1,17 +1,19 @@
-**Role 1**: The prototype as an experimental component
+**Role 1**: The prototype as an experimental component  
 Prototyping the design itself
 
-**Role 2**: The prototype as a means of inquiry
-Prototyping objects that will later contribute / form the design. Instruments to collect, record and measure phenomena
+**Role 2**: The prototype as a means of inquiry  
+Prototyping objects that will later contribute / form the design.  
+Instruments to collect, record and measure phenomena
 
 **Role 3**: The prototype as a research archetype
-ex: showroom, exhibition, interactive process that gives information about the development
+e.g. showroom, exhibition, interactive process that gives information about the development
 
-**Role 4**: The process of prototyping as a vehicle for inquiry
-The research method: Can be used in a participatory workshop
+**Role 4**: The process of prototyping as a vehicle for inquiry  
+Prototyping as a research method  
+e.g. participatory workshop
 
 
-Looking back to my experience in design, I can recall using some of the above roles of prototyping, mostly during my studies in architecture. I was not used to the term 'prototyping', but while processing the meaning its potential roles, I have several experiences that match the categories.
+Taking a look back to my experience in design, I recall using some of the above roles of prototyping mostly during my studies in architecture. I was not used to the term 'prototyping' but while processing the meaning its potential roles, I have several experiences that match the categories.
 
 1. The **role 1**, which is maybe the most self-referential role, has not been one of my main practice tools since the projects I worked were usually in a non-prototypable scale. Nevertheless, at the 3rd year of my studies I participated in an extracurricular workshop for the design and manufacture of wooden benches in the exterior of the university. During the manufacturing process we tested the materials, the dimensions and proportions of the wooden planks, the amount and place of screws and other practical details. We were able to get instant feedback from the people passing by and test its durability before the final assembly.  
 Another experience of working with the 1st role was within the course "NARRATIVE TRAILS: Designing [for] the Pelion hiking trails". The course was about mapping of a thematic route and design and construct an outdoor small-scale intervention. Our intervention turned out to be a game assembled by hands with all its pieces made out of cardboard. Along the process we tested multiple different sizes and versions of the game (board, floor, wearable) with the help of our class. We ended up 'wrapping' the game around tree trunks: it consisted of cards with figures designed by a local artist and the goal was to place the cards in the right positions according to the hints. The passengers could play while taking a break from their hike and at the same time get useful information about the culture of the trail.  
