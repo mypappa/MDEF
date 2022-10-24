@@ -31,13 +31,14 @@ http://www.arch.uth.gr/en/studies/course/1774/7
   _ concept / interpretative models; made out of all kinds of materials and colours (from glitter to coffee beans) which were used as mediums to communicate the concept / story / idea.  
   _ final models; carefully made with high quality materials (plexiglass, balsa, grass, puppets) and tools (laser cutter, 3d printers,..).  
     ![](models.jpg)
+    In the 5th year of studies, within the Design Studio "City of Rooms" we curated an exhibition in a public gallery presenting the projects of the students. The exhibits were multikind (drawings, models, concepts, videos) and later became objects of discussion among the visitors: professors, students, student's families and all the public participated in the discussion. As the exhibition took place in the middle of the semester, we then had the chance to use the feedback in to further developing our designs.
+    https://www.archisearch.gr/press/exhibition-volos-city-of-rooms/
 
-  In the 5th year of studies, within the Design Studio "City of Rooms" we curated an exhibition in a public gallery presenting the projects of the students. The exhibits were multikind (drawings, models, concepts, videos) and later became objects of discussion among the visitors: professors, students, student's families and all the public participated in the discussion. As the exhibition took place in the middle of the semester, we then had the chance to use the feedback in to further developing our designs.  
-  https://www.archisearch.gr/press/exhibition-volos-city-of-rooms/
     ![](exhibition2.jpg)  
 
-    ![](exhibition_people.jpg)  
-    4. Finally, my experience in the **4th role** is yet to come. I am very intrigued by the idea of using the prototyping process as a means to generate knowledge, but I haven't had the chance to use it before. Given the fact that I am interested in collective/embodied design experiences, the idea of a participatory workshop or action that could enlighten the design sounds alluring.
+    ![](exhibition_people.jpg)
+
+4. Finally, my experience in the **4th role** is yet to come. I am very intrigued by the idea of using the prototyping process as a means to generate knowledge, but I haven't had the chance to use it before. Given the fact that I am interested in collective/embodied design experiences, the idea of a participatory workshop or action that could enlighten the design sounds alluring.
 
 Without a doubt the city of Barcelona can offer endless opportunities for such experiments so I am
 looking forward to use them with the MDEF group and other unexpected participants.
