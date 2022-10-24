@@ -16,8 +16,8 @@ nav:
       - My workspace:  Design Studio/my workspace.md
   - Reflections :
       - Term 1:
-          - Bootcamp: Reflexions/term1/01-Bootcamp.md
-          - AoWS: Reflexions/term1/02-Atlas of Weak Signals.md
+          - Bootcamp: Reflexions/term1/bootcamp/01-Bootcamp.md
+          - AoWS: Reflexions/term1/aows/02-Atlas of Weak Signals.md
           - Bio & Agri Zero: Reflexions/term1/03-Bio & Agri Zero.md
       - Term 2:
           - digi: term2/index.md
