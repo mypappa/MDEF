@@ -28,6 +28,8 @@ http://www.arch.uth.gr/en/studies/course/1811/8
 
 ## Role 2
 For my thesis project I used the **role 2** of prototyping in order to collect more information about the city. The biggest part of the project was research, as we were dealing with much complex areas (archaeology, cement factory, forest department and more). Not knowing yet what was the purpose of the project or what it was going to look like, we created a questionnaire in order to collect more data. We knew the issues that we wanted to address, but not the actual purpose of our design so we wanted to know the public's views on the matter. Our topic was the environmental crisis, so we took advantage of a public demonstration happening on a specific day and went in the streets with 200 printed questionnaires, asking people to participate. The project took a radical turn which was indirectly related to the outcomes of that day.
+
+
 Another experience of working with the 2nd role was within the course "Structural [Trans]-Formations". The course objective was to explore the structural concept of a ‘lightweight’ structure that will host a performance event. The course attempted to approach the structural concept as a design resource and investigate the physical model as a tool for diagrammatic reasoning. The study was systematically recorded in the form of a digital diary (blog) in order to demonstrate alternatives and justify final choices.  
 http://www.arch.uth.gr/en/studies/course/1774/7
 
