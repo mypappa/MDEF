@@ -1,6 +1,6 @@
 # About
 
-![](arch_uth.jpg)width="50%" height="50%
+![](profile2.jpg)
 
 Myrto-Eirini Pappa
 
@@ -10,6 +10,7 @@ Myrto-Eirini Pappa
 
 Areas of interest:  
 - post-natural environments  
+- augmented creativity  
 - new ecologies: Dissolving the nature / culture binominal, queer ecologies  
 - Future past  
 - Subconscious intelligence (SI)  
