@@ -36,4 +36,6 @@ http://www.arch.uth.gr/en/studies/course/1774/7
     ![](exhibition_people.jpg)
 
 
-4. Finally, my experience in the **4th role** is yet to come. I am very intrigued by the idea of organizing a participatory design event to generate knowledge, I never had the chance to realize it until now. If I have to imagine an abstract way of using this role, it would be   
+4. Finally, my experience in the **4th role** is yet to come. I am very intrigued by the idea of using the prototyping process as a means to generate knowledge, but I haven't had the chance to use it before. Given the fact that I am interested in collective/embodied design experiences, the idea of a participatory workshop or action that could enlighten the design sounds alluring.  
+Without a doubt the city of Barcelona can offer endless opportunities for such experiments so I am
+looking forward to use them with the MDEF group and other unexpected participants.

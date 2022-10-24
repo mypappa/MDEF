@@ -1,6 +1,6 @@
 # About
 
-![](profile2.jpg)
+![](profile.jpg)
 
 Myrto-Eirini Pappa
 
