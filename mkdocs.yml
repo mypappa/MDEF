@@ -9,7 +9,7 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
 nav:
-  - Home: index.md
+  - Home: home.md
   - About: about/me.md
   - Design Studio:
       - The roles of prototyping: Design Studio/prototyping roles/the roles of prototyping.md
