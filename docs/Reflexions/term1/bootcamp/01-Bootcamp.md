@@ -1,11 +1,11 @@
 # Bootcamp
-## vision - inspiration - goals
+![](anything.jpeg)
+## my vision - inspiration - goals
 ![](vision.jpg)
 
 ## my fight
 ![](my fight.jpg)
 
-## fight poster
 ![](my fight poster.jpg)
 
 ## personal ID
