@@ -1,6 +1,6 @@
 # About
 
-![](arch_uth.jpg)
+![](arch_uth.jpg)width="50%" height="50%
 
 Myrto-Eirini Pappa
 

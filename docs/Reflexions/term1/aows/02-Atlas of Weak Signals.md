@@ -4,7 +4,7 @@ hide:
 ---
 
 # Atlas of Weak Signals
-![](../../images/myboard2.jpg)
+![](myboard2.jpg)
 ## BOARD TIMELINE
 **The board is not here due to website troubleshooting. Soon to be fixed**
 
