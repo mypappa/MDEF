@@ -1,7 +1,7 @@
 # Bootcamp
 ## vision - inspiration - goals
-
 ![](vision.jpg)
+
 ## my fight
 ![](my fight.jpg)
 
