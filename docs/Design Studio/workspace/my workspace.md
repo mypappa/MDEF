@@ -1,2 +1,2 @@
 ## mapping my augmented workspace
-![](../images/workspace.jpg)
+![](workspace.jpg)
