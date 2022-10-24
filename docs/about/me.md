@@ -4,9 +4,9 @@
 
 Myrto-Eirini Pappa
 
-.Architect in recovery  
-.Researcher of how to survive the 9-5 nightmare  
-.Currently exploring the boundaries of Design  
+Architect in recovery  
+Researcher of how to survive the 9-5 nightmare  
+Currently exploring the boundaries of Design  
 
 Areas of interest:  
 - post-natural environments  
