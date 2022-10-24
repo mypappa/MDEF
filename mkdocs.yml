@@ -12,8 +12,8 @@ nav:
   - Home: index.md
   - About: about/me.md
   - Design Studio:
-      - The roles of prototyping: Design Studio/the roles of prototyping.md
-      - My workspace:  Design Studio/my workspace.md
+      - The roles of prototyping: Design Studio/prototyping roles/the roles of prototyping.md
+      - My workspace:  Design Studio/workspace/my workspace.md
   - Reflections :
       - Term 1:
           - Bootcamp: Reflexions/term1/bootcamp/01-Bootcamp.md
