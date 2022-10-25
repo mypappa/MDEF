@@ -1,2 +1,2 @@
-## mapping my augmented workspace
+## A 1st person perspective on research through design
 ![](workspace.jpg)
