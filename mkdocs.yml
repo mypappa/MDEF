@@ -34,7 +34,7 @@ extra:
     - icon: fontawesome/brands/medium
       link: https://medium.com/
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
+      link: https://www.instagram.com/myrt.is/
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/
     - icon: fontawesome/brands/linkedin
@@ -52,9 +52,9 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
     code: Cutive Mono
-  icon:
-    logo: material/memory
-  favicon: images/favicon.svg
+
+  logo: material/memory
+  favicon: images/bottle.png
   features:
     - instant
     - navigation.expand
