@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Atlas of Weak Signals
+# Atlas of Weak Signals <FONT COLOR=purple>
 ![](myboard2.jpg)
 ## BOARD TIMELINE
 
