@@ -11,12 +11,12 @@ e.g. showroom, exhibition, interactive process that gives information about the 
 **Role 4**: The process of prototyping as a vehicle for inquiry  
 Prototyping as a research method  
 e.g. participatory workshop
+![](roles.png)  
+
 
 
 Taking a look back to my experience in design, I recall using some of the above roles of prototyping mostly during my studies in architecture. I was not used to the term 'prototyping' but while processing the meaning its potential roles, I have several experiences that match the categories.  
 
-
-  
 
 ## Role 1
 The **role 1**, which is maybe the most self-referential role, has not been one of my main practice tools since the projects I worked were usually in a non-prototypable scale. Nevertheless, at the 3rd year of my studies I participated in an extracurricular workshop for the design and manufacture of wooden benches in the exterior of the university. During the manufacturing process we tested the materials, the dimensions and proportions of the wooden planks, the amount and place of screws and other practical details. We were able to get instant feedback from the people passing by and test its durability before the final assembly.  
