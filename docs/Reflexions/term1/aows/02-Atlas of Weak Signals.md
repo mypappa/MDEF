@@ -6,7 +6,8 @@ hide:
 # Atlas of Weak Signals  
 ![](myboard2.jpg)
 <FONT COLOR=purple>
-## BOARD TIMELINE <FONT COLOR=purple>
+## BOARD TIMELINE
+<FONT COLOR=purple>
 
 <FONT COLOR=black>
 Starting from my architectural background, I was introduced from the early years of my studies to the process of creative thinking, to building strong concepts and ideas with a more pragmatic and technical aspect. I always used storytelling as a medium to develop a new project that addresses the mega-phenomena around us. Coming from a semi-technical school, I also discovered the power of technology and its fascinating physical and digital outcomes.
