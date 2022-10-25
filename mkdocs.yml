@@ -54,7 +54,7 @@ theme:
     code: Cutive Mono
 
   logo: material/memory
-  favicon: images/bottle.png
+  favicon: images/holol.jpg
   features:
     - instant
     - navigation.expand
