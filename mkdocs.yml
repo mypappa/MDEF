@@ -53,8 +53,9 @@ theme:
     text: Be Vietnam
     code: Cutive Mono
 
-  logo: docs/images/holo.png
-  favicon: docs/images/holo.png
+  logo: "/docs/images/holo.png"
+
+  favicon: "/docs/images/holo.png"
   features:
     - instant
     - navigation.expand
