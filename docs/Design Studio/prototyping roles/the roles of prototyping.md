@@ -11,6 +11,8 @@ e.g. showroom, exhibition, interactive process that gives information about the 
 **Role 4**: The process of prototyping as a vehicle for inquiry  
 Prototyping as a research method  
 e.g. participatory workshop  
+
+###Comparative overview
 ![](roles.jpg)  
 
 
