@@ -6,7 +6,6 @@ hide:
 # Atlas of Weak Signals
 ![](myboard2.jpg)
 ## BOARD TIMELINE
-**The board is not here due to website troubleshooting. Soon to be fixed**
 
 
 Starting from my architectural background, I was introduced from the early years of my studies to the process of creative thinking, to building strong concepts and ideas with a more pragmatic and technical aspect. I always used storytelling as a medium to develop a new project that addresses the mega-phenomena around us. Coming from a semi-technical school, I also discovered the power of technology and its fascinating physical and digital outcomes.
@@ -18,10 +17,11 @@ developed with my colleague Maria. The project triggers the ecological crisis we
 Coming to today, while configuring my current fight and its multiple dimensions, I came across to the concept of filter bubbles. Having already a background in questioning the "common truths" about the environment, I projected this point of view generally on the ideological isolations we live in. The AoWS card game gave me a storm of new interesting topics, some more relevant to my previous approach, some less. Cards like "Dismantling filter bubbles", "Truth Wars", "Fight Anthropocene conflicts" and "Ancestral Futures" immediately caught my eye and selected them as the base of my story.
 (At this point I felt stuck in over-observing and critically evaluating ideas, trying to find meaning, instead of focusing in finding new inputs).
 While trying to collect the full spectrum of my interests for my board, I tried to retrieve information from my deeper personal self, which I never dared to explore or include in my projects / experiments.
-I have had the quote "Subconscious is God" in my mind the last months from a book that I read and wrote that too, without any idea of its relevance or potential use.
-After the presentation of Mariana, I suddenly realized that there might actually be potential. Along with AI and machine learning, a new area of opportunities opened up for me. I Realized that it somehow connects with my initial fight about the illusionary world and the filter bubbles I selected from the atlas.
+I have always been intrigued by the way human brain and body function as a whole and form our behaviours, habits and our being. While reading the book "The Road the Less Travelled" by M. Scott Peck, I came across the notion "Subconscious is God" and it stayed in my mind ever since. I didn't know how and if it could be relevant to my work but I decided to write it as an interest anchor. After attending a presentation about collective trauma in AI, I dived into long-drawn research about subconsciousness, spirituality and trauma and a whole new area of design opportunities opened up for me.  
 
-It's about getting closer to knowing and understanding.
+I Realized that it somehow connects with my initial fight about the illusionary world and the filter bubbles from the atlas.
+
+It's all about going deeper in knowing and understanding.
 
 Many new questions were raised:
 How can we bring ourselves closer to our subconscious and the richness of information that is there encrypted?
