@@ -18,3 +18,5 @@ Areas of interest:
 *soon to be called :  
 - an alumni  
 - an advocate
+
+[click](https://issuu.com/myrtopappa9/docs/portfolio) to view my architecture and urban design portfolio 
