@@ -8,7 +8,8 @@
     --md-footer-fg-color--light:  rgb(32, 32, 32);
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
-    --md-typeset-a-color: rgb(12, 240, 190);
+    --md-typeset-a-color: rgb(237, 23, 252);  #selected
+    
 
 }
 
@@ -30,7 +31,7 @@
 .cardContent {
   padding: 16px;
   font-size: 16px;
-  color: rgb(32, 32, 32);
+  color: rgb(237, 23, 252);
 }
 
 .md-typeset h2 {
@@ -38,7 +39,7 @@
 }
 
 .md-typeset h1 {
-    color: #ca03fc;
+    color: #ed17fc;
 }
 
 .mdc-typography--body2 {
