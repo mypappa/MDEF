@@ -2,10 +2,10 @@
 hide:
     - toc
 ---
-<FONT COLOR=purple>
+<FONT COLOR=#f48ff7>
 # Atlas of Weak Signals  
 ![](myboard2.jpg)
-<FONT COLOR=purple>
+<FONT COLOR=#f48ff7>
 ## BOARD TIMELINE
 
 
