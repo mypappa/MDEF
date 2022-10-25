@@ -37,6 +37,10 @@
     font-weight: 500;
 }
 
+.md-typeset h1 {
+    color: #ca03fc;
+}
+
 .mdc-typography--body2 {
     font-weight: 300;
     font-size: 14px;
