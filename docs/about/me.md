@@ -6,7 +6,7 @@ Myrto-Eirini Pappa
 
 Architect in (re)dis-covery  
 Researcher of how to survive the 9-5 nightmare  
-Currently exploring the boundaries of Design  
+Explorer at the boundaries of design  
 
 Areas of interest:  
 - post-natural environments  
