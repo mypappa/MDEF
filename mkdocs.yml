@@ -35,8 +35,6 @@ extra:
       link: https://medium.com/
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/myrt.is/
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/
     - icon: fontawesome/brands/linkedin
       link: "https://www.linkedin.com/in/"
     - icon: fontawesome/brands/github
@@ -47,7 +45,7 @@ theme:
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: white
-    accent: <#a000a3>
+    accent: purple
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
