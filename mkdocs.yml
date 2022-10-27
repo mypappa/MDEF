@@ -9,7 +9,6 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
 nav:
-
   - Home: index.md
   - About: about/me.md
   - Term 1:
@@ -26,10 +25,7 @@ nav:
 
     - Reflexion:
       - AoWS: term1/reflexion/aows/02-Atlas of Weak Signals.md
-  - Term 2:
-          - digi: term2/index.md
-          - studio: term2/index.md
-  - Term 3: term3/index.md
+
 
 
 
