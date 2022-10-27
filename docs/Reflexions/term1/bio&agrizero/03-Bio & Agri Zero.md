@@ -1,12 +1,10 @@
----
-hide:
-    - toc
----
-
 # Bio & Agri Zero  
 
-###Assignment_01  
-Photo reflexion  
+### News reflexion  
+![](article.jpg)
+![](article2.jpg)
 
-###Assignment_02
-News reflexion
+### Photo reflexion
+
+
+### Photo reflexion
