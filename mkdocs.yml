@@ -14,8 +14,8 @@ nav:
   - Term 1:
     - Application:
       - Design Studio:
-          - The roles of prototyping: term1/application/design studio/prototyping roles/the roles of prototyping.md
-          - My workspace: term1/application/workspace/my workspace.md
+        - The roles of prototyping: term1/application/design studio/prototyping roles/the roles of prototyping.md
+        - My workspace: term1/application/workspace/my workspace.md
       - Bootcamp: term1/application/bootcamp/01-Bootcamp.md
 
     - Exploration:
