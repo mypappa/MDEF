@@ -1,10 +1,10 @@
 # Bio & Agri Zero  
 
-### News reflexion  
+### News article reflexion  
 ![](article.jpg)
 ![](article2.jpg)
 
-### Photo reflexion
+### Experiment photo reflexion
+ ![](samples.jpg)
 
-
-### Photo reflexion
+### group photo reflexion
