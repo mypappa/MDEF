@@ -9,12 +9,13 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
 nav:
+
   - Home: index.md
   - About: about/me.md
   - Term 1:
     - Application:
       - Design Studio:
-          - The roles of prototyping: term1/application/the roles of prototyping.md
+          - The roles of prototyping: term1/application/design studio/prototyping roles/the roles of prototyping.md
           - My workspace: term1/application/workspace/my workspace.md
       - Bootcamp: term1/application/bootcamp/01-Bootcamp.md
 
