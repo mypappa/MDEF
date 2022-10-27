@@ -11,23 +11,21 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 nav:
   - Home: index.md
   - About: about/me.md
-- Term 1:
-  - Application:
+  - Term 1:
+    - Application:
       - Design Studio:
           - The roles of prototyping: term1/application/the roles of prototyping.md
           - My workspace: term1/application/workspace/my workspace.md
       - Bootcamp: term1/application/bootcamp/01-Bootcamp.md
 
-  - Exploration:
+    - Exploration:
       - Bio & Agri Zero: term1/exploration/bio&agrizero/03-Bio&Agri Zero.md
 
-  - Instrumentation:
+    - Instrumentation:
 
-  - Reflexion:
+    - Reflexion:
       - AoWS: term1/reflexion/aows/02-Atlas of Weak Signals.md
-
-
-- Term 2:
+  - Term 2:
           - digi: term2/index.md
           - studio: term2/index.md
   - Term 3: term3/index.md
