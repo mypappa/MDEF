@@ -10,5 +10,5 @@ click [here](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_
 ### Experiments
 ![](samples.JPEG)
 
-During the course we had the chance to create our own DIY experiments, which played a very important role to the whole experience of the class.
+During the course we had the chance to perform our own DIY experiments and test our hypothesis by recreating the lab conditions from scratch. In that way, not only we gained theoretical knowledge, but we which changed a lot our overall experience of the class. After more empirical
 ### Team work
