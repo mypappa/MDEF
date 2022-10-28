@@ -4,6 +4,7 @@ hide:
 ---
 
 # Atlas of Weak Signals  
+[Structure of the course](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_%28aows%29/)
 ![](myboard2.jpg)
 
 ## BOARD TIMELINE
