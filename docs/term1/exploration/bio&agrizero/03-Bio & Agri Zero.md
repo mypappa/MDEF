@@ -5,7 +5,7 @@ click [here](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_
 
 ### Article
 "Sex of Researcher Influences Ketamine's Effects in Mice"
-![](article.jpg)
+![](articlee.jpg)
 
 
 ### Experimenting  
