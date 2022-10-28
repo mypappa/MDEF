@@ -2,12 +2,12 @@
 hide:
     - toc
 ---
-
 # Atlas of Weak Signals  
-[Structure of the course](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_%28aows%29/)
+track: Reflexion
+click [here](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_%28aows%29/) to see the structure of the course
 ![](myboard2.jpg)
 
-## BOARD TIMELINE
+### BOARD TIMELINE
 
 <FONT COLOR=black>
 Starting from my architectural background, I was introduced from the early years of my studies to the process of creative thinking, to building strong concepts and ideas with a more pragmatic and technical aspect. I always used storytelling as a medium to develop a new project that addresses the mega-phenomena around us. Coming from a semi-technical school, I also discovered the power of technology and its fascinating physical and digital outcomes.
