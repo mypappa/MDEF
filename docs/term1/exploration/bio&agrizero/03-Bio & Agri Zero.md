@@ -4,8 +4,12 @@ track: Exploration
 click [here](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_2022_23/biology_%26_agri_zero_2022_23/) to see the structure of the course  
 
 ### Article
-"Sex of Researcher Influences Ketamine's Effects in Mice"
-![](articlee.jpg)
+**"Sex of Researcher Influences Ketamine's Effects in Mice"**
+The article of the "New Scientist" 
+
+https://www.newscientist.com/article/2337160-the-sex-of-the-researcher-can-influence-results-of-mouse-experiments/  
+
+https://www.the-scientist.com/news-opinion/sex-of-researcher-influences-ketamine-s-effects-in-mice-study-70468
 
 
 ### Experimenting  
