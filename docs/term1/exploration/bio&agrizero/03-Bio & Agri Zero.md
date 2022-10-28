@@ -30,7 +30,7 @@ To some extent we faced the challenges of practicing experiments, like the criti
 
 
 ### Team work makes the *dream* work
-![](bio group.jpeg)
+![](bio group2.jpeg)
 While projecting our dirty skin on the laptop through the electronic microscope... amazingly disgusting  
 
 Team: Claudia, Korbinian, Myrto, Stella (Claudia behind the camera)
