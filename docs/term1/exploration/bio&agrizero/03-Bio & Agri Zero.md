@@ -1,5 +1,5 @@
 # Bio & Agri Zero
-## Track: Exploration
+track: Exploration
 
 click [here](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_2022_23/biology_%26_agri_zero_2022_23/) to see the structure of the course  
 
@@ -26,11 +26,11 @@ Our introduction to the micro-world. We had the chance to use 4 different micros
 
 4. Spirulina and Kombucha  
 
-To some extent we faced the challenges of practicing experiments, like the critical importance of working with high accuracy and recording **every** detail and variable during the process. In this way, the knowledge  we gained was more empirical, collective and definitely more enjoyable.
+To some extent we faced the challenges of practicing experiments, like the critical importance of working with high accuracy and recording **every** detail and variable during the process. In this way, the knowledge  we gained was more empirical, collective and definitely more enjoyable.  
 
 
 ### *Team* work makes the *dream* work
-![](bio group2.jpeg)
-While projecting our dirty skin on the laptop through the electronic microscope... amazingly disgusting  
+![](bio group2.jpeg)  
+While projecting our dirty skin on the laptop through the electronic microscope...   amazingly disgusting   
 
 Team: Claudia, Korbinian, Myrto, Stella (Claudia behind the camera)
