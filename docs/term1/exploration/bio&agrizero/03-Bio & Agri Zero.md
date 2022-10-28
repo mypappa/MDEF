@@ -3,16 +3,26 @@ track: Exploration
 
 click [here](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_2022_23/biology_%26_agri_zero_2022_23/) to see the structure of the course  
 
-### Article
-**"Sex of Researcher Influences Ketamine's Effects in Mice"**
-The article of the "New Scientist" 
+## Article: "Sex of Researcher Influences Ketamine's Effects in Mice"  
+
+**Todd Gould’s lab members couldn’t replicate their experiments.**    
+
+As New Scientist reports, they got different results when testing the antidepressant effects of ketamine in mice depending on which members of the lab conducted the experiment, which involved measuring how long the mice would swim when placed in a tank. Gould, a psychiatry researcher at the University of Maryland School of Medicine, had read a 2014 study that found the presence of men, but not women, dulls mice’s pain, and according to a university news release, his team also heard anecdotes from other labs about experimental results that seemed to be influenced by researcher sex. So they decided to test whether this could explain the inconsistencies they saw.  
+
+The team reported in an August 30 Nature Neuroscience paper that the sex of researchers working with mice did indeed influence outcomes involving ketamine treatment, with **the scent of human males triggering the release of a hormone in mice’s brains that enabled the drug to work as an antidepressant. The findings suggest that researcher sex may confound animal research in a variety of experiments**.
+
+*“Our findings in mice suggests that activating a specific stress circuit in the brain may be a way to improve ketamine treatment”*  Gould says in the university announcement.
+
+The researchers also delved into the mechanisms behind that effect, and found that when men administered ketamine to the mice, a hormone called corticotropin-releasing factor (CRF) was released in an area of the mouse hippocampus associated with depression, enabling the ketamine’s antidepressant effect. This didn’t happen when women administered the drug unless they accompanied the ketamine with a dose of CRF.
+
+Gerlinde Metz of the University of Lethbridge in Canada tells New Scientist that researcher sex is **just one of many variables** that can affect animal experiments; others include their shipment to the lab, diet, and even the season. She says researchers should try to control for the effects of these variables as best they can, although it may be **impossible** to do so completely.
 
 https://www.newscientist.com/article/2337160-the-sex-of-the-researcher-can-influence-results-of-mouse-experiments/  
 
 https://www.the-scientist.com/news-opinion/sex-of-researcher-influences-ketamine-s-effects-in-mice-study-70468
 
 
-### Experimenting  
+## Experiment  
 ![](samples2.JPEG)  
 
 During the course we had the chance to perform our own DIY experiments in 4 groups and apply the theory we were taught in practice. With the guidance of Nuria and Jordi, we created from scratch the lab conditions to test our hypothesis, which we then shared and compared with those of the other groups:
@@ -33,7 +43,7 @@ Our introduction to the micro-world. We had the chance to use 4 different micros
 To some extent we faced the challenges of practicing experiments, like the critical importance of working with high accuracy and recording **every** detail and variable during the process. In this way, the knowledge  we gained was more empirical, collective and definitely more enjoyable.  
 
 
-### *Team* work makes the *dream* work
+## *Team* work makes the *dream* work
 ![](bio group2.jpeg)  
 While projecting our dirty skin on the laptop through the electronic microscope...   amazingly disgusting   
 
