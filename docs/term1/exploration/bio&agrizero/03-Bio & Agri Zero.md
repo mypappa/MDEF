@@ -9,7 +9,7 @@ click [here](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_
 
 
 ### Experimenting  
-![](samples.JPEG)  
+![](samples2.JPEG)  
 
 During the course we had the chance to perform our own DIY experiments in 4 groups and apply the theory we were taught in practice. With the guidance of Nuria and Jordi, we created from scratch the lab conditions to test our hypothesis, which we then shared and compared with those of the other groups:
 
@@ -29,7 +29,7 @@ Our introduction to the micro-world. We had the chance to use 4 different micros
 To some extent we faced the challenges of practicing experiments, like the critical importance of working with high accuracy and recording **every** detail and variable during the process. In this way, the knowledge  we gained was more empirical, collective and definitely more enjoyable.
 
 
-### Team work makes the *dream* work
+### *Team* work makes the *dream* work
 ![](bio group2.jpeg)
 While projecting our dirty skin on the laptop through the electronic microscope... amazingly disgusting  
 
