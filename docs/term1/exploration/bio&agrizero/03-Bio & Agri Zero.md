@@ -24,8 +24,8 @@ This one was probably my favourite. Our task was to DIY ph paper from red cabbag
 4. Spirulina and Kombucha  
 Last day, we got a treat from Nuria and Jordi. They showed us how to cultivate spirulina and measure its consistency using a DIY, made out of an empty yogurt case. At the end of the class we tasted the spirulina paste on a baguette that they brought us. The taste gave mixed reactions to the class..  
 
-Comment  
-To some extent we faced the challenges of practicing experiments, like the critical importance of working with high accuracy and recording **every** detail and variable during the process. This way, the knowledge we gained was more empirical, collective and definitely more enjoyable.  
+Comment*  
+To some extent we faced the challenges of practicing experiments, like the critical importance of working with high accuracy and recording every single detail about the process. Practicing experiments in class helped us generate knowledge in a more empirical, collective and enjoyable way.  
 
 
 ## Article: "Sex of Researcher Influences Ketamine's Effects in Mice"  
