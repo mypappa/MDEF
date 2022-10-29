@@ -1,7 +1,6 @@
-# Bio & Agri Zero
+# [Bio & Agri Zero](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_2022_23/biology_%26_agri_zero_2022_23/)
 track: Exploration  
 
-click [here](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_2022_23/biology_%26_agri_zero_2022_23/) to see more about the course  
 
 ## Experiments  
 ![](samples2.JPEG)  
