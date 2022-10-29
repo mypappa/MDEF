@@ -9,7 +9,7 @@ Drying the auxetic sterile dishes
 
 During the course we had the chance to perform our own DIY experiments in the classroom in order to apply the theory we were taught in practice. We were divided in 4 groups and with the guidance of Nuria and Jordi, we created from scratch the lab conditions to test our hypothesis, which we then shared and compared with those of the other groups. We did 4 different experiments:
 
-1. Microorganisms
+1. Microorganisms  
 We created a sterile environment and prepared sterile petri dishes. Then we made the auxetic media for lactobacillus and collected microorganisms from our environment. After one night in the warm incubator, they had already visibly colonized the dishes...  
 
 2. Bioplastics  
@@ -24,7 +24,7 @@ This one was probably my favourite. Our task was to DIY ph paper from red cabbag
 4. Spirulina and Kombucha  
 Last day, we got a treat from Nuria and Jordi. They showed us how to cultivate spirulina and measure its consistency using a DIY, made out of an empty yogurt case. At the end of the class we tasted the spirulina paste on a baguette that they brought us. The taste gave mixed reactions to the class..  
 
-*Comment  
+Comment  
 To some extent we faced the challenges of practicing experiments, like the critical importance of working with high accuracy and recording **every** detail and variable during the process. This way, the knowledge we gained was more empirical, collective and definitely more enjoyable.  
 
 
@@ -40,9 +40,10 @@ Gerlinde Metz of the University of Lethbridge in Canada tells New Scientist that
 - https://www.the-scientist.com/news-opinion/sex-of-researcher-influences-ketamine-s-effects-in-mice-study-70468  
 
 ## Article reflection  
-When I read the title of this article, at first it caught my attention by its statement. The human's gender role in mice experiments sounds definitely an unexpected and interesting observation, and so is the possible benefits to the medicine's effect.  But this is not the reason I chose this article for the assignment.  
-From the very first day of the course until the very last one, I strongly remember Nuria stressing out the importance of keeping track of the experiment's conditions: the exact ingredients we use in case we don't follow the recipes every single variable that can possibly affect the results. Truth is, there will always be a mistake which will lead to some improvising. But still, we can always be aware of it.  
-So when I read that such an unexpected, supposedly irrelevant factor like the gender can affect the experiment's results, I really understood how complex it can be. The scientists couldn't replicate the experiment even in such an advanced and professional case. I realized that even when we think we control all of the parameters and be extremely precise, there can always be a surprise, some little thing that we miss which might have a dramatic importance. I find this very frustrating, demanding and **fascinating**. I hope to experience those feelings of discovery within my design journey.  
+When I read the title of this article, at first it caught my attention because of the statement. The human's gender role in mice experiments sounds definitely an unexpected and interesting observation, so as the possible benefits to the medicine's effect in humans. But this was not the reason I chose this article for the assignment.  
+From the very first until the last day of the course Nuria was strongly stressing out the importance of keeping track of the experiment's conditions, like any slight modification we make in our recipes and keeping track of every single variable that can possibly affect the results. Truth is, it has been almost impossible for us not to make any mistake or improvising a little. But at least in our case we could still be aware of it.  
+So when I read that such an unexpected, supposedly irrelevant factor like the gender can affect the experiment's results, I really understood how complex it can get. The scientists couldn't replicate the experiment even in such an advanced and professional level. I realized that even when we think we control all of the parameters and be extremely precise, there can always be a surprise. There is going to be a tiny detail that we miss and might have a dramatic influence.  
+I find this process very frustrating, demanding and **fascinating**. I am hoping to experience those multi coloured feelings of discovery within my MDEF journey.  
 
 ## *Team* work makes the *dream* work
 ![](bio group2.jpeg)  
