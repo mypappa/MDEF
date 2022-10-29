@@ -2,8 +2,9 @@
 
 ![](profile.jpg)
 
-Myrto-Eirini Pappa
-
+Myrto - Eirini Pappa  
+Μυρτώ - Ειρήνη Παππά  
+  
 Architect in (re)dis-covery  
 Researcher of how to survive the 9-5 nightmare  
 Explorer at the boundaries of design  
