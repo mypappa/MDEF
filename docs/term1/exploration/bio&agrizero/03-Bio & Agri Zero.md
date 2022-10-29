@@ -16,7 +16,7 @@ We created a sterile environment and prepared sterile petri dishes. Then we made
 To my surprise, bioplastic is a very easy and simple material to "cook" in only a few minutes by only 3 ingredients: hydrogen, alcohol and carbon chain. After preparing our apple infused plastic mix, we poured it into the molds and the next day we had our first DIY soft and sparkly bioplastics.  
 
 3. Microscopy  
-Our introduction to the micro-world. We had the chance to use 4 different microscopes and prepare the slide samples of fish embryos. It was very impressive to see with one's own eyes so much detail in living organisms. Also interesting was the technical side of the microscope and the way it produces such magnification with the reflexion of the light.  
+Our introduction to the micro-world. We had the chance to use 4 different microscopes and prepare the slide samples of fish embryos and other interesting cases. It was very impressive to see with one's own eyes so much detail in living organisms. Also interesting was the technical side of the microscope and the way it produces such magnification with the reflexion of the light.  
 
 3. PH paper  
 This one was probably my favourite. Our task was to DIY ph paper from red cabbage extract. We cut the cabbage and then blended it until it was liquid. Then we cut small paper pieces which we infused with the juice of the cabbage. Once they dried, we tested the reaction in its colour by dropping various solutions, from very basic to very acidic. e.g. bleach, lemon juice, vinegar, salt. The result was very colourful!  
@@ -47,6 +47,6 @@ I find this process very frustrating, demanding and **fascinating**. I am hoping
 
 ## *Team* work makes the *dream* work
 ![](bio group2.jpeg)  
-While projecting our dirty skin on the laptop through the electronic microscope...   amazingly disgusting   
+While projecting our dirty skin on the laptop through the electronic microscope.   Amazingly disgusting   
 
 Team: Claudia, Korbinian, Myrto, Stella (Claudia behind the camera)
