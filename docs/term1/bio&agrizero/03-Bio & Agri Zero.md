@@ -27,7 +27,8 @@ Comment*
 To some extent we faced the challenges of practicing experiments, like the critical importance of working with high accuracy and recording every single detail about the process. Practicing experiments in class helped us generate knowledge in a more empirical, collective and enjoyable way.  
 
 
-## Article: "Sex of Researcher Influences Ketamine's Effects in Mice"  
+## Article  
+"Sex of Researcher Influences Ketamine's Effects in Mice"  
 
 "As New Scientist reports, the researchers got different results when testing the antidepressant effects of ketamine in mice depending on which members of the lab conducted the experiment, which involved measuring how long the mice would swim when placed in a tank. Gould, a psychiatry researcher at the University of Maryland School of Medicine, had read a 2014 study that found the presence of men, but not women, dulls mice’s pain, and according to a university news release, his team also heard anecdotes from other labs about experimental results that seemed to be influenced by researcher sex. So they decided to test whether this could explain the inconsistencies they saw, since they **couldn’t replicate** their experiments.    
 The team reported in an August 30 Nature Neuroscience paper that the sex of researchers working with mice did indeed influence outcomes involving ketamine treatment, with **the scent of human males triggering the release of a hormone in mice’s brains that enabled the drug to work as an antidepressant. The findings suggest that researcher sex may confound animal research in a variety of experiments**.  
