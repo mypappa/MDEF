@@ -12,18 +12,15 @@ e.g. showroom, exhibition, interactive process that gives information about the 
 Prototyping as a research method  
 e.g. participatory workshop  
 
+###Comparative overview
+![](roles.jpg)   
+
+Taking a look back to my experience in design, I recall using some of the above roles of prototyping mostly during my studies in architecture. I was not used to the term 'prototyping' but while processing the meaning its potential roles, I have several experiences that match the categories.  
 <a href="#" class="previous">&laquo; Previous</a>
 <a href="#" class="next">Next &raquo;</a>
 
 <a href="#" class="previous round">&#8249;</a>
 <a href="#" class="next round">&#8250;</a>  
-
-###Comparative overview
-![](roles.jpg)  
-
-
-
-Taking a look back to my experience in design, I recall using some of the above roles of prototyping mostly during my studies in architecture. I was not used to the term 'prototyping' but while processing the meaning its potential roles, I have several experiences that match the categories.  
 
 
 ## Role 1
