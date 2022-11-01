@@ -4,6 +4,7 @@ track: Exploration
 
 ## Experiments  
 ![](samples2.JPEG)  
+<FONT SIZE=14px>
 Drying the auxetic sterile dishes  
 
 During the course we had the chance to perform our own DIY experiments in the classroom in order to apply the theory we were taught in practice. We were divided in 4 groups and with the guidance of Nuria and Jordi, we created from scratch the lab conditions to test our hypothesis, which we then shared and compared with those of the other groups. We did 4 different experiments:
