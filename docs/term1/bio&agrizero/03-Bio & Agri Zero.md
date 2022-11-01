@@ -45,7 +45,7 @@ From the very first until the last day of the course Nuria was strongly stressin
 So when I read that such an unexpected, supposedly irrelevant factor like the gender can affect the experiment's results, I really understood how complex it can get. The scientists couldn't replicate the experiment even in such an advanced and professional level. I realized that even when we think we control all of the parameters and be extremely precise, there can always be a surprise. There is going to be a tiny detail that we miss and might have a dramatic influence.  
 I find this process very frustrating, demanding and **fascinating**. I am hoping to experience those multi coloured feelings of discovery within my MDEF journey.  
 
-## *Team* work makes the *dream* work
+## *Team* work makes the *dream* work  
 ![](bio group2.jpeg)  
 While projecting our dirty skin on the laptop through the electronic microscope.   Amazingly disgusting   
 
