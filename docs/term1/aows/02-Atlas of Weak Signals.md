@@ -7,11 +7,11 @@ track: Reflexion
 ![](myboard2.jpg)
 
 ### BOARD TIMELINE
-
+font-size: 10px;
 <FONT COLOR=black>
 Starting from my architectural background, I was introduced from the early years of my studies to the process of creative thinking, to building strong concepts and ideas with a more pragmatic and technical aspect. I always used storytelling as a medium to develop a new project that addresses the mega-phenomena around us. Coming from a semi-technical school, I also discovered the power of technology and its fascinating physical and digital outcomes.
 
-THESIS
+THESIS  
 The milestone of my past academic experience is my thesis project called "Plastic Age" which was
 developed with my colleague Maria. The project triggers the ecological crisis we are experiencing and the ways humans are trying to control it. In essence, the project is a alternative narrative about the plastic accumulation on the planet, that questions and redefines the notion of nature. By seeing plastic as a "hyperobject", we created a plastic city, built by its own waste products. A new layer of plastic covered the ancient city and gradually started spreading around the world. In this entirely artificial era, nature as we know it is nothing but an ancestral monument. By playfully flirting between dystopic and utopic approach, we tried to discover new qualities within this supposedly tragic scenario.
 
