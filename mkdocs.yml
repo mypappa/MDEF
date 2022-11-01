@@ -13,14 +13,13 @@ nav:
   - About: about/me.md
   - Term 1:
     - Design Studio:
-      term1/design studio/design studio.md
       - The roles of prototyping: term1/design studio/prototyping roles/the roles of prototyping.md
       - My workspace: term1/design studio/workspace/my workspace.md
     - Bootcamp: term1/bootcamp/01-Bootcamp.md
     - Bio & Agri Zero: term1/bio&agrizero/03-Bio & Agri Zero.md
     - AoWS: term1/aows/02-Atlas of Weak Signals.md
     - Living With Your Own Ideas: term1/living with your own ideas/living with your own ideas.md
-    - Tech Beyond The Myth: term1/tech beyond the myth/ tech beyond the myth.md
+    - Tech Beyond The Myth: term1/tech beyond the myth/tech beyond the myth.md
 
 
 
