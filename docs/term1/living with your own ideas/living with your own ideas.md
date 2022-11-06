@@ -23,7 +23,7 @@ The 'mask' is a very primitive yet contemporary object with a great history in m
 After wearing the mask and moving around the city for a whole afternoon, I noticed the following **contradictions**:  
 - comfort in hiding *vs* discomfort in breathing  
 - liberating expression *vs* limiting communication  
-- protection *vs* opportunity for exposure (similar effect to our digital ID)
+- sense of protection *vs* opportunity for exposure    
 - attention avoidance (eg random unwanted acquaintances) *vs* attention catcher (it looks quite creepy)  
 
 ## time-zero challenge  
@@ -33,9 +33,9 @@ Exercise brief:
 - *How can you probe the design space through an embodied / first-person exploration?*  
 - *Can you create a situation that might reveal something new?*  
 
-According to the task timeframe, we were given one and a half day to complete the exercise, meaning to come up with an idea, start applying it, document it and present it in a 1-minute video. Everything had to be done very quickly, which for me and my personal rhythm was just unimaginable.   The topics of my interest for the time being are quite abstract, vague and seemingly unrelated with each other. So in order to come up with a challenge concept which is directly related to my topics and fulfils the assignment requirements, I needed at least one week. And then one more week to plan the application of the idea, and finally one more to edit the video.  
-Obviously this was just not possible.
-Therefore I started thinking in a 'reversed' way:
+According to the task timeframe, we were given one and a half day to complete the exercise, meaning to come up with an idea, start applying it, document it and present it in a 1-minute video. Everything had to be done very quickly, which for me and my personal rhythm was just unimaginable. The topics of my interest for the time being are quite abstract, vague and seemingly unrelated with each other. So in order to come up with a challenge concept which is directly related to my topics and fulfils the assignment requirements, I needed at least one week. And then one more week to plan the application of the idea, and finally one more to edit the video.   
+Obviously this was just not possible.  
+Therefore I started thinking in a 'reversed' way:  
 - What if my biggest struggle on the assignment (and in life) becomes the concept that I'm looking for?  
 - What happens if I **act** instead of think?  
 - What would my day look like if I have **zero** time to think?   
