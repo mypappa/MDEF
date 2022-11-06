@@ -24,4 +24,11 @@ After wearing the mask and moving around the city for a whole afternoon, I notic
 - protection *vs* opportunity for exposure (similar effect to our digital ID)
 - attention avoidance (eg random unwanted acquaintances) *vs* attention catcher (it looks quite creepy)  
 
-## TIME ZERO 24 Challenge
+## TIME ZERO 24 Challenge  
+Exercise brief:
+- *How can you take action on your topic in a brave way?*
+- *Can you make some small piece of your idea and live with it?*
+- *How can you probe the design space through an embodied / first-person exploration?*
+- *Can you create a situation that might reveal something new?*  
+
+When we were given the the task, it was 
