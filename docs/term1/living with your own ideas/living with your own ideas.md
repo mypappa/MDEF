@@ -39,9 +39,9 @@ Obviously this was just not possible.
 Therefore I started thinking in a 'reversed' way:  
 • What if my biggest struggle on the assignment (and in life) becomes **the idea** I have been looking for?   
 • What happens if I **act** instead of think?   
-• What would my day **look like** if I have zero time to think?   
+• What would **my day** look like if I have zero time to think?   
 • How would I **react** to my stimuli without any sort of processing / analysing?  
-• Is it possible to **forcefully interrupt** the thinking process (at least the conscious one) and how can I do it?    
+• Is it possible to forcefully **interrupt** the thinking process (at least the conscious one) and how can I do it?    
 
 The moment this idea came to my mind, I immediately started applying it.  
 At the same time, some of my classmates were asking for my help in their own projects. I gave myself 2-3 seconds to decide and reply, which led me to a very intense, uncontrolled and versatile day.  
