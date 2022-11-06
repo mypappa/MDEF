@@ -49,6 +49,19 @@ I got dressed in 5 seconds to go for padel (I went out wearing my pyjama top). T
 * 20-minute nonstop writing  
 * no recipe baking (I do not know how to cook / bake / make food)   
 
-At the end of the day I was physically and mentally EXHAUSTED.
+At the end of the day I was physically and mentally exhausted.  
+Click [here](https://vimeo.com/manage/videos/767849850?embedded=false&source=video_title&owner=188260103) to see the video  
 
+s
 ## Reflection
+• *What did you make? And why did it matter?*  
+
+• *What happens when you involve yourself?*  
+
+• *What happens when you use yourself as an instrument?*  
+
+• *Did anything change about your way of working?*  
+
+• *What does it mean for your future work?*  
+
+• *After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?*  
