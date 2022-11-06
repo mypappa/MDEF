@@ -26,7 +26,7 @@ After wearing the mask and moving around the city for a whole afternoon, I notic
 - protection *vs* opportunity for exposure (similar effect to our digital ID)
 - attention avoidance (eg random unwanted acquaintances) *vs* attention catcher (it looks quite creepy)  
 
-## time-zero 24h Challenge  
+## time-zero challenge  
 Exercise brief:  
 - *How can you take action on your topic in a brave way?*  
 - *Can you make some small piece of your idea and live with it?*  
@@ -44,11 +44,11 @@ Therefore I started thinking in a 'reversed' way:
 
 The moment this idea came to my mind, I immediately started applying it.  
 At the same time, some of my classmates were asking for my help in their own projects. I gave myself 2-3 seconds to decide and reply, which led me to a very intense, uncontrolled and versatile day.  
-I got dressed in 5 seconds to go for padel (I went out wearing my pyjama top). Then I joined two classmates at the beach where I helped in shooting videos for their projects. When we finished I went to Elisava for a quick meeting (couldn't have been long since it would interrupt my no-thinking process). At that moment I realised I hadn't thought of charging my phone, so my documentation capabilities were also limited. While unceasingly applying this challenge during my day, I also came up with 3 mini-challenges within the main one:
+I got dressed in 5 seconds to go for padel (I went out wearing my pyjama top). Then I joined two classmates at the beach where I helped in shooting videos for their projects. When we finished I went to Elisava for a quick meeting (couldn't have been long since it would interrupt my no-thinking process). At that moment I realised I hadn't thought of charging my phone, so my documentation capabilities were also limited. While unceasingly applying this challenge during my day, I also came up with 3 mini-challenges within the main one:  
 - 10-minute weekly groceries  
 - 20-minute nonstop writing  
 - no recipe baking (I do not know how to cook / bake / make food)   
 
-At the end of the day, I was physically and mentally EXHAUSTED.
+At the end of the day I was physically and mentally EXHAUSTED.
 
 ## Reflection
