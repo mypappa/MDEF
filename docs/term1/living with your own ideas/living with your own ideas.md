@@ -54,15 +54,16 @@ At the end of the day I was physically and mentally exhausted.
 Click [here](https://vimeo.com/manage/videos/767849850?embedded=false&source=video_title&owner=188260103) to see the video  
 
 
-## Reflection
-• *What did you make? And why did it matter?*  
+## Reflection  
+(still writing)
+- *What did you make? And why did it matter?*  
+Taking my time to think and process before acting is my comfort zone. What I did was an experiment to force myself out of this comfort zone, to expose my instinctive and unprocessed thoughts/actions. It was a risk which I wouldn't have taken otherwise.  
+- *What happens when you involve yourself?*  
+I always thought that my projects were somehow self-involving, but now I realise it has been in a more distant and abstract way. This experience of self involvement is definitely the strongest, with all the good and not so good aspects. On the one hand, the project becomes more important,....
+- *What happens when you use yourself as an instrument?*  
+The experience and the outcomes are embodied: the most powerful, long-lasting way of knowledge. It somehow changes a part of your being and consequently your practice as a designer. The outcome is a new, authentic, genuine, undeniable point of view.  
+- *Did anything change about your way of working?*  
+Everything! It was actually the complete opposite.
+- *What does it mean for your future work?*  
 
-• *What happens when you involve yourself?*  
-
-• *What happens when you use yourself as an instrument?*  
-
-• *Did anything change about your way of working?*  
-
-• *What does it mean for your future work?*  
-
-• *After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?*  
+- *After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?*  
