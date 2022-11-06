@@ -27,18 +27,18 @@ After wearing the mask and moving around the city for a whole afternoon, I notic
 - attention avoidance (eg random unwanted acquaintances) *vs* attention catcher (it looks quite creepy)  
 
 ## time-zero 24h Challenge  
-Exercise brief:
-- *How can you take action on your topic in a brave way?*
-- *Can you make some small piece of your idea and live with it?*
-- *How can you probe the design space through an embodied / first-person exploration?*
+Exercise brief:  
+- *How can you take action on your topic in a brave way?*  
+- *Can you make some small piece of your idea and live with it?*  
+- *How can you probe the design space through an embodied / first-person exploration?*  
 - *Can you create a situation that might reveal something new?*  
 
 According to the task timeframe, we were given one and a half day to complete the exercise, meaning to come up with an idea, start applying it, document it and present it in a 1-minute video. Everything had to be done very quickly, which for me and my personal rhythm was just unimaginable.   The topics of my interest for the time being are quite abstract, vague and seemingly unrelated with each other. So in order to come up with a challenge concept which is directly related to my topics and fulfils the assignment requirements, I needed at least one week. And then one more week to plan the application of the idea, and finally one more to edit the video.  
 Obviously this was just not possible.
 Therefore I started thinking in a 'reversed' way:
 - What if my biggest struggle on the assignment (and in life) becomes the concept that I'm looking for?  
-- What happens if I **act** instead of think?
-- What would my day look like if I have **zero** time to think?  
+- What happens if I **act** instead of think?  
+- What would my day look like if I have **zero** time to think?   
 - How would I react to my daily stimuli without any processing or analysing?  
 - Is it possible to forcedly interrupt the thinking process (at least the conscious one) and how can I do it?    
 
@@ -46,9 +46,9 @@ The moment this idea came to my mind, I immediately started applying it.
 At the same time, some of my classmates were asking for my help in their own projects. I gave myself 2-3 seconds to decide and reply, which led me to a very intense, uncontrolled and versatile day.  
 I got dressed in 5 seconds to go for padel (I went out wearing my pyjama top). Then I joined two classmates at the beach where I helped in shooting videos for their projects. When we finished I went to Elisava for a quick meeting (couldn't have been long since it would interrupt my no-thinking process). At that moment I realised I hadn't thought of charging my phone, so my documentation capabilities were also limited. While unceasingly applying this challenge during my day, I also came up with 3 mini-challenges within the main one:
 - 10-minute weekly groceries  
-- 20-minute nonstop writing
-- no recipe baking (I do not know how to cook / bake / make food)  
-(which went unexpectedly well).  
+- 20-minute nonstop writing  
+- no recipe baking (I do not know how to cook / bake / make food)   
+
 At the end of the day, I was physically and mentally EXHAUSTED.
 
-## Challenge Reflection
+## Reflection
