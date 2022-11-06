@@ -52,7 +52,7 @@ I got dressed in 5 seconds to go for padel (I went out wearing my pyjama top). T
 • no recipe baking (I do not know how to cook / bake / make food)   
 
 At the end of the day I was physically and mentally exhausted.  
-https://www.canva.com/design/DAFRM6IaMuE/0YCSwIv1s3u6GAzf0RHsbw/watch?utm_content=DAFRM6IaMuE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu  
+<embed type="https://www.canva.com/design/DAFRM6IaMuE/0YCSwIv1s3u6GAzf0RHsbw/watch?utm_content=DAFRM6IaMuE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"    
 Click [here](https://vimeo.com/manage/videos/767849850?embedded=false&source=video_title&owner=188260103) to see the video  
 
 
