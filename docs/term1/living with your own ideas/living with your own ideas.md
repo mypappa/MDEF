@@ -18,7 +18,7 @@ My wishful superpower has always been the ability to disappear and become tempor
 - Why does it matter?  
 The 'mask' is a very primitive yet contemporary object with a great history in multiple fields: We can see is as an object for performing arts, rituals, punishment, disguise, fashion, hygiene etc. This idea of mask attempts to become an integral part of the self in daily life which will open new communication channels with the surroundings and bring comfort in uncomfortable situations.    
 
-After wearing the mask and moving around the city for a whole afternoon, I noticed the following **contradictions**:
+After wearing the mask and moving around the city for a whole afternoon, I noticed the following **contradictions**:  
 - comfort in hiding *vs* discomfort in breathing  
 - liberating expression *vs* limiting communication  
 - protection *vs* opportunity for exposure (similar effect to our digital ID)
