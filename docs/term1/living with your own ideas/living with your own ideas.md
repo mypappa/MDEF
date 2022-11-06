@@ -27,13 +27,14 @@ After wearing the mask and moving around the city for a day, I noticed the follo
 - sense of protection *vs* opportunity for exposure    
 - attention avoidance (eg random unwanted acquaintances) *vs* attention catcher (it looks quite creepy)  
 
-## time-zero challenge  
+## 24h challenge  
 Exercise brief:  
 - *How can you take action on your topic in a brave way?*  
 - *Can you make some small piece of your idea and live with it?*  
 - *How can you probe the design space through an embodied / first-person exploration?*  
 - *Can you create a situation that might reveal something new?*  
 
+### time-zero
 According to the task timeframe, we were given one and a half day to complete the exercise, meaning to come up with an idea, start applying it, document it and present it in a 1-minute video. Everything had to be done very quickly, which for me and my personal rhythm was just unimaginable. The topics of my interest for the time being are quite abstract, vague and seemingly unrelated with each other. So in order to come up with a challenge concept which is directly related to my topics and fulfils the assignment requirements, I needed at least one week. And then one more week to plan the application of the idea, and finally one more to edit the video.   
 Obviously this was just not possible.  
 Therefore I started thinking in a 'reversed' way:  
@@ -51,24 +52,23 @@ I got dressed in 5 seconds to go for padel (I went out wearing my pyjama top). T
 • no recipe baking (I do not know how to cook / bake / make food)   
 
 At the end of the day I was physically and mentally exhausted.  
+https://www.canva.com/design/DAFRM6IaMuE/0YCSwIv1s3u6GAzf0RHsbw/watch?utm_content=DAFRM6IaMuE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu  
 Click [here](https://vimeo.com/manage/videos/767849850?embedded=false&source=video_title&owner=188260103) to see the video  
 
 
-## Reflection  
-(still writing)
+## Challenge reflection  
 
 - *What did you make? And why did it matter?*  
-Taking my time to think and process before acting is my comfort zone. What I did was an experiment to force myself out of this comfort zone, to expose my instinctive and unprocessed thoughts/actions. It was a risk which I wouldn't have taken otherwise.  
+Taking time to think and process before acting has always been my **comfort zone**. What I did was an experiment to force myself out of it, to expose my instinctive and unprocessed thoughts and actions. Living in fast-pace and losing control over my life is a great fear and a risk I wouldn't have taken easily.  
 
 - *What happens when you involve yourself?*  
-I always thought that my projects were somehow self-involving, but now I realise it has actually been quite distant from my inner self. This experience of self-involvement is definitely the strongest, with all the good and not so good aspects of it. On the one hand, the project became more important,....  
+I always thought that my projects were somehow self-involving, because I have always been truthful to what I want to represent. Nevertheless, I realise that I have always been keeping a certain distance from involving my inner self with the fear of getting too self-inclusive. After having performed my first experiment with a deeper self-involvement I value the process differently: there are no longer strong distinctions between the 'work', the 'personal life', the 'hobbies', the 'free time' etc. Everything **blends** and overlaps with one another, creating a whole **interconnected** mass. And this feels way more **human**.     
 
 - *What happens when you use yourself as an instrument?*  
-The experience and the outcomes are embodied: the most powerful, long-lasting way of knowledge. It somehow changes a part of your being and consequently your design practice. The outcome is a new, authentic, genuine, undeniable point of view.  
+ When the source of knowledge is your own body, the result is more powerful and long-lasting. It somehow changes a part of your being, and so does the design practice. The outcome is an authentic, **genuine**, undeniable point of view which can not be predetermined. Nevertheless, there are always two sides on this: I got more passionate and excited but also more frustrated. I was not able to switch to another subject or just take a break, since I was the designer and I was the "guinea pig".  
 
 - *Did anything change about your way of working?*  
-Everything! It was actually the complete opposite.  
-
+My way of working at that day was the complete opposite of what I'm used to. Let's see how it will affect my future...  
 - *What does it mean for your future work?*  
 
 - *After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?*  
