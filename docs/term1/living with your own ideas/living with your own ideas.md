@@ -49,7 +49,7 @@ At the same time, some of my classmates were asking for my help in their own pro
 I got dressed in 5 seconds to go for padel (I went out wearing my pyjama top). Then I joined two classmates at the beach where I helped in shooting videos for their projects. When we finished I went to Elisava for a quick meeting (couldn't have been long since it would interrupt my no-thinking process). At that moment I realised I hadn't thought of charging my phone, so my documentation capabilities were also limited. While unceasingly applying this challenge during my day, I also came up with 3 mini-challenges within the main one:  
 • 10-minute weekly groceries  
 • 20-minute nonstop writing  
-• no recipe baking (I do not know how to cook / bake / make food)   
+• no recipe fast baking (zero cooking / baking knowledge)   
 
 At the end of the day I was physically and mentally exhausted.  
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
@@ -59,9 +59,7 @@ At the end of the day I was physically and mentally exhausted.
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFRM6IaMuE&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFRM6IaMuE&#x2F;watch?utm_content=DAFRM6IaMuE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">time 0 challenge</a> by Myrto-Eirini Pappa  
-
-Click [here](https://vimeo.com/manage/videos/767849850?embedded=false&source=video_title&owner=188260103) to see the video  
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFRM6IaMuE&#x2F;watch?utm_content=DAFRM6IaMuE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">TIME-ZERO challenge</a> by Myrto-Eirini Pappa  
 
 
 ## Challenge reflection  
@@ -76,7 +74,8 @@ I always thought that my projects were somehow self-involving, because I have al
  When the source of knowledge is your own body, the result is more powerful and long-lasting. It somehow changes a part of your being, and so does the design practice. The outcome is an authentic, **genuine**, undeniable point of view which can not be predetermined. Nevertheless, there are always two sides on this: I got more passionate and excited but also more frustrated. I was not able to switch to another subject or just take a break, since I was the designer and I was the "guinea pig".  
 
 - *Did anything change about your way of working?*  
-My way of working at that day was the complete opposite of what I'm used to. Let's see how it will affect my future...  
+My way of working at that day was the complete opposite of what I'm used to. Let's see how it evolves in the future...  
 - *What does it mean for your future work?*  
-
+To be discovered.  
 - *After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?*  
+I found very interesting how differently each one in the class interpreted the challenge. All of the approaches were unique and I'm looking forward to find new path intersections with the rest of the class.    
