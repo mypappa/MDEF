@@ -34,7 +34,7 @@ Exercise brief:
 - *How can you probe the design space through an embodied / first-person exploration?*  
 - *Can you create a situation that might reveal something new?*  
 
-### time-zero
+### Time-0
 According to the task timeframe, we were given one and a half day to complete the exercise, meaning to come up with an idea, start applying it, document it and present it in a 1-minute video. Everything had to be done very quickly, which for me and my personal rhythm was just unimaginable. The topics of my interest for the time being are quite abstract, vague and seemingly unrelated with each other. So in order to come up with a challenge concept which is directly related to my topics and fulfils the assignment requirements, I needed at least one week. And then one more week to plan the application of the idea, and finally one more to edit the video.   
 Obviously this was just not possible.  
 Therefore I started thinking in a 'reversed' way:  
@@ -62,7 +62,7 @@ At the end of the day I was physically and mentally exhausted.
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFRM6IaMuE&#x2F;watch?utm_content=DAFRM6IaMuE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">TIME-ZERO challenge</a> by Myrto-Eirini Pappa  
 
 
-## Challenge reflection  
+### Challenge reflection  
 
 - *What did you make? And why did it matter?*  
 Taking time to think and process before acting has always been my **comfort zone**. What I did was an experiment to force myself out of it, to expose my instinctive and unprocessed thoughts and actions. Living in fast-pace and losing control over my life is a great fear and a risk I wouldn't have taken easily.  
