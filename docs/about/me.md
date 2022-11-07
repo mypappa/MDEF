@@ -4,15 +4,15 @@ hide:
 ---
 # About
 
-![](profile.jpg)
+![](profile.jpg)  
+*Less human, more being*  
 
-Myrto - Eirini Pappa   |   Μυρτώ - Ειρήνη Παππά  
+
+Myrto - Eirini Pappa   |   Μυρτώ - Ειρήνη Παππά   
 
 Architect in (re)dis-covery  
 Researcher of how to survive the 9-5 nightmare    
 
-
-*Less human, more being*  
 
 Areas of interest:  
 - post natural studies  
