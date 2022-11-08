@@ -76,7 +76,8 @@ I always thought that my projects were somehow self-involving, because I have al
  When the source of knowledge is your own body, the result is more powerful and long-lasting. It somehow changes a part of your being, and so does the design practice. The outcome is an authentic, **genuine**, undeniable point of view which can not be predetermined. Nevertheless, there are always two sides on this: I got more passionate and excited but also more frustrated. I was not able to switch to another subject or just take a break, since I was the designer and I was the "guinea pig".  
 
 - *Did anything change about your way of working?*  
-My way of working at that day was the complete opposite of what I'm used to. Let's see how it evolves in the future...  
+My way of working at that day was the complete opposite of what I'm used to. In order to challenge my 'extreme' slow rhythm and indecisiveness, I tried implementing an extreme opposite. Which of course+++   
+
 - *What does it mean for your future work?*  
 To be discovered.  
 - *After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?*  
