@@ -76,7 +76,10 @@ I always thought that my projects were somehow self-involving, because I have al
  When the source of knowledge is your own body, the result is more powerful and long-lasting. It somehow changes a part of your being, and so does the design practice. The outcome is an authentic, **genuine**, undeniable point of view which can not be predetermined. Nevertheless, there are always two sides on this: I got more passionate and excited but also more frustrated. I was not able to switch to another subject or just take a break, since I was the designer and I was the "guinea pig".  
 
 - *Did anything change about your way of working?*  
-My way of working at that day was the complete opposite of what I'm used to. In order to challenge my 'extreme' slow rhythm and indecisiveness, I tried implementing an extreme opposite. Which of course+++   
+(still writing)  
+The way Ι worked that day was the complete opposite of what I'm used to. I tried to switch from being extremely slow and indecisive, to being extremely fast and direct. What I realised was that time is a luxury that can either reinforce or prevent the project's development. It might help me build confidence and deeper understanding on my work, but at the same time I might get lost on information overload and over-procrastinate. Analysing every possibility that exists can misguide me and disconnect my project from my original penchant. 
+?Forsee implications on going with the flow / comparison with normal life / Im the frame of reference
+I had to constantly Even though Which of course+++   
 
 - *What does it mean for your future work?*  
 To be discovered.  
