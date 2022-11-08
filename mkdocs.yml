@@ -12,7 +12,7 @@ nav:
   - Home: index.md
   - About: about/me.md
   - Term 1:
-    - Design Studio: term1/design studio/design studio.md
+    - Design Studio:
       - The roles of prototyping: term1/design studio/prototyping roles/the roles of prototyping.md
       - My workspace: term1/design studio/workspace/my workspace.md
     - Bootcamp: term1/bootcamp/01-Bootcamp.md
@@ -51,7 +51,7 @@ theme:
   features:
     - instant
     - navigation.expand
-    # - navigation.indexes
+    - navigation.indexes
     - navigation.instant
     # - navigation.prune
     # - navigation.sections
