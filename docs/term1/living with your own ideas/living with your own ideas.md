@@ -5,7 +5,7 @@ track: Reflection
 ## inVISIBLE me  
 Make a living / non-living companion  
 
-![](companion.jpg)   
+![](companion.png)   
 
 
 - *How will you live together?*  
