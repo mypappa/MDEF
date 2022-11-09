@@ -79,8 +79,9 @@ I always thought that my projects were somehow self-involving, because I have al
 
 - *Did anything change about your way of working?*  
 (still writing)  
-The way Ι worked that day was the complete opposite of what I'm used to. I tried to switch from being extremely slow and indecisive, to being extremely fast and direct. What I realised was that time is a luxury that can either reinforce or prevent the project's development. It helps me build confidence and deeper understanding on my work, but at the same time I might get lost on information overload and procrastination. Analysing every possibility that can potentially exist can be misguiding and disconnecting the project from my original penchant.  
-Through my time-zero experiment I experienced some other implications which were quite new to me. Sometimes going with the flow / comparison with normal life / Im the frame of reference
+The way Ι worked that day was the complete opposite of what I'm used to. I tried to switch from being extremely slow and indecisive, to being extremely fast and direct. What I realised was that time is a luxury that can either reinforce or prevent the project's development. It helps me build confidence and deeper understanding on my work, but at the same time I might get lost on information overload and procrastination. Analysing every possibility that can potentially exist can be misguiding and disconnecting the project from the original/initial penchant. From my experience in testing the 'other extreme', I faced a different set of implications. Sometimes going with the flow  
+->comparison with normal life  
+->Im the frame of reference
 +++   
 
 - *What does it mean for your future work?*  
