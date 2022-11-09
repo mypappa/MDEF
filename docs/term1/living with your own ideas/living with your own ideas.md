@@ -68,18 +68,19 @@ At the end of the day I was physically and mentally exhausted.
 ### Challenge reflection  
 
 - *What did you make? And why did it matter?*  
-Taking time to think and process before acting has always been my **comfort zone**. What I did was an experiment to force myself out of it, to expose my instinctive and unprocessed thoughts and actions. Living in fast-pace and losing control over my life is a great fear and a risk I wouldn't have taken easily.  
+Taking time to think and process before acting has always been my **comfort zone**. What I did was an experiment to force myself out of it, to expose my instinctive, unprocessed thoughts and actions. Living in fast-pace and losing control over my life is a great fear and a risk I wouldn't have taken easily.  
 
 - *What happens when you involve yourself?*  
 I always thought that my projects were somehow self-involving, because I have always been truthful to what I want to represent. Nevertheless, I realise that I have always been keeping a certain distance from involving my inner self with the fear of getting too self-inclusive. After having performed my first experiment with a deeper self-involvement I value the process differently: there are no longer strong distinctions between the 'work', the 'personal life', the 'hobbies', the 'free time' etc. Everything **blends** and overlaps with one another, creating a whole **interconnected** mass. And this feels way more **human**.     
 
 - *What happens when you use yourself as an instrument?*  
- When the source of knowledge is your own body, the result is more powerful and long-lasting. It somehow changes a part of your being, and so does the design practice. The outcome is an authentic, **genuine**, undeniable point of view which can not be predetermined. Nevertheless, there are always two sides on this: I got more passionate and excited but also more frustrated. I was not able to switch to another subject or just take a break, since I was the designer and I was the "guinea pig".  
+ When the source of knowledge is your own body, the result is more powerful and long-lasting. It somehow changes a part of your being, and consequently your design practice. The outcome is an authentic, **genuine**, undeniable point of view which can not be predetermined.  
+ Nevertheless there are always two sides: I got passionate and excited but also more frustrated. I was not able to switch to another subject or just take a break since I was the designer and I was the "guinea pig".  
 
 - *Did anything change about your way of working?*  
 (still writing)  
-The way Ι worked that day was the complete opposite of what I'm used to. I tried to switch from being extremely slow and indecisive, to being extremely fast and direct. What I realised was that time is a luxury that can either reinforce or prevent the project's development. It might help me build confidence and deeper understanding on my work, but at the same time I might get lost on information overload and over-procrastinate. Analysing every possibility that can potentially exist might be misguiding me and disconnecting my project from my original penchant.  
-On the other side, through my time-zero experiment I experienced some other implications which were quite new to me. Sometimes going with the flow / comparison with normal life / Im the frame of reference
+The way Ι worked that day was the complete opposite of what I'm used to. I tried to switch from being extremely slow and indecisive, to being extremely fast and direct. What I realised was that time is a luxury that can either reinforce or prevent the project's development. It helps me build confidence and deeper understanding on my work, but at the same time I might get lost on information overload and procrastination. Analysing every possibility that can potentially exist can be misguiding and disconnecting the project from my original penchant.  
+Through my time-zero experiment I experienced some other implications which were quite new to me. Sometimes going with the flow / comparison with normal life / Im the frame of reference
 +++   
 
 - *What does it mean for your future work?*  
