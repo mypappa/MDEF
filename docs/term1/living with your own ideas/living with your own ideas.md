@@ -79,12 +79,8 @@ I always thought that my projects were somehow self-involving, because I have al
 
 - *Did anything change about your way of working?*  
 (still writing)  
-The way Ι worked that day was the complete opposite of what I'm used to. I tried to switch from being extremely slow and indecisive, to being extremely fast and direct. What I realised was that time is a luxury that can either reinforce or prevent the project's development. It helps me build confidence and deeper understanding on my work, but at the same time I might get lost on information overload and procrastination. Analysing every possibility that can potentially exist can be misguiding and disconnecting the project from the original/initial penchant. From my experience in testing the 'other extreme', I faced a different set of implications. Sometimes going with the flow  
-->comparison with normal life  
-->Im the frame of reference
-+++   
+The way Ι worked that day was the complete opposite of what I'm used to. I tried to switch from being extremely slow and indecisive, to being extremely fast and direct. What I realised was that 'time' is a luxury which can either reinforce or prevent the project's development. Having plenty of time can be helpful in building confidence and deeper understanding on the work, but at the same time it might be confusing: Analysing every possibility leads to information overload and procrastination, which misguides and disconnects the project from the original penchant. From my experience, both 'extremes' come with their own set of implications. My goal is to find the right balance between the two and be able to switch modes according to my needs.    
 
 - *What does it mean for your future work?*  
-To be discovered.  
-- *After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?*  
-I found very interesting how differently each one in the class interpreted the challenge. All of the approaches were unique and I'm looking forward to find new path intersections with the rest of the class.    
+- *After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?*   
+to be discovered..  
