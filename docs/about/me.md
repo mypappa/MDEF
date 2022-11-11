@@ -10,15 +10,15 @@ hide:
 
 Myrto - Eirini Pappa   |   Μυρτώ - Ειρήνη Παππά   
 
-Architect in (re)dis-covery  
+Architect in re-dis-covery  
 Researcher of how to survive the 9-5 nightmare    
 
 
 Areas of interest:  
 - post natural studies  
 - augmented reality  
-- new ecologies: Dissolving the nature / culture binominal, queer ecologies  
-- future past  
+- new ecologies: Dissolving the nature / culture binominal  
+- ancestral future  
 - subconscious intelligence (SI)  
 
 *soon to be called :  
