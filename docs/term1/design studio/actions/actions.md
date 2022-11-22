@@ -1,18 +1,18 @@
 # Experiments & Participations  
 
-## ecstatic dance  
+### ecstatic dance  
 session   
 
-## hermetic spirituality  
+### hermetic spirituality  
 lecture  
 
-## Brain(s)  
+### Brain(s)  
 exhibition   
 
-## time-zero  
+### time-zero  
 24h challenge  
 
 
 
 **Question**: How are all these connected?
-I have no ideas  
+I have no idea  
