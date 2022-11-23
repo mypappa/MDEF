@@ -15,11 +15,11 @@ Researcher of how to survive the 9-5 nightmare
 
 
 Areas of interest:  
-- post natural studies  
-- augmented reality  
-- new ecologies: Dissolving the nature / culture binominal  
+- post natural environments  
+- augmented creativity  
+- new ecologies: Dissolving the nature - culture binominal  
 - ancestral future  
-- subconscious intelligence (SI)  
+- alternative intelligences  
 
 *soon to be called :  
 - an alumni  
