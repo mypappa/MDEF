@@ -37,4 +37,4 @@ The parts that we chose to focus on were the speakers and the LEDs.
 *Unfortunately during the second week of the course I got sick and I was unable to participate physically to the second part of the project.  
 I am very grateful to my lovely team that worked hard and created this beautiful 'almost useless machine'.*  
 
-`Team: Amanda, Claudia, Myrto, Stella
+`Team: Amanda, Claudia, Myrto, Stella`
