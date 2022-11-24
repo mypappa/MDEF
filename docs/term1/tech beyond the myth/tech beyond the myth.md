@@ -4,7 +4,7 @@ track: Instrumentation
 ## 1. Disassembling -> Identifying  
 
 
-![](1st day.png)  
+![](1st day.png)   
 The two-week course "Tech beyond the myth" started with the intimidating challenge of disassembling an old electronic device, which for my team was **two** LCD screen monitors: A DELL 2015 and a Philips 2007 model.  
 We unscrewed every single piece that could possibly be unscrewed, we peeled off the parts that were glued and we even had to crack damage some parts that were designed not to be accessible by the users. After collecting all the pieces we tried to identify their function, their origin, their interconnectivity and more.  
 
