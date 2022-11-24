@@ -3,20 +3,25 @@ track: Instrumentation
 
 ## 1. Disassembling -> Identifying  
 
+
 ![](1st day.png)  
 The two-week course "Tech beyond the myth" started with the intimidating challenge of disassembling an old electronic device, which for my team was **two** LCD screen monitors: A DELL 2015 and a Philips 2007 model.  
-We unscrewed every single piece that could possibly be unscrewed, we peeled off the parts that were glued and we even had to crack damage some parts that were designed not to be accessible by the users. After collecting all the pieces we tried to identify their function, their origin, their interconnectivity and more.
+We unscrewed every single piece that could possibly be unscrewed, we peeled off the parts that were glued and we even had to crack damage some parts that were designed not to be accessible by the users. After collecting all the pieces we tried to identify their function, their origin, their interconnectivity and more.  
+
+
+
 ![](tech_collage.jpg)  
 
-We developed our research in 4 different levels:      
+We developed our research in 4 levels:      
 - Technical: How does it work?  
 - Material resources: Where and how are chips they manufactured?  
 - Political: Why are they 'black boxes'?     
 - After life: Can PCBs be recycled?  
 
-It was the first time for me to explore the inside of such a complex electronic machine so the process of demystification came out quite surprising. Understanding the technical function of the screen was a great challenge, but I was also very lucky having the people around me to patiently explain me what I could not find online. Because what I realised from my personal research is that highly complex and technical information on the internet is usually created in a way to address experts and can not be understood by non related people. which reflects the well-known perception of technology as a 'black box'.  
+It was the first time for me to explore the inside of such a complex electronic device so the process of demystification came out quite surprising. Understanding the technical function of the screen was a real challenge, but I was also very lucky to have people around me to patiently explain what I could not find online.  
+What I realised from my personal research is that highly complex and technical information on the internet is usually created to only address experts in the field, hence it is not that friendly to non related people.   This fact reinforces the idea of technology as a 'black box'.  
 
-I realise that one can not become an engineer in a few days and what we discovered was just a teeny-tiny glimpse of how electronics actually work. But even the baby steps that we made changed our approach towards technology and opened new channels of experimentation.  
+Evidently one can not become an engineer in a few days. Our experience was probably just a teeny-tiny glimpse of how electronics actually work. Nevertheless, these baby steps that we made helped us rethink, revise and reconsider our approach towards technology and opened new channels for experimentation.  
 
 
 click [here](https://hackmd.io/6Gz_caxaSM-UFo9HLMk4tw) to view our forensic report
