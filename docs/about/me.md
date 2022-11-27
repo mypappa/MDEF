@@ -14,12 +14,12 @@ Architect in re-dis-covery
 Researcher of how to survive the 9-5 nightmare    
 
 
-Areas of interest:  
+`Areas of interest:  
 - post natural environments  
 - augmented creativity  
 - new ecologies: Dissolving the nature - culture binominal  
 - ancestral future  
-- alternative intelligences  
+- alternative intelligences`  
 
 *soon to be called :  
 - an alumni  
