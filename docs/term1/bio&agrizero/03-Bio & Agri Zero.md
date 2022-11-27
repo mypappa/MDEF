@@ -49,4 +49,4 @@ I find this process very frustrating, demanding and **fascinating**. I am hoping
 ![](bio group2.jpeg)  
 While projecting our dirty skin on the laptop through the electronic microscope.   Amazingly disgusting   
 
-Team: Claudia, Korbinian, Myrto, Stella (Claudia behind the camera)
+`Team: Claudia, Korbinian, Myrto, Stella`

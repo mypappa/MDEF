@@ -27,9 +27,13 @@ Evidently one can not become an engineer in a few days. Our experience was proba
 click [here](https://hackmd.io/6Gz_caxaSM-UFo9HLMk4tw) to view our forensic report
 
 
-## 2. Reassembling -> Creating
+## 2. Reassembling -> Creating  
 Once we gained a good base of theoretical knowledge about those devices, the fun part started: Testing the function of the components isolated and bringing them back to life.  
 The parts that we chose to focus on were the speakers and the LEDs.  
+
+<iframe src="https://player.vimeo.com/video/773159561?h=aa561b4bad" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/773159561">ghost machine.mp4</a> from <a href="https://vimeo.com/user107341955">Amanda Jarvis</a> on <a href="https://vimeo.com">Vimeo</a>.</p>  
+
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXRer_4LkwNSSRSiP6Ro8_FdwRp9BHXNzIQmxz3BfKbHeDDZMHWxm6gaH_CFEr-JNS2SFxAeDB-icy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
