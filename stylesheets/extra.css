@@ -36,13 +36,18 @@
 
 .md-typeset h2 {
     font-weight: 300;
-    font-size: 14px
+    font-size: 16px
 }
 
 .md-typeset h1 {
     color: rgb(48, 35, 235);
     font-size: 18px;
 
+}
+
+.md-typeset h3 {
+    font-weight: 300;
+    font-size: 14px
 }
 
 .mdc-typography--body2 {
