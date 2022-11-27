@@ -36,6 +36,7 @@
 
 .md-typeset h2 {
     font-weight: 500;
+    font-size: 14px
 }
 
 .md-typeset h1 {
@@ -46,5 +47,5 @@
 
 .mdc-typography--body2 {
     font-weight: 300;
-    font-size: 12px;
+    font-size: 10px;
 }
