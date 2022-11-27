@@ -4,14 +4,13 @@ hide:
 ---
 # About
 
-![](profile.jpg)  
+![](filippo nassetti.png)  
 *Less human, more being*  
 
 
 Myrto - Eirini Pappa   |   Μυρτώ - Ειρήνη Παππά   
-
-Architect in re-dis-covery  
-Researcher of how to survive the 9-5 nightmare    
+- Architect in re-dis-covery  
+- Researcher of how to survive the 9-5 nightmare    
 
 
 Areas of interest:  
