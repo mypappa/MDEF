@@ -4,7 +4,6 @@ hide:
 ---
 # about
 
-![](filippo nassetti.png)  
 *Less human, more being*  
 
 
