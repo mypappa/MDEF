@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-# About
+# about
 
 ![](filippo nassetti.png)  
 *Less human, more being*  
