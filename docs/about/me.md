@@ -17,7 +17,7 @@ Areas of interest:
 - post natural environments  
 - augmented creativity  
 - new ecologies: Dissolving the nature - culture binominal  
-- essentialism
+- essentialism  
 - alternative intelligences  
 
 *soon to be called :  
