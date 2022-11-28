@@ -10,18 +10,19 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 nav:
   - Home: index.md
-  - About: about/me.md
-  - Term 1:
-    - Design Studio:
-      - The roles of prototyping: term1/design studio/prototyping roles/the roles of prototyping.md
-      - Workspace: term1/design studio/workspace/my workspace.md
-      - Actions: term1/design studio/actions/actions.md
-      - Collective Intervention: term1/design studio/collective intervention/collective intervention.md
-    - Bootcamp: term1/bootcamp/01-Bootcamp.md
-    - Bio & Agri Zero: term1/bio&agrizero/03-Bio & Agri Zero.md
-    - AoWS: term1/aows/02-Atlas of Weak Signals.md
-    - Living With Your Own Ideas: term1/living with your own ideas/living with your own ideas.md
-    - Tech Beyond The Myth: term1/tech beyond the myth/tech beyond the myth.md
+  - about: about/me.md
+  - term 1:
+    - design studio:
+      - the roles of prototyping: term1/design studio/prototyping roles/the roles of prototyping.md
+      - workspace: term1/design studio/workspace/my workspace.md
+      - actions: term1/design studio/actions/actions.md
+      - collective intervention: term1/design studio/collective intervention/collective intervention.md
+    - bootcamp: term1/bootcamp/01-Bootcamp.md
+    - bio & agri zero: term1/bio&agrizero/03-Bio & Agri Zero.md
+    - aows: term1/aows/02-Atlas of Weak Signals.md
+    - living with Your own ideas: term1/living with your own ideas/living with your own ideas.md
+    - tech beyond the myth: term1/tech beyond the myth/tech beyond the myth.md
+    - community engagement: community engagement.md
 
 
 
