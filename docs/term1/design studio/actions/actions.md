@@ -1,4 +1,4 @@
-# Experiments & Participations  
+# experiments & participations  
 
 ### ecstatic dance  
 <session>   
@@ -25,5 +25,5 @@ interview
 
 
 
-**Question**: How are all these connected?
+**question**: How are all these connected?
 I have no idea  

@@ -1,7 +1,7 @@
-# [Tech Beyond The Myth](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/)  
+# [tech beyond the myth](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/)  
 `track: Instrumentation`  
 
-## 1. Disassembling -> Identifying  
+## 1. disassembling -> identifying  
 
 
 ![](1st day.png)   
@@ -27,7 +27,7 @@ Evidently one can not become an engineer in a few days. Our experience was proba
 click [here](https://hackmd.io/6Gz_caxaSM-UFo9HLMk4tw) to view our forensic report
 
 
-## 2. Reassembling -> Creating  
+## 2. reassembling -> creating  
 Once we gained a good base of theoretical knowledge about those devices, the fun part started: Testing the function of the components isolated and bringing them back to life.  
 The parts that we chose to focus on were the speakers and the LEDs.  
 
