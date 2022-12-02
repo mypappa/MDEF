@@ -38,4 +38,4 @@ by Prof. dr. Wouter Hanegraaff | 20/10/2022
 ## [time-zero](https://mypappa.github.io/MDEF/reflections/term1/living%20with%20your%20own%20ideas/living%20with%20your%20own%20ideas/)   `experiment`  
 visit the "living with your own ideas" section for more details  
 
-## death coach   `interview`
+## [death coach](https://linktr.ee/theotherside.deathcoach)   `interview`
