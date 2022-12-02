@@ -12,7 +12,7 @@ nav:
   - welcome: index.md
   - about: about/me.md
   - reflections:
-    - design studio: reflections/term1/design studio 01/design studio 01.md
+    - design studio i: reflections/term1/design studio 01/design studio 01.md
       - the roles of prototyping: reflections/term1/design studio 01/prototyping roles/the roles of prototyping.md
       - workspace: reflections/term1/design studio 01/workspace/my workspace.md
       - actions: reflections/term1/design studio 01/actions/actions.md
@@ -23,7 +23,7 @@ nav:
     - living with Your own ideas: reflections/term1/living with your own ideas/living with your own ideas.md
     - tech beyond the myth: reflections/term1/tech beyond the myth/tech beyond the myth.md
     - community engagement: reflections/term1/community engagement/community engagement.md
-
+  - master project: master project/master project.md
 
 
 extra:
