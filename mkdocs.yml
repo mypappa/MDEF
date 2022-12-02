@@ -11,9 +11,10 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 nav:
   - welcome: index.md
   - about: about/me.md
+  - master project: master project/master project.md
   - reflections:
     - term 1:
-      - design studio:
+      - design studio i:
         - the roles of prototyping: reflections/term1/design studio 01/prototyping roles/the roles of prototyping.md
         - workspace: reflections/term1/design studio 01/workspace/my workspace.md
         - actions: reflections/term1/design studio 01/actions/actions.md
@@ -24,7 +25,7 @@ nav:
       - living with Your own ideas: reflections/term1/living with your own ideas/living with your own ideas.md
       - tech beyond the myth: reflections/term1/tech beyond the myth/tech beyond the myth.md
       - community engagement: reflections/term1/community engagement/community engagement.md
-  - master project: master project/master project.md
+
 
 
 extra:
