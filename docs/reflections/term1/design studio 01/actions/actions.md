@@ -1,6 +1,6 @@
 # actions
 
-## ecstatic dance `participation`  
+## ecstatic dance   `participation`  
 
 *"Ecstatic dance is a form of dance in which the dancers, without the need to follow specific steps, abandon themselves to the rhythm and move freely as the music takes them, leading to trance and a feeling of ecstasy."*  
 
@@ -8,7 +8,7 @@ https://ecstaticdancebarcelona.com
 
 reflection loading...  
 
-## hermetic spirituality `lecture`   
+## hermetic spirituality   `lecture`   
 Hermetic Spirituality and Altered states of Knowledge  
 by Prof. dr. Wouter Hanegraaff | 20/10/2022  
 
@@ -19,7 +19,7 @@ by Prof. dr. Wouter Hanegraaff | 20/10/2022
 - *"Hermeticism, although it existed as a "mystic religious" movement, does not have as its foundation faith but in research. It advocates the knowledge of the Divine (God) as the supreme good, and in contrast, the "ignorance of the Divine" as the deepest misery of the soul."*  
 
 
-## [brain(s)](https://www.cccb.org/en/exhibitions/file/brains/237851) `exhibition`   
+## [brain(s)](https://www.cccb.org/en/exhibitions/file/brains/237851)   `exhibition`   
 
 - spiders  
 *"Spiders from different species have spun interconnecting webs in the same space, bridging the architecture of each other's webs and telling a story of hybrid relationships. The webs serve as an extension of the spiders' sensorial and cognitive systems where lines of communication merge and connect.(..)Engaging in those collaborative relationships and creative dynamics is a way of attuning to others' Umwelten - or 'self-centred' world - and moving towards novel ways of living together."*   
@@ -35,7 +35,7 @@ by Prof. dr. Wouter Hanegraaff | 20/10/2022
 
 *All texts are taken from the exhibition.  
 
-## time-zero `experiment`  
+## time-zero   `experiment`  
 visit the "living with your own ideas" section for more details  
 
-## death coach `interview`
+## death coach   `interview`
