@@ -12,17 +12,18 @@ nav:
   - welcome: index.md
   - about: about/me.md
   - reflections:
-    - design studio i: reflections/term1/design studio 01/design studio 01.md
-      - the roles of prototyping: reflections/term1/design studio 01/prototyping roles/the roles of prototyping.md
-      - workspace: reflections/term1/design studio 01/workspace/my workspace.md
-      - actions: reflections/term1/design studio 01/actions/actions.md
-      - collective intervention: reflections/term1/design studio 01/collective intervention/collective intervention.md
-    - bootcamp: reflections/term1/bootcamp/01-Bootcamp.md
-    - bio & agri zero: reflections/term1/bio&agrizero/03-Bio & Agri Zero.md
-    - aows: reflections/term1/aows/02-Atlas of Weak Signals.md
-    - living with Your own ideas: reflections/term1/living with your own ideas/living with your own ideas.md
-    - tech beyond the myth: reflections/term1/tech beyond the myth/tech beyond the myth.md
-    - community engagement: reflections/term1/community engagement/community engagement.md
+    - term 1:
+      - design studio:
+        - the roles of prototyping: reflections/term1/design studio 01/prototyping roles/the roles of prototyping.md
+        - workspace: reflections/term1/design studio 01/workspace/my workspace.md
+        - actions: reflections/term1/design studio 01/actions/actions.md
+        - collective intervention: reflections/term1/design studio 01/collective intervention/collective intervention.md
+      - bootcamp: reflections/term1/bootcamp/01-Bootcamp.md
+      - bio & agri zero: reflections/term1/bio&agrizero/03-Bio & Agri Zero.md
+      - aows: reflections/term1/aows/02-Atlas of Weak Signals.md
+      - living with Your own ideas: reflections/term1/living with your own ideas/living with your own ideas.md
+      - tech beyond the myth: reflections/term1/tech beyond the myth/tech beyond the myth.md
+      - community engagement: reflections/term1/community engagement/community engagement.md
   - master project: master project/master project.md
 
 
