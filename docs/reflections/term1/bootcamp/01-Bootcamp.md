@@ -1,9 +1,9 @@
 # [bootcamp](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/)
 `track: Application`    
 
-![](anything.jpeg)
+<img src="../anything.jpeg" alt="drawing" width="500" align="left"/>
 ## vision - inspiration - goals
-![](vision.jpg)
+<img src="../vision.jpg" alt="drawing" width="500" align="left"/>
 
 ## fight
 We are trying to get rid of the sicknesses of our society just by throwing them away, out of our field of view, out of our field of perception. And then we think that they actually disappeared.
