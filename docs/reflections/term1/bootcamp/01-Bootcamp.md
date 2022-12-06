@@ -1,10 +1,8 @@
 # [bootcamp](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/)
 `track: Application`    
-
 <img src="../anything.jpeg" alt="drawing" width="500" />   
 
 ## vision - inspiration - goals   
-
 <img src="../vision.jpg" alt="drawing" width="650" />   
 
 
@@ -32,6 +30,5 @@ John Christopher says: *“To design is no longer to increase the stability of t
 ## personal ID  
 <img src="../personal id.jpg" alt="drawing" width="650"/>  
 
-## personal development  
-![](personal development.jpg)  
-<img src="../personal development.jpg" alt="drawing" width="650"/> 
+## personal development   
+<img src="../personal development.jpg" alt="drawing" width="650"/>
