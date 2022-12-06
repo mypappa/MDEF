@@ -3,7 +3,7 @@
 <img src="../anything.jpeg" alt="drawing" width="500" />   
 
 ## vision - inspiration - goals   
-<img src="../vision.jpg" alt="drawing" width="650" />   
+<img src="../vision2.jpg" alt="drawing" width="650" />   
 
 
 ## fight  
@@ -28,7 +28,7 @@ John Christopher says: *“To design is no longer to increase the stability of t
 <img src="../my fight poster.jpg" alt="drawing" width="650"/>  
 
 ## personal ID  
-<img src="../personal id.jpg" alt="drawing" width="650"/>  
+<img src="../personal id2.jpg" alt="drawing" width="650"/>  
 
 ## personal development   
-<img src="../personal development.jpg" alt="drawing" width="650"/>
+<img src="../personal development2.jpg" alt="drawing" width="650"/>
