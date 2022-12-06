@@ -1,11 +1,11 @@
 # [bootcamp](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/)
 `track: Application`    
 
-<img src="../anything.jpeg" alt="drawing" width="500" align="left"/>   
+<img src="../anything.jpeg" alt="drawing" width="500" />   
 
 ## vision - inspiration - goals   
 
-<img src="../vision.jpg" alt="drawing" width="650" align="left"/>   
+<img src="../vision.jpg" alt="drawing" width="650" />   
 
 
 ## fight  
