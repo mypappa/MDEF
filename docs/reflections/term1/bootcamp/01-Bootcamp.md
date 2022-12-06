@@ -27,10 +27,11 @@ Treating nature as something that is not amenable to change, does not adapt to t
 Driven by the our need to be problem-solvers and saviours of the world, we come up with “solutions” which then bring new problems that we could not have imagined or predicted. For example, when plastic was first created, it was a true revolution, an apocalypse. It solved every problem and limitation of the existing materials: cost, weight, free-forming, fast production etc. But no one could have foreseen what new problems it would bring a few decades later.  
 John Christopher says: *“To design is no longer to increase the stability of the man-made world: it is to alter, for good or ill, things that determine the course of its development”* In essence, the “design as change” definition is just a more realistic version of the “design as problem-solving argument. By acknowledging our limitations, we actually create the space to iterate and test our design work - because we know it can’t be perfect.  
 
-![](my fight poster.jpg)  
+<img src="../my fight poster.jpg" alt="drawing" width="650"/>  
 
 ## personal ID  
-![](personal id.jpg)
+<img src="../personal id.jpg" alt="drawing" width="650"/>  
 
-## personal development
-![](personal development.jpg)
+## personal development  
+![](personal development.jpg)  
+<img src="../personal development.jpg" alt="drawing" width="650"/> 
