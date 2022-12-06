@@ -28,7 +28,7 @@ nav:
       - tech beyond the myth: reflections/term1/tech beyond the myth/tech beyond the myth.md
     - term 2: term 2.md
     - term 3: term 3.md
-  - process: process.md
+  - process: process/process.md
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
