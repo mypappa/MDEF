@@ -9,6 +9,7 @@
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
     --md-typeset-a-color:  rgb(48, 35, 235);
+    --md-default-bg-font-size: 12px
 
 
 }
@@ -26,11 +27,11 @@
     border-width: 1px;
     border-color: rgb(219, 219, 219);
     border-radius: 4px;
-    font-size: 14px;
+    font-size: 12px;
   }
 
 .cardContent {
-  padding: 14px;
+  padding: 12px;
   font-size: 14px;
   color: rgb(48, 35, 235);
 }
@@ -53,10 +54,10 @@
 
 .mdc-typography--body2 {
     font-weight: 300;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .mdc-typography--body {
     font-weight: 300;
-    font-size: 14px;
+    font-size: 12px;
 }
