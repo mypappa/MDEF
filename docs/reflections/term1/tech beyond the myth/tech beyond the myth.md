@@ -35,7 +35,7 @@ The parts that we chose to focus on were the speakers and the LEDs.
 <p><a href="https://vimeo.com/773159561">ghost machine.mp4</a> from <a href="https://vimeo.com/user107341955">Amanda Jarvis</a> on <a href="https://vimeo.com">Vimeo</a>.</p>  
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXRer_4LkwNSSRSiP6Ro8_FdwRp9BHXNzIQmxz3BfKbHeDDZMHWxm6gaH_CFEr-JNS2SFxAeDB-icy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXRer_4LkwNSSRSiP6Ro8_FdwRp9BHXNzIQmxz3BfKbHeDDZMHWxm6gaH_CFEr-JNS2SFxAeDB-icy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 *Unfortunately during the second week of the course I got sick and I was unable to participate physically to the second part of the project.  
