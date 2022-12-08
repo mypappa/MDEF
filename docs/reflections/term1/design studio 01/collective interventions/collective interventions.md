@@ -5,9 +5,13 @@ we felt that the area was downgraded and unwelcoming for neither humans nor nun-
 
 <img src="../besoscutout.jpg" alt="drawing" width="800" />  
 
-## augmented creativity  
-First question that came up on the table was: what is augmentation?  
-Obviously there are many different definitions online about the augmented reality (AR) and the virtual reality (VR), but we were more interested in exploring the concept of augmentation in a wider spectrum. We realised that each one had a slightly different idea of what it meant. Personally I perceive augmentation as a distortion or an enhancement of existing information. It can be by adding a new layer of information on the physical ennvironment, but also by removing information and changing the balance of our sensorium. A psychedelic experience, a dream, a video game, they can all be augmented experiences. Dreaming can actually be a 'built-in' augmented reality.  
+## augmented creativity   
+### what is augmentation?
+First question that came up was what is augmentation?  
+There are of course many different definitions online, mostly under the term 'augmented reality (AR)' along with 'virtual reality (VR)', but we were more interested in exploring the concept of augmentation in a wider spectrum. We realised that each one in the group had a slightly different idea of what it meant. Personally I perceive augmentation as a distortion or enhancement of existing information: it can be achieved by adding a extra layer of information onto the physical ennvironment, or by removing part of the information and changing the balance of our sensorium. A psychedelic trip, a dream, a video game, or an isolated audio can be all be augmented experiences. Dreaming might actually be a 'built-in' augmented representation of reality.   
 
-
+### discussions
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPKy90dM=/?moveToViewport=-2180,-4534,9039,5864&embedId=74568064000" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### mocap room experiment  
+By this experiment we tried to create a non-human experience.+++
