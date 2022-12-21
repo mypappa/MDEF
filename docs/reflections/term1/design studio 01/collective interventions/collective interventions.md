@@ -13,5 +13,15 @@ There are of course many different definitions online, mostly under the term 'au
 ### discussions
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPKy90dM=/?moveToViewport=-2180,-4534,9039,5864&embedId=74568064000" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-### mocap room experiment  
-By this experiment we tried to create a non-human experience.+++
+### mocap room experiment   
+<img src="../augmentedcreativity.jpg" alt="drawing" width="800" />   
+
+This experiment was part of our research of the possibility to extend human perspectives to more-than-human ontologies. Until now they made use of sensory systems to create methodologies that help to establish empathy with otherness. The aim was to bring participants into a context from which collaborative practices can integrate the more-than-human and allows to open up space for unheard voices.
+
+For our intervention we used water as an example of other entity. We collected words that somehow describe the different forms of water and with them we created short 'poems' about the transitions of the water between solid, liquid and gas. For that we used the *haiku* Japanese poetic form that consists of three lines, with a 5-7-5 syllable pattern.  
+<img src="../waterwords.jpg" alt="drawing" width="700" />  
+<img src="../haiku.jpg" alt="drawing" width="700" />  
+
+We followed an explorative approach: we experimented with long practiced techniques of herbal-tea, breath work, and video projection. Our facilitator, Paige, read the poems to the participants and they moved freely inside the room. These movements were captured with motion-capture-technologies as tried to translate between virtual and physical. 
+
+it will be interesting to see how our feedback-systems will lead to further evolution in the coming time.
