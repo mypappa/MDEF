@@ -1,4 +1,4 @@
-## my fight #1
+## fight #1
 Starting with the master program, my readings and interests were in creating alternative narratives through storytelling about the romanticised idea of nature, the ancestor worship and post-humanism. Topics that were the core manifestations of my architecture thesis project.   
 Not knowing what my first fight should / would be about, I tried to demonstrate through the poster the confusion I felt living in this complex, interconnected environment in a more generalised way. I was concerned about the paradoxes and misconceptions of the contemporary ecological approach: our relationship with the waste we produce, the food we consider ethical and not, the deification / apotheosis of nature. It was an expression of opposition with a dose of irony.  
 <img src="../fight1.jpg" alt="drawing" width="500" />   
@@ -12,7 +12,7 @@ With our ever-growing theoretical framework, we created a new design space which
 
 Other application methods we are currently working on:
 - cartographies: a mapping technique to practice in case-studies
-- conferences: we are taking part in the Esbrina Research Group conference [“Imaginar mundos posibles: Potencialidades, límites y fricciones de la ficción especulativa en la investigación y la educación”](https://esbrina.eu/en/portfolio/imaginar-mundos-posibles-potencialidades-limites-y-fricciones-de-la-ficcion-especulativa-en-la-investigacion-y-la-educacion-3/), which has inspired us the idea of organising our own conference in Barcelona.   
+- conferences: we are taking part in the Esbrina Research Group conference [“Imaginar mundos posibles](https://esbrina.eu/en/portfolio/imaginar-mundos-posibles-potencialidades-limites-y-fricciones-de-la-ficcion-especulativa-en-la-investigacion-y-la-educacion-3/): Potencialidades, límites y fricciones de la ficción especulativa en la investigación y la educación”, which has inspired us the idea of organising our own conference in Barcelona.   
 
 For the rest, more is coming..  
 
