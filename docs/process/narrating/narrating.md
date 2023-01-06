@@ -5,3 +5,5 @@ loading...
 <img src="../poster1.png" alt="drawing" width="500" />  
 <img src="../poster2.png" alt="drawing" width="500" />  
 <img src="../poster3.png" alt="drawing" width="500" />  
+
+![](poster.gif)  
