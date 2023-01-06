@@ -1,7 +1,7 @@
 ## my fight #1
 Starting with the master program, my readings and interests were in creating alternative narratives through storytelling about the romanticised idea of nature, the ancestor worship and post-humanism. Topics that were the core manifestations of my architecture thesis project.   
 Not knowing what my first fight should / would be about, I tried to demonstrate through the poster the confusion I felt living in this complex, interconnected environment in a more generalised way. I was concerned about the paradoxes and misconceptions of the contemporary ecological approach: our relationship with the waste we produce, the food we consider ethical and not, the deification / apotheosis of nature. It was an expression of opposition with a dose of irony.  
-<img src="../fight1.jpg" alt="drawing" width="650" />   
+<img src="../fight1.jpg" alt="drawing" width="500" />   
 
 ## transitioning
 However, I was seeking for new interests, new areas to explore during the first term as it seemed like the perfect, unique opportunity for me to do so. Soon I came across other types intelligences in nonhuman species (spider web -> extended intelligence, Portuguese man of war -> collective intelligence), altered states of consciousness, embodied cognition and psychedelic therapy.  
@@ -17,4 +17,4 @@ Other application methods we are currently working on:
 For the rest, more is coming..  
 
 ## fight #2
-<img src="../fight2.png" alt="drawing" width="650" />   
+<img src="../fight2.png" alt="drawing" width="500" />   
