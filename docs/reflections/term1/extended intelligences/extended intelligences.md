@@ -8,5 +8,5 @@ However, the human perception of intelligence is quite limited: We think that it
 
 
 ## DIYosaurs  
-Our project idea was all about creating a user-friendly platform for diy.
-https://drive.google.com/file/d/184Cd-Xiug8Q97-E9UmpPu0RpM6Ush5v9/view?usp=sharing
+Our project idea was all about creating a user-friendly platform for diy.  
+<iframe src="https://drive.google.com/file/d/184Cd-Xiug8Q97-E9UmpPu0RpM6Ush5v9/preview" width="640" height="480" allow="autoplay"></iframe>
