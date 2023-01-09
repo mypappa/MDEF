@@ -1,3 +1,4 @@
+# design studio  
 ## know thy non-human neighbors  
 For our first attempt to explore an aquatic ecosystem in the urban context, we visited the Besòs river: a river flowing through Barcelona formed by the confluence of the Mogent and Congost rivers and ends in the Mediterranean.  
 Not knowing specifically what we were looking for, we walked barefoot around the site, trying understand the dynamics, the balances and imbalances. We focused on the non-human critters that live in the area and their interactivity, but we mainly found remains of their passage: bones, feathers, droppings and other unspecified objects...  
