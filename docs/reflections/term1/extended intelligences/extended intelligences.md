@@ -4,7 +4,6 @@
 More generally, it can be described as the *ability to perceive or infer information, and to retain it as knowledge to be applied towards adaptive behaviors within an environment or context.*  
 However, the human perception of intelligence is quite limited: We think that it is only what happens inside the brains. Only the past few years did I realise that intelligence happens **everywhere**. In our mind, our bodies, our movements, our communities, our surroundings.  
 
-## mapping my extended intelligence  
 
 
 ## DIYosaurs  

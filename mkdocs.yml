@@ -23,10 +23,12 @@ nav:
         - workspace: reflections/term1/design studio 01/workspace/my workspace.md
         - collective interventions: reflections/term1/design studio 01/collective interventions/collective interventions.md
         - communication: reflections/term1/design studio 01/communication/communication.md
+        - learnings: reflections/term1/design studio 01/learnings/learnings.md
       - extended intelligences: reflections/term1/extended intelligences/extended intelligences.md
       - living with your own ideas: reflections/term1/living with your own ideas/living with your own ideas.md
       - tech beyond the myth: reflections/term1/tech beyond the myth/tech beyond the myth.md
-    - term 2: reflections/term2/term2.md
+    - term 2:
+      - design for the next billion seconds: reflections/term2/design for the next billion seconds/design for the next billion seconds.md
     - term 3: reflections/term3/term3.md
   - process:
     - exploring: process/exploring/exploring.md
