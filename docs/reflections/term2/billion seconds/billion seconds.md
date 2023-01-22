@@ -2,11 +2,13 @@
 `track: application`   
 
 ## a day in my post-technological life  
-<img src="../aday.png" alt="drawing" width="700" />   
+<img src="../aday.png" alt="drawing" width="500" />   
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2BMb5O-xPK5Posl0AyzFnylOVX6ILRxI72aSq2_JGEXFZ9KCv7k-yYuMimIKCWJQU5kfn1thoFMYj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2BMb5O-xPK5Posl0AyzFnylOVX6ILRxI72aSq2_JGEXFZ9KCv7k-yYuMimIKCWJQU5kfn1thoFMYj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
 
 ## letter to myself  
-<img src="../letter.png" alt="drawing" width="700" />   
+<img src="../letter.png" alt="drawing" width="600" />   
+
+## few notes  
