@@ -15,7 +15,7 @@
 
 it is mainly used for textile products like underwear, socks and t-shirts, but also in fishnets, coffee filters, tents, book binding and archival paper.  
 
-for me cotton is intimacy, closeness, security. it is a memory of home, childhood, the being-taken-care-of feeling.   
+for me cotton is intimacy, closeness, security. it is a memory of home, childhood, the being-taken-care-of feeling.    
 
 ### **cabbage** - one material from the references    
 <img src="../veggielights.png" alt="drawing" width="500" />   
