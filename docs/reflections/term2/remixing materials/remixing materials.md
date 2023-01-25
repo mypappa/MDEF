@@ -8,7 +8,7 @@
 `- what is the story behind them (who did them, why, where it comes from)`  
 `- 2 possible applications for each`   
 
-### **cotton** - one material around me  
+### **cotton** - around me  
 <img src="../cotton.jpeg" alt="drawing" width="500" />   
 
 Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. The fiber is almost pure cellulose. under natural conditions, the cotton bolls will increase the dispersal of the seeds.  
@@ -28,7 +28,7 @@ Another interesting concept I came across is the use of cotton as a **conductor*
 @ https://newatlas.com/future-of-cotton/17077/
 
 
-### **red cabbage** - one material from the references    
+### **red cabbage** - from the references    
 
 Most of the red cabbage varieties grown in the United States originated in Germany and the Low Countries. "Red" cabbage (magenta to purplish) was first described in England in 1570, all of the early varieties being round-headed.  
 @ https://aggie-horticulture.tamu.edu/archives/parsons/publications/vegetabletravelers/cabbage.html  
@@ -45,5 +45,5 @@ Interestingly, when I picked this material from the list of references presented
 
 Its strongly communicative and information-rich surface can we used in art or in wearables, depending on the process it goes through. Besides the material itself, i imagine it being used as a reference to other kinds of creations.  
 
-### **magicium** - my ideal material   
-it is thick, soft and heavy. but it can shrink or evaporate according
+### **my second skin companion** - an ideal story   
+it is thick, soft and heavy. but it can shrink or evaporate according to my needs. it always fits my body or packed it my carrier bag. i always keep it close to my skin to make me warm. when i’m hungry i can also eat it, and with some good care it grows back it’s size. it is also nurtures itself from my body, my sweat, my breath, my energy. when i get sick it becomes strong and thick, and when it gets weak, it revives from my body. when i die, it remains as a carrier of my spirit to its next host. i don’t know it’s origin but i imagine it travels through non-human linear time adapting to each epoque... to be continued
