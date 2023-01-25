@@ -1,12 +1,12 @@
 # [remixing materials](https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/term_2_2022_23/remixing_materials_2022_23/)  
 `track: application`  
-(still writing)
+
 ## material narratives exercise   
-`choose 1 material around, 1 material from references and one ideal/fictional material and do the following:  
-- properties (functional, technical & emotional)  
-- describe what is it and their aspect/aesthetic (add photo to documentation)  
-- what is the story behind them (who did them, why, where it comes from)  
-- 2 possible applications for each`   
+`choose 1 material around, 1 material from references and one ideal/fictional material and do the following:`     
+`- properties (functional, technical & emotional)`   
+`- describe what is it and their aspect/aesthetic (add photo to documentation)`  
+`- what is the story behind them (who did them, why, where it comes from)`  
+`- 2 possible applications for each`   
 
 ### **cotton** - one material around me  
 <img src="../cotton.jpeg" alt="drawing" width="500" />   
@@ -24,7 +24,7 @@ for me cotton is intimacy, closeness, security. it is a memory of home and child
 
 There are already multiple applications of cotton as mentioned above. My future speculation would be that is becomes **part of our nutrition**, as its seed is protein-rich. Currently it cannot be digested by humans or animals other than cows but I can easily imagine this changing over the coming years with some scientific help..  
 Another interesting concept I came across is the use of cotton as a **conductor**.  
-*The cotton fibers are covered with microscopic particles enabling them to conduct electricity. The applications of this are endless, but they have already used them to sense the heart rate of a person wearing the fabric, and created clothes that can power electronic devices, or even create color without dyes!*    
+*The cotton fibers are covered with microscopic particles enabling them to conduct electricity. The applications of this are endless, but they have already used them to sense the heart rate of a person wearing the fabric, and created clothes that can power electronic devices, or even create color without dyes!*
 @ https://newatlas.com/future-of-cotton/17077/
 
 
