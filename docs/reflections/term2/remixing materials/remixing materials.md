@@ -34,7 +34,7 @@ Most of the red cabbage varieties grown in the United States originated in Germa
 @ https://aggie-horticulture.tamu.edu/archives/parsons/publications/vegetabletravelers/cabbage.html  
 
 Red cabbage as a vegetable is one of my favorites. As a person who hardly ever cooks, I really appreciate the ease of eating it raw (or cooked) and its relatively high nutrition value. Another fascinating part is its inner shapes. It has an amazing variety of red and purple tones and when being cut in sections, beautiful patterns appear. Depending on the cut (horizontal, vertical, random), it *tells a different story*. It essentially a leaf-overlay with various thicknesses on its body. empties - solids, hards - softs. As a human, I can read on it mathematic structures, tree diagrams, neural networks, or freeh andrawings.   
-<img src="../redcabbage.jpeg" alt="drawing" width="500" />   
+<img src="../redcabbage.png" alt="drawing" width="500" />   
 
 Another interesting aspect is that changes its color according to the pH value of the soil due to a pigment belonging to anthocyanins. In acidic soils, the leaves grow more reddish; in neutral soils, they will grow more purple, while an alkaline soil will produce rather greenish-yellow colored cabbages. This explains the fact that the same plant is known by different colors in various regions.
 
