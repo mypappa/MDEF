@@ -7,7 +7,7 @@ I followed those interests by experimenting with several activities such as ecst
 
 Somewhere along the way I discovered I shared interests with my friend and classmate Stella, so we began to timidly join our paths. We developed together a more extensive research about post-nature and speculative fiction through storytelling that enriched our list of references. We explored theories such as the mesh (@Timothy Morton), anthropocene - capitalocene - cthulhucene (@Donna Haraway, @Anna Tsing Lowenhaupt, @Bruno Latour), feralisation (@Anna Tsing Lowenhaupt), carrier bags (@Donna Haraway), the Gaia-theory (@James Lovelock) and more.  
 With our ever-growing theoretical framework, we created a new design space which we then tried to apply by translating them into questions for the public. In the design dialogues week we created a mesh-type installation with our questions and a QR code leading to the platform of our [open dialogue](https://etherpad.wikimedia.org/p/fLhhX-gQcpsCZCb0Ckj3).   
-![](mesh.png)   
+
 Other application methods we are currently working on:
 - cartographies: a collective mapping technique to practice in case-studies
 - conferences: we are taking part in the Esbrina Research Group [conference](https://esbrina.eu/en/portfolio/imaginar-mundos-posibles-potencialidades-limites-y-fricciones-de-la-ficcion-especulativa-en-la-investigacion-y-la-educacion-3/), which has inspired us the idea of organising our own conference in Barcelona.   
@@ -19,7 +19,7 @@ ii) bringing daily-life objects that reproduce/ remind of the encampment in the 
 ...more is coming..  
 
 ## reflecting // reframing   
-`Goals: Critically look back at your project, reflect on the feedback from the Design Dialogues, and propose a new scope, goals and next steps.`  
+`goals: critically look back at your project, reflect on the feedback from the Design Dialogues, and propose a new scope, goals and next steps.`  
 
 - **abstract ideas are not easy to materialise**   
 My thoughts have been quite vague and abstract during the first term. This opened many new pathways of collaboration with different people and exploring multiple fields. However, when the time came to translate these ideas onto the real world and practice experiments, things were challenging. It felt like any idea put into practice costed some loss in the meaning of it, or takes to other, non intended paths. For instance, the 'augmented creativity' group was formed with the goal of exploring *altered states of consciousness* and creating non-human experiences. Our intervention at the mocap room turned out to be more of a spiritual activity, which was not part of our initial plan. Even though abstract concepts cannot be easily solidified, I found value in applying fast-paced tests, even if they do not seem to perfectly fit all the objectives.  
