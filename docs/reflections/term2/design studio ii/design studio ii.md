@@ -33,4 +33,4 @@ I have always been spending much time thinking what - why - where - how before I
 
 ## design space ii  
 
-<img src="../designspace2.jpg" alt="drawing" width="800" />   
+![](designspace2.jpg)  

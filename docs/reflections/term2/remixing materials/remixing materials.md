@@ -48,4 +48,11 @@ Interestingly, when I picked this material from the list of references presented
 Its strongly communicative and information-rich surface can be used in art or in wearables, depending on the process it goes through. Besides the material itself, i imagine it being used as a reference to other kinds of creations.  
 
 ### **hyperskin** - an ideal story (in the making)    
-my hyperskin companion has always been with me. i cant remember the first time i saw it, but i have seen it changing and growing with me through time. when im cold, it wraps around me like a blanket. thick, soft and heavy. other times it is rough and rigid, more like an impenetrable shield. when i travel and its warm, it shrinks so much that i can fit it inside my jeans pocket. sometimes i wonder it partly evaporates in the air. it always fits me, somehow it adapts its shape to my needs. when i’m hungry i can also eat a little bit of it, and with some good care it grows back it’s size. is also nourished by my body, my sweat, my breath, my energy. when i get sick it becomes strong and thick, and when it gets weak, it revives from my health. when i die, it remains as a carrier of my spirit to its next host. i don’t know it’s origin but i imagine it travels through non-linear time adapting to each epoque... to be continued
+my hyperskin companion has always been with me. i cant remember the first time i saw it, but i have seen it changing and growing with me through time.   
+
+when im cold, it wraps around me like a blanket. thick, soft and heavy. other times it is rough and rigid, more like an impenetrable shield. when i travel and its warm, it shrinks so much that i can fit it inside my jeans pocket. sometimes i wonder it partly evaporates in the air.  
+
+it always fits me, somehow it adapts its shape to my needs. when i’m hungry i can also eat a little bit of it, and with some good care it grows back it’s size.  
+is also nourished by my body, my sweat, my breath, my energy. when i get sick it becomes strong and thick, and when it gets weak, it revives from my health.  
+
+when i die, it remains as a carrier of my spirit to its next host. i don’t know it’s origin but i imagine it travels through non-linear time adapting to each epoque... to be continued
