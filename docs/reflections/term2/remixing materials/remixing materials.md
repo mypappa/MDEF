@@ -30,15 +30,17 @@ Another interesting concept I came across is the use of cotton as a **conductor*
 
 ### **red cabbage** - from the references    
 
+<img src="../veggielights.png" alt="drawing" width="500" />   
+
 Most of the red cabbage varieties grown in the United States originated in Germany and the Low Countries. "Red" cabbage (magenta to purplish) was first described in England in 1570, all of the early varieties being round-headed.  
 @ https://aggie-horticulture.tamu.edu/archives/parsons/publications/vegetabletravelers/cabbage.html  
 
 Red cabbage as a vegetable is one of my favorites. As a person who hardly ever cooks, I really appreciate the ease of eating it raw (or cooked) and its relatively high nutrition value. Another fascinating part is its inner shapes. It has an amazing variety of red and purple tones and when being cut in sections, beautiful patterns appear. Depending on the cut (horizontal, vertical, random), it *tells a different story*. It is essentially a leaf-overlay with various thicknesses on its body. empties - solids, hards - softs. As a human, I can read on it mathematic structures, tree diagrams, neural networks, or free handrawings.   
 <img src="../redcabbage.png" alt="drawing" width="500" />   
 
-Another interesting aspect is that changes its color according to the pH value of the soil due to a pigment belonging to anthocyanins. In acidic soils, the leaves grow more reddish; in neutral soils, they will grow more purple, while an alkaline soil will produce rather greenish-yellow colored cabbages. This explains the fact that the same plant is known by different colors in various regions.
+Another interesting aspect is that it changes its color according to the pH value of the soil due to a pigment belonging to anthocyanins. In acidic soils, the leaves grow more reddish; in neutral soils, they will grow more purple, while an alkaline soil will produce rather greenish-yellow colored cabbages. This explains the fact that the same plant is known by different colors in various regions.
 
-A personally experienced use of red cabbage juice is a **pH indicator**, as it turns red in acid and green/yellow in basic solutions. Within the "bio & agri zero" seminar during the first term we experimented with the red cabbage and made our diy ph paper!  
+A personally experienced use of red cabbage juice is a **pH indicator**, as it turns red in acid and green/yellow in basic solutions. Within the "bio & agri zero" seminar of the first term we experimented with the red cabbage and made our diy ph paper!  
 <img src="../phpaper.png" alt="drawing" width="500" />   
 
 Interestingly, when I picked this material from the list of references presented in class, I didn't know that the referred material was red cabbage. The picture of this semi-transparent membrane with vein-like patterns attracted me and only after doing some research I discovered that the original material behind it. Apparently, the studio [nir meiri](https://www.nirmeiri.com/) processed the cabbage leaves and launched their new lighting collection, **veggie lights** during london design festival 2019. the lamp collection, made out of thin layers of red cabbage with the materials developed by vaidehi thakkar called ‘fiber flats’.  
