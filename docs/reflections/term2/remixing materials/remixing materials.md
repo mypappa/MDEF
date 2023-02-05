@@ -56,3 +56,14 @@ it always fits me, somehow it adapts its shape to my needs. when i’m hungry i 
 is also nourished by my body, my sweat, my breath, my energy. when i get sick it becomes strong and thick, and when it gets weak, it revives from my health.  
 
 when i die, it remains as a carrier of my spirit to its next host. i don’t know it’s origin but i imagine it travels through non-linear time adapting to each epoque... to be continued
+
+## material design exercise  
+`Choose one recipe you would like to work on for your project and further develop it (experiment, modify additive,quantities, methodology). You will need to:`  
+`- Design it (aesthetics/images/sketches)`  
+`- Research on ingredients (origins & properties)`  
+
+Even though I really enjoy playing with materials and forms hands-on, I have been very skeptical with the 'circularity' of biomaterials and all the supposedly sustainability they promote. However, I did enjoy the 'cooking' part as i don't practice it very often at home (!). The process of building something from scratch collectively, with a lot of improvisation and then seeing it transformed, becoming a concrete object with its own story, is something I have missed in my journey through the master so far. It becomes clear that -again- the most appealing part for me is the **story** of the materials. The unknown story behind them and their possible stories ahead. That being said, with my group we tried to approach this exercise with a concept that would provoke wondering, questioning, 'shaking the ground' of our mindsets. We decided to use human and cat hair as a main additive which was admittedly unattractive. Mixing it with gelatine made it even more disgusting, which at the same time made it more interesting. We decided it to weave our story around this paradoxical repulsion towards our body's drivatives, which apparently are perfectly described by the word 'abjects': objects from our immediate bodies that we reject and interpret as disgusting, dead, as parting from us. eg hair, pee, sweat, blood, etc...  We aimed to challenge the boundaries between accepted and unaccepted as culturally constructed and serving the maintainance of social order and power dynamics.  
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTZpcyv6Zmo69rrEVO2iqHWpvicUL2Kk1IY5dcfrgXwKCSHXubCtKOYx4v0cWrTejzpAgGK4-agALSO/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
+
+`team: Korbinian, Marielle, Myrto, Stella
