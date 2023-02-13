@@ -20,7 +20,7 @@ it is mainly used for textile products like underwear, socks and t-shirts, but a
 
 @ The Biology of Gossypium hirsutum L. and Gossypium barbadense L. (cotton).  
 
-for me cotton is intimacy, closeness, security. it is a memory of home and childhood, when I was 'being-taken-care-of'. As a person from a family with sensitive skin multiple skin intolerances, I was always being told that 100% cotton is the only safe choice when it comes to textiles. I haven't inherited the cotton-mania to this extent but I definitely have some sort of attatchment to cotton.  
+for me cotton is intimacy, closeness, security. it is a memory of home and childhood, when I was 'being-taken-care-of'. As a person from a family with sensitive skin multiple skin intolerances, I was always being told that 100% cotton is the only safe choice when it comes to textiles. I haven't inherited the cotton-mania to this extent but I definitely have some sort of attatchment to cotton..  
 
 There are already multiple applications of cotton as mentioned above. My future speculation would be that is becomes **part of our nutrition**, as its seed is protein-rich. Currently it cannot be digested by humans or animals other than cows but I can easily imagine this changing over the coming years with some scientific help..  
 Another interesting concept I came across is the use of cotton as a **conductor**.  
