@@ -21,3 +21,6 @@ with my average background in maths, which has been left untouched since high sc
 ## lets play music  
 
 `Make some music with your board and a simple buzzer, document it with some images, videos, your experiencies, problems and reflections about what you learned..`    
+
+first step for this task was to connect. sounds simple yet always takes some time to get the right pins.. 
+for this task we decided together with my roommate Korbi to play and mix up the "Ode to Joy" - Beethoven's Symphony No. 9. 
