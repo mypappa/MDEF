@@ -17,7 +17,7 @@ but still, with my average background in maths, which has been left untouched si
 
 <img src="../croissant.png" alt="drawing" width="600" />   
 
-<img src="../maths.jpeg" alt="drawing" width="600" />   
+<img src="../maths.jpeg" alt="drawing" width="750" />   
 
 ## lets play some music  
 
