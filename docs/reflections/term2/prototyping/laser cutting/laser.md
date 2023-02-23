@@ -15,6 +15,7 @@ Given the fact that these days were intense and the fab lab was full of stressed
 
 <img src="../laser micro.png" alt="drawing" width="550" />   
 
+<img src="../press1.png" alt="drawing" width="550" />   
 
 ## workshop cards   
 
