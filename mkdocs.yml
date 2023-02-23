@@ -32,8 +32,10 @@ nav:
       - remixing materials: reflections/term2/remixing materials/remixing materials.md
       - design studio ii: reflections/term2/design studio ii/design studio ii.md
       - prototyping: 
-        - tasks: reflections/term2/prototyping/tasks/tasks.md
+        - music with arduino: reflections/term2/prototyping/music with arduino/music.md
+        - parametric croissant: reflections/term2/prototyping/parametric croissant/parametric croissant.md
         - microchallenge i: reflections/term2/prototyping/microchallenge i/microchallenge i.md
+        - laser cutting: reflections/term2/prototyping/laser cutting/laser cutting.md
       - communicating ideas: reflections/term2/communicating ideas/communicating ideas.md
     - term 3: reflections/term3/term3.md
   - process:
