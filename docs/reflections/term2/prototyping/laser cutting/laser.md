@@ -5,16 +5,15 @@ Here are two examples of what I got to cut in the machine so far.
 
 ## press-fit  
 
+![](laser.gif)  
+
 during the first microchallenge week, together with my team Amanda and Seher we decided to build quite a complex and ambitious tool for storing data (audio) on objects (cups). For that we had to employ multidisciplinary design tools: ideating & storytelling, electronics and coding, engeneering, digital fabricating. The part that needed to be designed and fabricated from scratch was the turning table, which would rotate the cup as a pen carved sounds graphs on its outter surface. our only guidance in terms of dimensions was of the aluminum framework and the motors that we borrowed (!) from an old, broken 3D printer.  
 
 We used the press-fit technique to secure the stability of the structure, therefore we designed the pieces on rhino using our measurments, instincts and a lot of hope.  
 
-Given the fact that these days were intense and the fab lab was full of stressed students queuing impatiently to cut their drawings, we wouldn't have the luxury of failing and retrying.  thankfully we were very lucky making our first cutting work (ok, with a little sanding..) and using them for our final result. It came out neat and definitely strong! 
+Given the fact that these days were intense and the fab lab was full of stressed students queuing impatiently to cut their drawings, we wouldn't have the luxury of failing and retrying.  thankfully we were very lucky making our first cutting work (ok, with some sanding..) and using them for our final result. It came out neat and definitely strong!  
 
-
-![](laser.gif)  
-
-<img src="../laser micro.png" alt="drawing" width="650" />   
+<img src="../laser micro.png" alt="drawing" width="550" />   
 
 
 ## workshop cards   
