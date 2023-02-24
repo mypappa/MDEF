@@ -13,8 +13,8 @@ We used the press-fit technique to secure the stability of the structure, theref
 
 Given the fact that these days were intense and the fab lab was full of stressed students queuing impatiently to cut their drawings, we wouldn't have the luxury of failing and retrying.  thankfully we were very lucky making our first cutting work (ok, with some sanding..) and using them for our final result. It came out neat and definitely strong!  
 
-<img src="../laser micro.png" alt="drawing" width="550" />   
-<img src="../press1.png" alt="drawing" width="500" />   
+<img src="../laser combined.png" alt="drawing" width="750" />   
+
 
 ## workshop cards   
 
