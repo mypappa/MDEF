@@ -21,3 +21,4 @@ Given the fact that these days were intense and the fab lab was full of stressed
 here we used the laser cutter to make cards for a workshop we organised with Stella. The puprose was to enhance the experience of the participants, and give a more concrete aspect to the relatively abstract and speculative concepts we are dealing with..   
 
 <img src="../cardss.png" alt="drawing" width="750" />  
+<img src="../cards2.png" alt="drawing" width="750" />  
