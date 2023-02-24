@@ -1,9 +1,12 @@
 As an architect I have used the laser cutter quite a lot over the last few years, both in my studies and in my professional experience.  
 
 However, I have never used it for other uses than urban, landscape or architectural models. It was very interesting for me to discover the potential of these machines beyond the limitations of this field.  
+
 Prototyping and physical modelling (maquettes) are two very different approaches: In the first case, the model is nothing more than an interpretive simulation of the "real" project:  
 different scale, different materials, different functions.  
+
 On the other hand, prototyping has a much more direct relationship with the project. It is the project itself; ok, maybe still quite far from the final goal or original idea, but still, more closely related to its origin.  
+
 This was for me the first time I used the laser cutter for a 1-1 scale. First time I didn't have to convert x meters to 1:20 or 1:50 scale when preparing the laser file!  
 
 Here are two examples of what I got to cut in the machine so far.  
