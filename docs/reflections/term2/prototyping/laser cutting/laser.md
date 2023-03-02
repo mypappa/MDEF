@@ -7,7 +7,7 @@ different scale, different materials, different functions.
 
 On the other hand, prototyping has a much more direct relationship with the project. It is the project itself; ok, maybe still quite far from the final goal or original idea, but still, more closely related to its origin.  
 
-This was for me the first time I used the laser cutter for a 1-1 scale. First time I didn't have to convert x meters to 1:20 or 1:50 scale when preparing the laser file!  
+This was for me the first time using the laser cutter in a 1-1 scale· first time I didn't have to convert meters to 1:20 or 1:50 scale when preparing the laser file!  
 
 Here are two examples of what I got to cut in the machine so far.  
 

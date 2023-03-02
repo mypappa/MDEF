@@ -11,4 +11,4 @@
 ## letter to myself  
 <img src="../letter.png" alt="drawing" width="600" />   
 
-## few notes  
+

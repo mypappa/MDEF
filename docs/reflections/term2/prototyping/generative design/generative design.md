@@ -11,8 +11,8 @@ Even if most of the plug-ins are open source, they are only available for a Wind
 The fun part of parametric design though is after its (more or less) done. Playing with the sliders and transforming the whole body of the model, fine tuning all its components with no order· I could jump from the first to the last one in an 'anarchic' way, without losing any of the interrelationships.  
 
 so here is the result..  
-<img src="../grass.png" alt="drawing" width="650" />   
+<img src="../grass.png" alt="drawing" width="850" />   
 
-<img src="../grasshopping.jpg" alt="drawing" width="650" />   
+<img src="../grasshopping.jpg" alt="drawing" width="850" />   
 
-<img src="../treee.png" alt="drawing" width="650" />   
+<img src="../treee.png" alt="drawing" width="850" />   
