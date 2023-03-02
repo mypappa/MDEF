@@ -21,7 +21,7 @@
     
     
       
-        <title>Leds - Myrto Eirini Pappa - MDEF & Fab Lab Barcelona</title>
+        <title>leds are fun - Myrto Eirini Pappa - MDEF & Fab Lab Barcelona</title>
       
     
     
@@ -95,7 +95,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              Leds
+              leds are fun
             
           </span>
         </div>
@@ -228,10 +228,12 @@
       
       
 
+  
 
-  <li class="md-nav__item md-nav__item--nested">
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" checked>
     
     <label class="md-nav__link" for="nav-4">
       reflections
@@ -445,10 +447,12 @@
           
           
 
+  
 
-  <li class="md-nav__item md-nav__item--nested">
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-2" type="checkbox" id="nav-4-2">
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-2" type="checkbox" id="nav-4-2" checked>
     
     <label class="md-nav__link" for="nav-4-2">
       term 2
@@ -502,10 +506,12 @@
           
           
 
+  
 
-  <li class="md-nav__item md-nav__item--nested">
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-2-4" type="checkbox" id="nav-4-2-4">
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4-2-4" type="checkbox" id="nav-4-2-4" checked>
     
     <label class="md-nav__link" for="nav-4-2-4">
       prototyping
@@ -595,11 +601,59 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="../../leds are fun/leds are fun.md" title="leds are fun" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        leds are fun
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
+    <a href="./" title="leds are fun" class="md-nav__link md-nav__link--active">
       leds are fun
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#message-to-the-led" class="md-nav__link">
+    message to the led
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#breathe" class="md-nav__link">
+    breathe
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#synced-burn" class="md-nav__link">
+    synced burn
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
   </li>
 
         
@@ -766,7 +820,7 @@
                   
                 
                 
-                  <h1>Leds</h1>
+                  <h1>leds are fun</h1>
                 
                 <p>here we go, finally playing with our arduino boards again. We were all hapoy to start this class straight away hands-on. the &lsquo;real-time&rsquo; presentation and application feels much more efficient and productive and fun, as it is a collective experience.  </p>
 <p>we started by the simplest tast of <em>turning on a led light</em>, which we have already done numerous times, starting from the precourse. Yet still, I always get something wrong and ask for help because somehow i can never find if I mixed some pins, if I didn&rsquo;t connect to the right board on arduino interface, if, if, if&hellip;   </p>
@@ -920,6 +974,164 @@
 <span class="p">}</span>
 </code></pre></div>
 <h2 id="synced-burn">synced burn<a class="headerlink" href="#synced-burn" title="Permanent link">&para;</a></h2>
+<div class="highlight"><pre><span></span><code><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;Arduino.h&quot;</span>
+<span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;jled.h&quot;</span>
+<span class="cp">#define LED_PIN 14</span>
+
+<span class="c1">// New code for MQTT!</span>
+<span class="c1">//-------------------</span>
+<span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;WiFi.h&gt;</span>
+<span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;PubSubClient.h&gt;</span>
+
+<span class="k">const</span><span class="w"> </span><span class="kt">char</span><span class="o">*</span><span class="w"> </span><span class="n">ssid</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">&quot;Iaac-Wifi&quot;</span><span class="p">;</span>
+<span class="k">const</span><span class="w"> </span><span class="kt">char</span><span class="o">*</span><span class="w"> </span><span class="n">password</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">&quot;EnterIaac22@&quot;</span><span class="p">;</span>
+<span class="n">WiFiClient</span><span class="w"> </span><span class="n">wifiClient</span><span class="p">;</span>
+
+<span class="k">const</span><span class="w"> </span><span class="kt">char</span><span class="o">*</span><span class="w"> </span><span class="n">mqttBroker</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">&quot;mqtt-staging.smartcitizen.me&quot;</span><span class="p">;</span>
+<span class="k">const</span><span class="w"> </span><span class="kt">char</span><span class="o">*</span><span class="w"> </span><span class="n">mqttClientName</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">&quot;S-and-M-and&quot;</span><span class="p">;</span>
+<span class="k">const</span><span class="w"> </span><span class="kt">char</span><span class="o">*</span><span class="w"> </span><span class="n">mqttClientUser</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">&quot;fablabbcn102&quot;</span><span class="p">;</span>
+<span class="k">const</span><span class="w"> </span><span class="kt">char</span><span class="o">*</span><span class="w"> </span><span class="n">mqttClientPass</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">&quot;&quot;</span><span class="p">;</span>
+<span class="k">const</span><span class="w"> </span><span class="kt">char</span><span class="o">*</span><span class="w"> </span><span class="n">topicToSub</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">&quot;lab&quot;</span><span class="p">;</span>
+<span class="c1">// const char* topicToPub = &quot;lab&quot;;</span>
+<span class="n">PubSubClient</span><span class="w"> </span><span class="nf">mqttClient</span><span class="p">(</span><span class="n">wifiClient</span><span class="p">);</span>
+<span class="c1">//-------------------</span>
+
+<span class="c1">// Jled object.</span>
+<span class="c1">// More information here: https://github.com/jandelgado/jled#usage</span>
+<span class="n">JLed</span><span class="w"> </span><span class="n">led</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">JLed</span><span class="p">(</span><span class="n">LED_PIN</span><span class="p">);</span>
+
+<span class="c1">//-------------------</span>
+<span class="c1">// Add more animations here!</span>
+<span class="c1">// Basic blink</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">blink</span><span class="w"> </span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">time_on</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">100</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">  </span><span class="n">led</span><span class="p">.</span><span class="n">Blink</span><span class="p">(</span><span class="n">time_on</span><span class="p">,</span><span class="w"> </span><span class="n">time_on</span><span class="p">).</span><span class="n">Repeat</span><span class="p">(</span><span class="mi">3</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="c1">// Smooth breathing</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">breathe</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">time_on</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">100</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">  </span><span class="n">led</span><span class="p">.</span><span class="n">Breathe</span><span class="p">(</span><span class="n">time_on</span><span class="p">).</span><span class="n">Repeat</span><span class="p">(</span><span class="mi">3</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="c1">//-------------------</span>
+
+<span class="c1">// Candle effect</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">burn</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">time_on</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">100</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">  </span><span class="n">led</span><span class="p">.</span><span class="n">Candle</span><span class="p">(</span><span class="n">time_on</span><span class="p">).</span><span class="n">Repeat</span><span class="p">(</span><span class="mi">3</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="c1">//-------------------</span>
+
+<span class="kt">void</span><span class="w"> </span><span class="nf">mqttConnect</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">  </span><span class="k">while</span><span class="w"> </span><span class="p">(</span><span class="o">!</span><span class="n">mqttClient</span><span class="p">.</span><span class="n">connected</span><span class="p">())</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="n">Serial</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">&quot;Attempting MQTT connection...&quot;</span><span class="p">);</span>
+
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">mqttClient</span><span class="p">.</span><span class="n">connect</span><span class="p">(</span><span class="n">mqttClientName</span><span class="p">,</span><span class="w"> </span><span class="n">mqttClientUser</span><span class="p">,</span><span class="w"> </span><span class="n">mqttClientPass</span><span class="p">))</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">      </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="s">&quot;connected&quot;</span><span class="p">);</span>
+<span class="w">      </span><span class="n">mqttClient</span><span class="p">.</span><span class="n">publish</span><span class="p">(</span><span class="s">&quot;hello&quot;</span><span class="p">,</span><span class="w"> </span><span class="n">mqttClientName</span><span class="p">);</span>
+
+<span class="w">      </span><span class="c1">// Topic(s) subscription</span>
+<span class="w">      </span><span class="n">mqttClient</span><span class="p">.</span><span class="n">subscribe</span><span class="p">(</span><span class="n">topicToSub</span><span class="p">);</span>
+
+<span class="w">    </span><span class="p">}</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">      </span><span class="n">Serial</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">&quot;failed, rc=&quot;</span><span class="p">);</span>
+<span class="w">      </span><span class="n">Serial</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="n">mqttClient</span><span class="p">.</span><span class="n">state</span><span class="p">());</span>
+<span class="w">      </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="s">&quot; try again in 5 seconds&quot;</span><span class="p">);</span>
+<span class="w">      </span><span class="n">delay</span><span class="p">(</span><span class="mi">5000</span><span class="p">);</span>
+
+<span class="w">    </span><span class="p">}</span>
+<span class="w">  </span><span class="p">}</span>
+<span class="p">}</span>
+
+<span class="kt">void</span><span class="w"> </span><span class="nf">callback</span><span class="p">(</span><span class="kt">char</span><span class="o">*</span><span class="w"> </span><span class="n">topic</span><span class="p">,</span><span class="w"> </span><span class="n">byte</span><span class="o">*</span><span class="w"> </span><span class="n">message</span><span class="p">,</span><span class="w"> </span><span class="kt">unsigned</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">length</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">  </span><span class="n">String</span><span class="w"> </span><span class="n">newMsg</span><span class="p">;</span>
+
+<span class="w">  </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">length</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">newMsg</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="p">(</span><span class="kt">char</span><span class="p">)</span><span class="n">message</span><span class="p">[</span><span class="n">i</span><span class="p">];</span>
+<span class="w">  </span><span class="p">}</span>
+
+<span class="w">  </span><span class="c1">// Serial.print(&quot;Message arrived on topic: &quot;);</span>
+<span class="w">  </span><span class="c1">// Serial.print(topic);</span>
+<span class="w">  </span><span class="c1">// Serial.print(&quot;. Message: &quot;);</span>
+<span class="w">  </span><span class="c1">// Serial.println(newMsg);</span>
+
+<span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">String</span><span class="p">(</span><span class="n">topic</span><span class="p">)</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">topicToSub</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="c1">// For debugging purposes, print it</span>
+<span class="w">    </span><span class="c1">// Serial.print(&quot;Got new message!: &quot;);</span>
+<span class="w">    </span><span class="c1">// Serial.println(newMsg);</span>
+
+<span class="w">    </span><span class="kt">int</span><span class="w"> </span><span class="n">pos</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">newMsg</span><span class="p">.</span><span class="n">indexOf</span><span class="p">(</span><span class="s">&quot;/&quot;</span><span class="p">);</span>
+<span class="w">    </span><span class="n">String</span><span class="w"> </span><span class="n">action</span><span class="p">;</span>
+<span class="w">    </span><span class="kt">int</span><span class="w"> </span><span class="n">param</span><span class="p">;</span>
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">pos</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">-1</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">      </span><span class="n">action</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">newMsg</span><span class="p">.</span><span class="n">substring</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="n">pos</span><span class="p">);</span>
+<span class="w">      </span><span class="n">param</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">newMsg</span><span class="p">.</span><span class="n">substring</span><span class="p">(</span><span class="n">pos</span><span class="o">+</span><span class="mi">1</span><span class="p">).</span><span class="n">toInt</span><span class="p">();</span>
+<span class="w">    </span><span class="p">}</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="p">{</span>
+<span class="w">      </span><span class="n">action</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">newMsg</span><span class="p">;</span>
+<span class="w">      </span><span class="n">param</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">100</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
+
+<span class="w">    </span><span class="c1">// Serial.print(&quot;Action requested: &quot;);</span>
+<span class="w">    </span><span class="c1">// Serial.println(action);    </span>
+
+<span class="w">    </span><span class="c1">// Serial.print(&quot;Parameter: &quot;);</span>
+<span class="w">    </span><span class="c1">// Serial.println(param);</span>
+
+<span class="w">    </span><span class="c1">// Blink if we tell it to!</span>
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">action</span><span class="p">.</span><span class="n">equals</span><span class="p">(</span><span class="s">&quot;blink&quot;</span><span class="p">)){</span>
+<span class="w">      </span><span class="n">blink</span><span class="p">(</span><span class="n">param</span><span class="p">);</span>
+<span class="w">    </span><span class="c1">// Or breathe!</span>
+<span class="w">    </span><span class="p">}</span><span class="w"> </span><span class="k">else</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">action</span><span class="p">.</span><span class="n">equals</span><span class="p">(</span><span class="s">&quot;breathe&quot;</span><span class="p">))</span><span class="w"> </span><span class="p">{</span>
+<span class="w">      </span><span class="n">breathe</span><span class="p">(</span><span class="n">param</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="k">else</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">action</span><span class="p">.</span><span class="n">equals</span><span class="p">(</span><span class="s">&quot;burn&quot;</span><span class="p">))</span><span class="w"> </span><span class="p">{</span>
+<span class="w">      </span><span class="n">burn</span><span class="p">(</span><span class="n">param</span><span class="p">);</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">  </span><span class="p">}</span>
+<span class="p">}</span>
+
+<span class="c1">// the setup function runs once when you press reset or power the board</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">setup</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">  </span><span class="c1">// initialize digital pin LED_BUILTIN as an output.</span>
+<span class="w">  </span><span class="n">Serial</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="mi">9600</span><span class="p">);</span>
+
+<span class="w">  </span><span class="c1">// Connect to wifi</span>
+<span class="w">  </span><span class="n">WiFi</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="n">ssid</span><span class="p">,</span><span class="w"> </span><span class="n">password</span><span class="p">);</span>
+
+<span class="w">  </span><span class="k">while</span><span class="w"> </span><span class="p">(</span><span class="n">WiFi</span><span class="p">.</span><span class="n">status</span><span class="p">()</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="n">WL_CONNECTED</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">delay</span><span class="p">(</span><span class="mi">500</span><span class="p">);</span>
+<span class="w">    </span><span class="n">Serial</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">&quot;.&quot;</span><span class="p">);</span>
+<span class="w">  </span><span class="p">}</span>
+
+<span class="w">  </span><span class="n">Serial</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">&quot;Connected to &quot;</span><span class="p">);</span>
+<span class="w">  </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">ssid</span><span class="p">);</span>
+<span class="w">  </span><span class="n">Serial</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">&quot;IP address: &quot;</span><span class="p">);</span>
+<span class="w">  </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">WiFi</span><span class="p">.</span><span class="n">localIP</span><span class="p">());</span>
+
+<span class="w">  </span><span class="c1">// MQTT setup</span>
+<span class="w">  </span><span class="n">mqttClient</span><span class="p">.</span><span class="n">setServer</span><span class="p">(</span><span class="n">mqttBroker</span><span class="p">,</span><span class="w"> </span><span class="mi">1883</span><span class="p">);</span>
+<span class="w">  </span><span class="n">mqttClient</span><span class="p">.</span><span class="n">setCallback</span><span class="p">(</span><span class="n">callback</span><span class="p">);</span>
+
+<span class="p">}</span>
+
+<span class="c1">// the loop function runs over and over again forever</span>
+<span class="kt">void</span><span class="w"> </span><span class="nf">loop</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">  </span><span class="c1">// Check if we are still connected to the MQTT broker</span>
+<span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="o">!</span><span class="n">mqttClient</span><span class="p">.</span><span class="n">connected</span><span class="p">())</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">mqttConnect</span><span class="p">();</span>
+<span class="w">  </span><span class="p">}</span><span class="w">  </span>
+
+<span class="w">  </span><span class="c1">// Let PubSubClient library do his magic</span>
+<span class="w">  </span><span class="n">mqttClient</span><span class="p">.</span><span class="n">loop</span><span class="p">();</span>
+
+<span class="w">  </span><span class="c1">// Do not remove this line!</span>
+<span class="w">  </span><span class="n">led</span><span class="p">.</span><span class="n">Update</span><span class="p">();</span>
+<span class="p">}</span>
+</code></pre></div>
                 
                   
                     
@@ -947,6 +1159,41 @@
       
         
 <footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../../3d%20printing/3d%20printing/" title="3d printing" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                3d printing
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="../../../communicating%20ideas/communicating%20ideas/" title="communicating ideas" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                communicating ideas
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
