@@ -1,4 +1,4 @@
-<img src="../meme boat.jpeg" alt="drawing" width="450" />   
+<img src="../meme boat.png" alt="drawing" width="450" />   
 At the beginning of this lesson we were asked *What was the first time you heard about 3D printing?*  
 And a very old and forgotten memory came back. It was summer, around 2010 on the small Greek island of Aegina with family and friends. My sister's partner at the time was the kind of social nerd who liked to spread extreme scenarios about the future based on "scientific facts". Even if he wasn't a flat-earther, he also enjoyed some conspiracy.. So sometime in the peaceful dusk he wanted to entertain us with the shocking news that he read:   
 “In a few years we'll have 3D printing machines that will be able to build anything that we want! The same way we print anything we want on paper, in the future we will be printing real objects· people will be freely making all kinds of guns and weapons! It sounded intimidating, but too anarchic to be true.. I knew somehow wasn't going to happen exactly like that.  
