@@ -844,6 +844,8 @@ We were all quite happy to start this class straight away hands-on. the real-tim
 - blink slowly<br />
 - blink panic  </p>
 <p><img src="../slow fast.gif" alt="drawing" width="400" /> </p>
+<details>
+
 <div class="highlight"><pre><span></span><code><span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;jled.h&gt;</span>
 
 <span class="cp">#define LED 14</span>
@@ -932,10 +934,14 @@ We were all quite happy to start this class straight away hands-on. the real-tim
 <span class="p">}</span>
 <span class="p">}</span>
 </code></pre></div>
+</details>
+
 <h2 id="breathe">breathe<a class="headerlink" href="#breathe" title="Permanent link">&para;</a></h2>
 <p>the &lsquo;breathing&rsquo; effect of the led seemed quite impressive so even though we were given the code already written by <a href="github.com/jandelgaclo/jled">jandelgaclo</a>, we wanted to understand how it is actually made. Soon we realised that it is much more complicated than we imagined so not much messing around could happen on our side. Most of the interesting part was &lsquo;hidden&rsquo; in the jled library we installed anyway.<br />
 <img src="../breathe_cheat_sheet.jpeg" alt="drawing" width="600" />   </p>
 <p>At least we tried to understand the code  and add notes to make it a bit more understandable.  </p>
+<details>
+
 <div class="highlight"><pre><span></span><code><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;Arduino.h&quot;</span>
 <span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;jled.h&quot;</span>
 <span class="cp">#define LED_PIN 14</span>
@@ -985,8 +991,12 @@ We were all quite happy to start this class straight away hands-on. the real-tim
 <span class="w">  </span><span class="n">led</span><span class="p">.</span><span class="n">Update</span><span class="p">();</span>
 <span class="p">}</span>
 </code></pre></div>
+</details>
+
 <h2 id="synced-burn">synced burn<a class="headerlink" href="#synced-burn" title="Permanent link">&para;</a></h2>
 <p><img src="../fireflies.gif" alt="drawing" width="400" /> </p>
+<details>
+
 <div class="highlight"><pre><span></span><code><span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;Arduino.h&quot;</span>
 <span class="cp">#include</span><span class="w"> </span><span class="cpf">&quot;jled.h&quot;</span>
 <span class="cp">#define LED_PIN 14</span>
@@ -1145,6 +1155,7 @@ We were all quite happy to start this class straight away hands-on. the real-tim
 <span class="w">  </span><span class="n">led</span><span class="p">.</span><span class="n">Update</span><span class="p">();</span>
 <span class="p">}</span>
 </code></pre></div>
+</details>
                 
                   
                     

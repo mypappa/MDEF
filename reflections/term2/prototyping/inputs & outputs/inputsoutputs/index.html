@@ -67,6 +67,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#button" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -568,9 +573,50 @@
     <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        inputs & outputs
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
     <a href="./" title="inputs & outputs" class="md-nav__link md-nav__link--active">
       inputs & outputs
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#button" class="md-nav__link">
+    button
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#light-sensor" class="md-nav__link">
+    light sensor
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interaction" class="md-nav__link">
+    interaction
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -731,6 +777,48 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#button" class="md-nav__link">
+    button
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#light-sensor" class="md-nav__link">
+    light sensor
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interaction" class="md-nav__link">
+    interaction
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
@@ -746,7 +834,131 @@
                 
                   <h1>inputs & outputs</h1>
                 
-                <p>This time the </p>
+                <h2 id="button">button<a class="headerlink" href="#button" title="Permanent link">&para;</a></h2>
+<p><img src="../button.gif" alt="drawing" width="450" />   </p>
+<details> 
+
+<div class="highlight"><pre><span></span><code><span class="cm">/*</span>
+<span class="cm">  Debounce</span>
+
+<span class="cm">  Each time the input pin goes from LOW to HIGH (e.g. because of a push-button</span>
+<span class="cm">  press), the output pin is toggled from LOW to HIGH or HIGH to LOW. There&#39;s a</span>
+<span class="cm">  minimum delay between toggles to debounce the circuit (i.e. to ignore noise).</span>
+
+<span class="cm">  The circuit:</span>
+<span class="cm">  - LED attached from pin 13 to ground</span>
+<span class="cm">  - pushbutton attached from pin 2 to +5V</span>
+<span class="cm">  - 10 kilohm resistor attached from pin 2 to ground</span>
+
+<span class="cm">  - Note: On most Arduino boards, there is already an LED on the board connected</span>
+<span class="cm">    to pin 13, so you don&#39;t need any extra components for this example.</span>
+
+<span class="cm">  created 21 Nov 2006</span>
+<span class="cm">  by David A. Mellis</span>
+<span class="cm">  modified 30 Aug 2011</span>
+<span class="cm">  by Limor Fried</span>
+<span class="cm">  modified 28 Dec 2012</span>
+<span class="cm">  by Mike Walters</span>
+<span class="cm">  modified 30 Aug 2016</span>
+<span class="cm">  by Arturo Guadalupi</span>
+
+<span class="cm">  This example code is in the public domain.</span>
+
+<span class="cm">  http://www.arduino.cc/en/Tutorial/Debounce</span>
+<span class="cm">*/</span>
+
+<span class="c1">// constants won&#39;t change. They&#39;re used here to set pin numbers:</span>
+<span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">buttonPin</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">12</span><span class="p">;</span><span class="w">    </span><span class="c1">// the number of the pushbutton pin</span>
+<span class="k">const</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">ledPin</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">13</span><span class="p">;</span><span class="w">      </span><span class="c1">// the number of the LED pin</span>
+
+<span class="c1">// Variables will change:</span>
+<span class="kt">int</span><span class="w"> </span><span class="n">ledState</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">HIGH</span><span class="p">;</span><span class="w">         </span><span class="c1">// the current state of the output pin</span>
+<span class="kt">int</span><span class="w"> </span><span class="n">buttonState</span><span class="p">;</span><span class="w">             </span><span class="c1">// the current reading from the input pin</span>
+<span class="kt">int</span><span class="w"> </span><span class="n">lastButtonState</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">LOW</span><span class="p">;</span><span class="w">   </span><span class="c1">// the previous reading from the input pin</span>
+
+<span class="c1">// the following variables are unsigned longs because the time, measured in</span>
+<span class="c1">// milliseconds, will quickly become a bigger number than can be stored in an int.</span>
+<span class="kt">unsigned</span><span class="w"> </span><span class="kt">long</span><span class="w"> </span><span class="n">lastDebounceTime</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span><span class="w">  </span><span class="c1">// the last time the output pin was toggled</span>
+<span class="kt">unsigned</span><span class="w"> </span><span class="kt">long</span><span class="w"> </span><span class="n">debounceDelay</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">50</span><span class="p">;</span><span class="w">    </span><span class="c1">// the debounce time; increase if the output flickers</span>
+
+<span class="kt">void</span><span class="w"> </span><span class="nf">setup</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">  </span><span class="n">pinMode</span><span class="p">(</span><span class="n">buttonPin</span><span class="p">,</span><span class="w"> </span><span class="n">INPUT</span><span class="p">);</span>
+<span class="w">  </span><span class="n">pinMode</span><span class="p">(</span><span class="n">ledPin</span><span class="p">,</span><span class="w"> </span><span class="n">OUTPUT</span><span class="p">);</span>
+
+<span class="w">  </span><span class="c1">// set initial LED state</span>
+<span class="w">  </span><span class="n">digitalWrite</span><span class="p">(</span><span class="n">ledPin</span><span class="p">,</span><span class="w"> </span><span class="n">ledState</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="kt">void</span><span class="w"> </span><span class="nf">loop</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">  </span><span class="c1">// read the state of the switch into a local variable:</span>
+<span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="n">reading</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">digitalRead</span><span class="p">(</span><span class="n">buttonPin</span><span class="p">);</span>
+
+<span class="w">  </span><span class="c1">// check to see if you just pressed the button</span>
+<span class="w">  </span><span class="c1">// (i.e. the input went from LOW to HIGH), and you&#39;ve waited long enough</span>
+<span class="w">  </span><span class="c1">// since the last press to ignore any noise:</span>
+
+<span class="w">  </span><span class="c1">// If the switch changed, due to noise or pressing:</span>
+<span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">reading</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="n">lastButtonState</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// reset the debouncing timer</span>
+<span class="w">    </span><span class="n">lastDebounceTime</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">millis</span><span class="p">();</span>
+<span class="w">  </span><span class="p">}</span>
+
+<span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="p">((</span><span class="n">millis</span><span class="p">()</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">lastDebounceTime</span><span class="p">)</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="n">debounceDelay</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="c1">// whatever the reading is at, it&#39;s been there for longer than the debounce</span>
+<span class="w">    </span><span class="c1">// delay, so take it as the actual current state:</span>
+
+<span class="w">    </span><span class="c1">// if the button state has changed:</span>
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">reading</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="n">buttonState</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">      </span><span class="n">buttonState</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">reading</span><span class="p">;</span>
+
+<span class="w">      </span><span class="c1">// only toggle the LED if the new button state is HIGH</span>
+<span class="w">      </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">buttonState</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">HIGH</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">ledState</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="o">!</span><span class="n">ledState</span><span class="p">;</span>
+<span class="w">      </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">  </span><span class="p">}</span>
+
+<span class="w">  </span><span class="c1">// set the LED:</span>
+<span class="w">  </span><span class="n">digitalWrite</span><span class="p">(</span><span class="n">ledPin</span><span class="p">,</span><span class="w"> </span><span class="n">ledState</span><span class="p">);</span>
+
+<span class="w">  </span><span class="c1">// save the reading. Next time through the loop, it&#39;ll be the lastButtonState:</span>
+<span class="w">  </span><span class="n">lastButtonState</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">reading</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+</details>
+
+<h2 id="light-sensor">light sensor<a class="headerlink" href="#light-sensor" title="Permanent link">&para;</a></h2>
+<details>
+
+<div class="highlight"><pre><span></span><code><span class="kt">int</span><span class="w"> </span><span class="n">R2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">10000</span><span class="p">;</span>
+<span class="kt">float</span><span class="w"> </span><span class="n">VIN</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mf">3.0</span><span class="p">;</span>
+
+<span class="kt">void</span><span class="w"> </span><span class="nf">setup</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">  </span><span class="n">Serial</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="mi">9600</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="kt">void</span><span class="w"> </span><span class="nf">loop</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">  </span><span class="c1">// read the input on analog pin 0:</span>
+<span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="n">sensorValue</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">analogRead</span><span class="p">(</span><span class="n">A3</span><span class="p">);</span>
+
+<span class="w">  </span><span class="c1">// Convert the analog reading (which goes from 0 - 1023) to a voltage (0 - 5V):</span>
+<span class="w">  </span><span class="kt">float</span><span class="w"> </span><span class="n">voltage</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">sensorValue</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="p">(</span><span class="mf">3.0</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="mf">1023.0</span><span class="p">);</span>
+
+<span class="w">  </span><span class="c1">// Get the value of R1</span>
+<span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="n">ldr</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">((</span><span class="n">R2</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="n">VIN</span><span class="p">)</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">voltage</span><span class="p">)</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">R2</span><span class="p">;</span>
+
+<span class="w">  </span><span class="c1">// print out the value you read:</span>
+<span class="w">  </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">sensorValue</span><span class="p">);</span>
+<span class="w">  </span><span class="n">Serial</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">&quot;voltage: &quot;</span><span class="p">);</span>
+<span class="w">  </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">voltage</span><span class="p">);</span>
+<span class="w">  </span><span class="n">Serial</span><span class="p">.</span><span class="n">print</span><span class="p">(</span><span class="s">&quot;LDR value: &quot;</span><span class="p">);</span>
+<span class="w">  </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">ldr</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
+</details>
+
+<h2 id="interaction">interaction<a class="headerlink" href="#interaction" title="Permanent link">&para;</a></h2>
                 
                   
                     
