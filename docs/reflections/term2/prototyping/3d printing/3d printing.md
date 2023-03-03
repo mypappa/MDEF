@@ -1,4 +1,4 @@
-<img src="..meme boat.jpeg" alt="drawing" width="400" />   
+<img src="../meme boat.jpeg" alt="drawing" width="400" />   
 At the beginning of this lesson we were asked *What was the first time you heard about 3D printing?*  
 And a very old and forgotten memory came back. It was summer, around 2010 on the small Greek island of Aegina with family and friends. My sister's partner at the time was the kind of social nerd who liked to spread extreme scenarios about the future based on "scientific facts". Even if he wasn't a flat-earther, he also enjoyed some conspiracy.. So sometime in the peaceful dusk he wanted to entertain us with the shocking news that he read: 
 “In a few years we'll have 3D printing machines that will be able to build anything that we want! The same way we print anything we want on paper, in the future we will be printing real objects· people will be freely making all kinds of guns and weapons! It sounded cool, but too anarchic to be true.. I knew somehow wasn't going to happen exactly like that. 
@@ -11,11 +11,11 @@ So what do I print? I left all the ‘why’s’ aside and since I didn’t need
 So I proudly go to Adai and say ‘I have it all ready, let’s print’ !
 Thankfully he didn’t trust my over-confidence (given the fact I had never done it by myself) so he double-checked the file and obviously the were some tiny mistakeies. We fixed them, pressed the button, kiss goodnight and ciao. (ok not so fast, for the first two layers I was there, staring and wondering what is happening -it does some weird moves in the beginning).  
 
-<img src="..me-1st layer.jpeg" alt="drawing" width="400" />   
+<img src="../me-1st layer.jpeg" alt="drawing" width="400" />   
 
 The next morning with some extra excitement I go see the result.. tadaan, there it was. all clean and set. Maybe a little too set, it was pretty stuck on the bed and couldn’t let it go. I understand, they spent a whole night together… 
 With some patience and love I took the pieces and surprisingly easily I cut out the support.  
 
-<img src="..3d pieced.png" alt="drawing" width="400" />   
+<img src="../3d pieced.png" alt="drawing" width="400" />   
 
 now, only thing missing it to try it on the bike.
