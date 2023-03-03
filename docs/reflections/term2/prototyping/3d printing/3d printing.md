@@ -14,11 +14,11 @@ Thankfully he didn’t trust my over-confidence (given the fact I had never done
 
 <img src="../me-1st layer.jpeg" alt="drawing" width="600" />   
 
-<img src="../3dprinter.gif" alt="drawing" width="600" />   
+<img src="../3dprinter.gif" alt="drawing" width="500" />   
 
 The next morning with some extra excitement I go see the result.. tadaan, there it was. all clean and set. Maybe a little too set, it was pretty stuck on the bed and couldn’t let it go. I understand, they spent a whole night together… 
 With some patience and love I took the pieces and surprisingly easily I cut out the support.  
 
-<img src="../3d pieces.png" alt="drawing" width="400" />   
+<img src="../3d pieces.png" alt="drawing" width="600" />   
 
 now, only thing missing it to try it on the bike.
