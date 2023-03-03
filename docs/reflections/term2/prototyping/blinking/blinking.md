@@ -15,6 +15,7 @@ after succeeding to make arduino understand that we were giving them messages, w
 
 <img src="../slow fast.gif" alt="drawing" width="400" /> 
 
+<details>
 
 ```cpp
 #include <jled.h>
@@ -105,12 +106,15 @@ void loop() {
 }
 }
 ```
+</details>
 
 ## breathe   
 the 'breathing' effect of the led seemed quite impressive so even though we were given the code already written by [jandelgaclo](github.com/jandelgaclo/jled), we wanted to understand how it is actually made. Soon we realised that it is much more complicated than we imagined so not much messing around could happen on our side. Most of the interesting part was 'hidden' in the jled library we installed anyway.  
 <img src="../breathe_cheat_sheet.jpeg" alt="drawing" width="600" />   
 
 At least we tried to understand the code  and add notes to make it a bit more understandable.  
+
+<details>
 
 ```cpp
 #include "Arduino.h"
@@ -162,10 +166,13 @@ void loop() {
   led.Update();
 }
 ```
+</details>
 
 ## synced burn  
 
 <img src="../fireflies.gif" alt="drawing" width="400" /> 
+
+<details>
 
 ```cpp
 #include "Arduino.h"
@@ -326,3 +333,4 @@ void loop() {
   led.Update();
 }
 ```
+</details>
