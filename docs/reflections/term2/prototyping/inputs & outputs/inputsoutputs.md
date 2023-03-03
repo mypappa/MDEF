@@ -1,7 +1,7 @@
 ## button   
 <img src="../button.gif" alt="drawing" width="450" />   
 
-<details> 
+<code> 
 
 ```cpp
 /*
@@ -91,7 +91,7 @@ void loop() {
   lastButtonState = reading;
 }
 ```
-</details>
+</code>
 
 ## light sensor   
 
