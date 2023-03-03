@@ -95,6 +95,8 @@ void loop() {
 
 ## light sensor   
 
+<img src="../light sensor.gif" alt="drawing" width="450" /> 
+<img src="../light graph.gif" alt="drawing" width="450" />   
 
 <details>
 
