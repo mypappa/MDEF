@@ -11,7 +11,7 @@
 our plan with Stella here was to visit a specific ecosystem and create some collective mappings of the actors and their interactions. we could not define it more specifically even if we did some more practical research so our initial plan has not worked so far. We visited Oscar's place, which is his personal research laboratory· he lives with some 200+ plants and he has built a whole light and water system to make it as autonomous as possible. it sounded like an interisting ecosystem and we planned to go in mid January, Our intention was to collectively was out interesting power dynamics that we experienced but also insights we would get from Oscar as the main actor.  
 We ended up talking about the project for some hours and recorder our conversation so that we could listen to it more carefully and possibly create our individual mind maps while listening to the record, and then join them in one. This way, we could visualise the content and have an overview of the story he described to us, and therefore continue from that point on.  
 
-<img src="../oscars plantiverse.jpg" alt="drawing" width="600" />  
+<img src="../oscars plantiverse.jpg" alt="drawing" width="850" />  
 
 
 ## workshops   
@@ -54,7 +54,6 @@ After letting some time pass, we look back with a more critical eye on our exper
 
 to have some structure here we will first identify all the actors, then reflect on each one of them but also in the togetherness:   
 
-**participants**  
 facilitators (us)  
 tools (cards, pens and papers)  
 physical space (Jana’s studio)  
