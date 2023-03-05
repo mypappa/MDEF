@@ -30,7 +30,7 @@ Currently this is our main attempt to test, apply and collect information for ou
 
 ### first iteration: 25/4   
 
-<img src="../workshop1.png" alt="drawing" width="600" />  
+<img src="../workshop1.png" alt="drawing" width="900" />  
 
 **storyline**   
 First workshop 25th of February 2023, Barcelona, sun is shining, 10 degreed Celsius.  
