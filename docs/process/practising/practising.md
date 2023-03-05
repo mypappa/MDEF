@@ -5,7 +5,7 @@
 ## conference
 [imaginar mundos posibles](https://esbrina.eu/en/portfolio/imaginar-mundos-posibles-potencialidades-limites-y-fricciones-de-la-ficcion-especulativa-en-la-investigacion-y-la-educacion-3/): Potencialidades, límites y fricciones de la ficción especulativa en la investigación y la educación  
 
-paper in progress..  
+
 
 ## cartographies  
 our plan with Stella here was to visit a specific ecosystem and create some collective mappings of the actors and their interactions. we could not define it more specifically even if we did some more practical research so our initial plan has not worked so far. We visited Oscar's place, which is his personal research laboratory· he lives with some 200+ plants and he has built a whole light and water system to make it as autonomous as possible. it sounded like an interisting ecosystem and we planned to go in mid January, Our intention was to collectively was out interesting power dynamics that we experienced but also insights we would get from Oscar as the main actor.  
