@@ -1,5 +1,13 @@
+so far in mdef we have been using some basic inputs, like microphones and outputs, such as led lights and buzzers.  
+
+for this task which once again was in collaboration with my roommate Korbi, we experimented with two ESP feather boards at home. 
+
+we divided the task into the following steps: first, we set a board with a led light and a button controlling the led. Then we set another board with a light sensor reading light levels in realtime. then it was time to make a manual morse code transmitter..  
+
 ## button   
 <img src="../button.gif" alt="drawing" width="450" />   
+
+
 
 <details> 
 

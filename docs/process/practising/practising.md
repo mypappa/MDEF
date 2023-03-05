@@ -13,14 +13,21 @@ Keywords: storytelling, speculating futures, decentering, diversifying narrative
 *“Nobody lives everywhere; everybody lives somewhere. Nothing is connected to everything; everything is connected to something”* – Donna Haraway  
 
 Even though we live in the age of information and polyphony, few voices are being noticed; few stories are being created. This paper reflects on the importance of creating and listening to stories. Our research focuses on the articulation of fictional narratives that allow to go beyond monophonic and catastrophic narratives. Stories are fiction and they are not; they are speculation yet inherently bear reflection. Anna Tsing talks about stories as forms of “attunement” to the worlds we find ourselves in, which means we have agency to make decisions: What stories do we listen to? What channels do we use to tell and who is telling? With this research, we aim to develop a method that helps diversify narratives about the future by providing space and showing possibilities for storytelling.
-We see it as important to diversify narratives by transgressing the monophony of imagining the future. This seems possible through democratizing storytelling by pointing out that everyone is capable of telling stories and asking questions – we are active agents who can question narratives and imagine alternatives. Speculative fiction appears as a tool that can be learned and practiced.
+We see it as important to diversify narratives by transgressing the monophony of imagining the future. This seems possible through democratizing storytelling by pointing out that everyone is capable of telling stories and asking questions – we are active agents who can question narratives and imagine alternatives. Speculative fiction appears as a tool that can be learned and practiced.  
+
 Based on Timothy Morton's concept of a “mesh” that represents the interrelations between human and “nonhuman” realities, we propose to use a mapping technique that decenters the self and creates space for entangled narratives to evolve. The mapping involves the overlay of individual observations of the relations between (non-human) agents in a given space. In the course of this process, a "mesh" emerges and participants are encouraged to speculate about fictional scenarios that play out in this “web of life”.  
 
 
 ## cartographies  
 our plan with Stella here was to visit a specific ecosystem and create some collective mappings of the actors and their interactions. we could not define it more specifically even if we did some more practical research so our initial plan has not worked so far. We visited Oscar's place, which is his personal research laboratory· he lives with some 200+ plants and he has built a whole light and water system to make it as autonomous as possible. it sounded like an interisting ecosystem and we planned to go in mid January, Our intention was to collectively was out interesting power dynamics that we experienced but also insights we would get from Oscar as the main actor.  
+
 We ended up talking about the project for some hours and recorder our conversation so that we could listen to it more carefully and possibly create our individual mind maps while listening to the record, and then join them in one. This way, we could visualise the content and have an overview of the story he described to us, and therefore continue from that point on.  
 
+our plan with stella here was to visit an ecosystem and create collective mappings of the actors in the system and their interactions. we couldn't define it much more precisely at the time and although we did some practical research, our plan didn't work out exactly. We visited Oscar's house, which is also his personal research lab; he lives with about 200+ plants and has built an entire lighting and water system to make it as self-sufficient as possible.  Our intention was to collectively document the power dynamics, both from our experience and from Oscar himself as the main actor of the system.  
+
+We ended up talking about the project for a few hours and recorded our conversation, in order to then listen to it carefully and create a mind map from this audio. so we listened to it individually, and then put them together into one map. That way, we could visualize the content and get an overview of Oscar's story.., and then go on from there.  
+
+Translated with www.DeepL.com/Translator (free version)
 <img src="../oscars plantiverse.jpg" alt="drawing" width="900,0" />  
 
 
