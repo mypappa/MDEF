@@ -4,7 +4,17 @@
 
 ## conference
 [imaginar mundos posibles](https://esbrina.eu/en/portfolio/imaginar-mundos-posibles-potencialidades-limites-y-fricciones-de-la-ficcion-especulativa-en-la-investigacion-y-la-educacion-3/): Potencialidades, límites y fricciones de la ficción especulativa en la investigación y la educación  
+### our paper - introduction  
 
+**Story-taling**  
+January 19th and 20th, 2023  
+Keywords: storytelling, speculating futures, decentering, diversifying narratives  
+
+*“Nobody lives everywhere; everybody lives somewhere. Nothing is connected to everything; everything is connected to something”* – Donna Haraway  
+
+Even though we live in the age of information and polyphony, few voices are being noticed; few stories are being created. This paper reflects on the importance of creating and listening to stories. Our research focuses on the articulation of fictional narratives that allow to go beyond monophonic and catastrophic narratives. Stories are fiction and they are not; they are speculation yet inherently bear reflection. Anna Tsing talks about stories as forms of “attunement” to the worlds we find ourselves in, which means we have agency to make decisions: What stories do we listen to? What channels do we use to tell and who is telling? With this research, we aim to develop a method that helps diversify narratives about the future by providing space and showing possibilities for storytelling.
+We see it as important to diversify narratives by transgressing the monophony of imagining the future. This seems possible through democratizing storytelling by pointing out that everyone is capable of telling stories and asking questions – we are active agents who can question narratives and imagine alternatives. Speculative fiction appears as a tool that can be learned and practiced.
+Based on Timothy Morton's concept of a “mesh” that represents the interrelations between human and “nonhuman” realities, we propose to use a mapping technique that decenters the self and creates space for entangled narratives to evolve. The mapping involves the overlay of individual observations of the relations between (non-human) agents in a given space. In the course of this process, a "mesh" emerges and participants are encouraged to speculate about fictional scenarios that play out in this “web of life”.  
 
 
 ## cartographies  
@@ -20,7 +30,7 @@ Currently this is our main attempt to test, apply and collect information for ou
 
 ### first iteration: 25/4   
 
-<img src="../workshop1" alt="drawing" width="600" />  
+<img src="../workshop1.png" alt="drawing" width="600" />  
 
 **storyline**   
 First workshop 25th of February 2023, Barcelona, sun is shining, 10 degreed Celsius.  
