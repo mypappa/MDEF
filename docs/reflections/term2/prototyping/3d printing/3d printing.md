@@ -22,3 +22,5 @@ With some patience and love I took the pieces and surprisingly easily I cut out 
 <img src="../3d pieces.png" alt="drawing" width="600" />   
 
 now, only thing missing it to try it on the bike.  
+
+<img src="../iphone holder.png" alt="drawing" width="900" />   
