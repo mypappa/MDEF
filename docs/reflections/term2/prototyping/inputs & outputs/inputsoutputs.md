@@ -103,6 +103,8 @@ void loop() {
 
 ## light sensor   
 
+next step: connect the light sensor and print a light graph on the serial plotter  
+
 <img src="../light sensor.gif" alt="drawing" width="450" /> 
 <img src="../light graph.gif" alt="drawing" width="450" />   
 
@@ -137,5 +139,92 @@ void loop() {
 ```
 </details>
 
-## interaction   
+## morse code   
 
+<img src="../morse.gif" alt="drawing" width="450" />   
+
+last and most challenging part: encoding different types of messages given by the light to a binary 'morse' type with "longs" and "shorts".
+we have two boards that we need to bring together: one with the light sensor that prints graphs and another with a button and a led light. we need to make the sensor 'read' the led light (controlled by us) and print messages accordingly. 
+since the sensor is too sensitive for the average luminosity of our workspace (kitchen), in order to make it work we had to turn off the lights. and this was our first message. once we shut the lights off, we get a congratulating message that we did a good job so far.. much needed to go on. then, time for the led to shine! we push the button that controls the led and here we have two possible outputs: for a duration longer than a second (1000ms) we have a long and for less than a second, a short. sounds easy and simple, but explaining the notion of 'time' to arduino was surprisingly challenging.   
+
+check our final code below :)  
+<details> 
+
+```cpp
+int R2 = 10000;
+float VIN = 3.0;
+
+unsigned long startTime = 0;
+unsigned long endTime = 0;
+unsigned long interval = 0;
+
+int ledState = 0;
+
+void setup() {
+  Serial.begin(9600);
+}
+
+
+
+void loop() {
+
+  // read the input on analog pin 0:
+  int sensorValue = analogRead(A3);
+
+  if (sensorValue > 1000) {
+    Serial.println("turn off the lights!");
+    delay(1000);
+  }
+
+  else {
+    Serial.println("lights off, checking for LED...");
+    if (sensorValue > 100 && ledState == 0)  //if the led turns on
+    {
+      ledState = 1;
+      Serial.println("the led turned on, I think!");
+      startTime = millis();
+      Serial.println("start time:");
+      Serial.println(startTime);
+
+      if (sensorValue < 100) {
+        endTime = millis();
+        Serial.println("end time: ");
+        Serial.println(endTime);
+        interval = endTime - startTime;
+        Serial.println("interval: ");
+        Serial.println(interval);
+
+        Serial.println("The LED is back off, I think!");
+        ledState = 0;
+        delay(1000);
+
+        if (interval < 1000) {
+          Serial.println("SHORT");
+          delay(1000);
+          interval = 0;
+        }
+
+        else {
+          Serial.println("LONG");
+          delay(1000);
+          interval = 0;
+        }
+      }
+    }
+    // Convert the analog reading (which goes from 0 - 1023) to a voltage (0 - 5V):
+    //float voltage = sensorValue * (3.0 / 1023.0);
+
+    // Get the value of R1
+    //int ldr = ((R2 * VIN) / voltage) - R2;
+
+    // print out the value you read:
+    //Serial.println(sensorValue);
+    //Serial.print("voltage: ");
+    //Serial.println(voltage);
+    //Serial.print("LDR value: ");
+    //Serial.println(ldr);
+  }
+}
+
+```
+</details>
