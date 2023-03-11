@@ -608,8 +608,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#interaction" class="md-nav__link">
-    interaction
+  <a href="#morse-code" class="md-nav__link">
+    morse code
   </a>
   
 </li>
@@ -806,8 +806,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#interaction" class="md-nav__link">
-    interaction
+  <a href="#morse-code" class="md-nav__link">
+    morse code
   </a>
   
 </li>
@@ -931,6 +931,7 @@
 </details>
 
 <h2 id="light-sensor">light sensor<a class="headerlink" href="#light-sensor" title="Permanent link">&para;</a></h2>
+<p>next step: connect the light sensor and print a light graph on the serial plotter  </p>
 <p><img src="../light sensor.gif" alt="drawing" width="450" /> 
 <img src="../light graph.gif" alt="drawing" width="450" />   </p>
 <details>
@@ -963,7 +964,90 @@
 </code></pre></div>
 </details>
 
-<h2 id="interaction">interaction<a class="headerlink" href="#interaction" title="Permanent link">&para;</a></h2>
+<h2 id="morse-code">morse code<a class="headerlink" href="#morse-code" title="Permanent link">&para;</a></h2>
+<p><img src="../morse.gif" alt="drawing" width="450" />   </p>
+<p>last and most challenging part: encoding different types of messages given by the light to a binary &lsquo;morse&rsquo; type with &ldquo;longs&rdquo; and &ldquo;shorts&rdquo;.
+we have two boards that we need to bring together: one with the light sensor that prints graphs and another with a button and a led light. we need to make the sensor &lsquo;read&rsquo; the led light (controlled by us) and print messages accordingly. 
+since the sensor is too sensitive for the average luminosity of our workspace (kitchen), in order to make it work we had to turn off the lights. and this was our first message. once we shut the lights off, we get a congratulating message that we did a good job so far.. much needed to go on. then, time for the led to shine! we push the button that controls the led and here we have two possible outputs: for a duration longer than a second (1000ms) we have a long and for less than a second, a short. sounds easy and simple, but explaining the notion of &lsquo;time&rsquo; to arduino was surprisingly challenging.   </p>
+<p>check our final code below :)  </p>
+<details> 
+
+<div class="highlight"><pre><span></span><code><span class="kt">int</span><span class="w"> </span><span class="n">R2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">10000</span><span class="p">;</span>
+<span class="kt">float</span><span class="w"> </span><span class="n">VIN</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mf">3.0</span><span class="p">;</span>
+
+<span class="kt">unsigned</span><span class="w"> </span><span class="kt">long</span><span class="w"> </span><span class="n">startTime</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="kt">unsigned</span><span class="w"> </span><span class="kt">long</span><span class="w"> </span><span class="n">endTime</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="kt">unsigned</span><span class="w"> </span><span class="kt">long</span><span class="w"> </span><span class="n">interval</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+
+<span class="kt">int</span><span class="w"> </span><span class="n">ledState</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+
+<span class="kt">void</span><span class="w"> </span><span class="nf">setup</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">  </span><span class="n">Serial</span><span class="p">.</span><span class="n">begin</span><span class="p">(</span><span class="mi">9600</span><span class="p">);</span>
+<span class="p">}</span>
+
+
+
+<span class="kt">void</span><span class="w"> </span><span class="nf">loop</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">  </span><span class="c1">// read the input on analog pin 0:</span>
+<span class="w">  </span><span class="kt">int</span><span class="w"> </span><span class="n">sensorValue</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">analogRead</span><span class="p">(</span><span class="n">A3</span><span class="p">);</span>
+
+<span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">sensorValue</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">1000</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="s">&quot;turn off the lights!&quot;</span><span class="p">);</span>
+<span class="w">    </span><span class="n">delay</span><span class="p">(</span><span class="mi">1000</span><span class="p">);</span>
+<span class="w">  </span><span class="p">}</span>
+
+<span class="w">  </span><span class="k">else</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="s">&quot;lights off, checking for LED...&quot;</span><span class="p">);</span>
+<span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">sensorValue</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">100</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">ledState</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">0</span><span class="p">)</span><span class="w">  </span><span class="c1">//if the led turns on</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">      </span><span class="n">ledState</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="p">;</span>
+<span class="w">      </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="s">&quot;the led turned on, I think!&quot;</span><span class="p">);</span>
+<span class="w">      </span><span class="n">startTime</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">millis</span><span class="p">();</span>
+<span class="w">      </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="s">&quot;start time:&quot;</span><span class="p">);</span>
+<span class="w">      </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">startTime</span><span class="p">);</span>
+
+<span class="w">      </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">sensorValue</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">100</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">endTime</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">millis</span><span class="p">();</span>
+<span class="w">        </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="s">&quot;end time: &quot;</span><span class="p">);</span>
+<span class="w">        </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">endTime</span><span class="p">);</span>
+<span class="w">        </span><span class="n">interval</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">endTime</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">startTime</span><span class="p">;</span>
+<span class="w">        </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="s">&quot;interval: &quot;</span><span class="p">);</span>
+<span class="w">        </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="n">interval</span><span class="p">);</span>
+
+<span class="w">        </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="s">&quot;The LED is back off, I think!&quot;</span><span class="p">);</span>
+<span class="w">        </span><span class="n">ledState</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="w">        </span><span class="n">delay</span><span class="p">(</span><span class="mi">1000</span><span class="p">);</span>
+
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">interval</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">1000</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">          </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="s">&quot;SHORT&quot;</span><span class="p">);</span>
+<span class="w">          </span><span class="n">delay</span><span class="p">(</span><span class="mi">1000</span><span class="p">);</span>
+<span class="w">          </span><span class="n">interval</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="w">        </span><span class="p">}</span>
+
+<span class="w">        </span><span class="k">else</span><span class="w"> </span><span class="p">{</span>
+<span class="w">          </span><span class="n">Serial</span><span class="p">.</span><span class="n">println</span><span class="p">(</span><span class="s">&quot;LONG&quot;</span><span class="p">);</span>
+<span class="w">          </span><span class="n">delay</span><span class="p">(</span><span class="mi">1000</span><span class="p">);</span>
+<span class="w">          </span><span class="n">interval</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="w">        </span><span class="p">}</span>
+<span class="w">      </span><span class="p">}</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="w">    </span><span class="c1">// Convert the analog reading (which goes from 0 - 1023) to a voltage (0 - 5V):</span>
+<span class="w">    </span><span class="c1">//float voltage = sensorValue * (3.0 / 1023.0);</span>
+
+<span class="w">    </span><span class="c1">// Get the value of R1</span>
+<span class="w">    </span><span class="c1">//int ldr = ((R2 * VIN) / voltage) - R2;</span>
+
+<span class="w">    </span><span class="c1">// print out the value you read:</span>
+<span class="w">    </span><span class="c1">//Serial.println(sensorValue);</span>
+<span class="w">    </span><span class="c1">//Serial.print(&quot;voltage: &quot;);</span>
+<span class="w">    </span><span class="c1">//Serial.println(voltage);</span>
+<span class="w">    </span><span class="c1">//Serial.print(&quot;LDR value: &quot;);</span>
+<span class="w">    </span><span class="c1">//Serial.println(ldr);</span>
+<span class="w">  </span><span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div>
+</details>
                 
                   
                     
@@ -972,7 +1056,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 5, 2023</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 11, 2023</span>
     
   </small>
 </div>
