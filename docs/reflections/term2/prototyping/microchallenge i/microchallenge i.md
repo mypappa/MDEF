@@ -52,7 +52,17 @@ Though we didn't have time to connect the sound input to the project, we did man
 Click on the image to view the presentation :)  
 [![Fab Micro Challenge 1 Presentation](Andaaza.png)](https://www.canva.com/design/DAFaumtP7p8/6alduDLkCOwk2gHwn5hSnA/view?utm_content=DAFaumtP7p8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
- 
+ ## **personal reflection**   
+
+First day, the ultimate chaos. We were a new formed team that had almost never worked together before, with very different interests that seemed as an unbridgeable gap. The whole first day of the challenge was spent on ideatingm as we couldnt find a topic that all the three of us liked equally. Many thoughts and discussions eventually lead us to a sudden epiphany that immediately conviced us all. Somehow it onvolved all the aspects that each of us was looking for and so we started working on it. I was particularly excited by the fact I would finally get to do some 3d modeling with rhino whoch i have missed a lot and hadnt had the chance so far.  
+
+As we started working on the project, we quickly realized that it was going to be a lot more challenging than we had initially thought. We had to imagine how it would look and what materials, motors, and tools we would need. The more we talked about it, the more complex it seemed to get.  
+
+Despite our best efforts, we knew that we most likely wouldn't be able to complete the ambitious artifact we had envisioned in just four days. So, we planned to make the first iteration of the prototype during the first week, which would consist of a motorized turntable and an arm that could move up and down and hold different toolheads such as a pen. Our first iteration was designed to write on a paper cup and test out our idea.  
+
+We didn't have enough time to connect the sound input to the project. However, we did manage to connect a microphone and plot the sound on the Arduino serial plotter and we will definitely explore the sound interface in the coming weeks.  
+
+Overall, the experience was intense and quite challenging, but we managed to build an actual turntable and motorize it, as well as create a frame for the z-axis that will serve as an interchangeable toolhead for pens and carving tools. There's still a lot of work to be done on the z-axis plate to correct some sagging as it moves up and down, but our low-tech rubberband solution works quite well for the moment.. We're all looking forward to continuing this project and seeing where it takes us!  
 
 ## Useful Links and References
 
