@@ -27,7 +27,7 @@ our plan with stella here was to visit an ecosystem and create collective mappin
 
 We ended up talking about the project for a few hours and recorded our conversation, in order to then listen to it carefully and create a mind map from this audio. so we listened to it individually, and then put them together into one map. That way, we could visualize the content and get an overview of Oscar's story.., and then go on from there.  
 
-Translated with www.DeepL.com/Translator (free version)
+
 <img src="../oscars plantiverse.jpg" alt="drawing" width="900,0" />  
 
 

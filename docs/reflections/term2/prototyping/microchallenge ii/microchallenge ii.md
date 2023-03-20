@@ -1,0 +1,1 @@
+The second microchallenge started very different than the first one due to the following reasons: we had a plan of what we we going to do before the start of the week and we were way more drained by the whole second term. also it was just after the nanochallenge as i call it (measuring the world).
