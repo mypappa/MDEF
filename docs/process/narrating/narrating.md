@@ -14,7 +14,7 @@ With our ever-growing theoretical framework, we created a new design space which
 
 Other application methods we are currently working on:
 - cartographies: a mapping technique to practice in case-studies
-- conferences: we are taking part in the Esbrina Research Group [conference](https://esbrina.eu/en/portfolio/imaginar-mundos-posibles-potencialidades-limites-y-fricciones-de-la-ficcion-especulativa-en-la-investigacion-y-la-educacion-3/), which has inspired us the idea of organising our own conference in Barcelona.   
+- conferences: we are taking part in the Esbrina Research Group [conference](https://esbrina.eu/en/portfolio/imaginar-mundos-posibles-potencialidades-limites-y-fricciones-de-la-ficcion-especulativa-en-la-investigacion-y-la-educacion-3/), which has inspired us the idea of organising our own conference in Barcelona.  
 
 
 For the rest, more is coming..  
