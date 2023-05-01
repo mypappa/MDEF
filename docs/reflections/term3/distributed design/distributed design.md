@@ -9,6 +9,10 @@ The Iceberg Model is a tool that shows how the most obvious part of a system is 
 
 <img src="../mushroom.png" alt="drawing" width="600" />   
 
+together with Josephine and June, we worked on a mushroom model analysing the 'plastic bottle'. It seemed like a specific objective at first but it turned out to be much more complex than we thought..  
+ 
+<img src="../mushroom model.jpg" alt="drawing" width="600" />   
+
 ## the reflection tree   
 
 <img src="../reflection tree.jpg" alt="drawing" width="600" />   
