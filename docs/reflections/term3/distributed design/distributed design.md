@@ -7,15 +7,15 @@ I had roughly heard of 'distributed design' as a concept, but never had actually
 
 The Iceberg Model is a tool that shows how the most obvious part of a system is supported by the hidden, non-obvious part. It represents how events around us are connected to patterns of behavior, systems structures, and mental models. The goal is to move from just seeing events to challenging the mental models that support the system. The concept of "emergence" explains how the obvious parts of a system are connected to complex elements that allow it to occur. For example, a mushroom is an emergent property of the complex hidden system of mycelium, which runs underground and connects all the trees and plants in the ecosystem. The mushroom is the obvious outcome, while the mycelium represents the complex mental models that connect all the underlying systems. The mycelium is the original recycler of nature and supports the decay of organic material to create building blocks for new life to emerge. The redesigned Iceberg Model shows how the interconnected relationships reinforce the systems around us, using the metaphor of the way the mushroom/mycelium system enables ecosystems to communicate and flourish.  
 
-<img src="../mushroom.png" alt="drawing" width="600" />   
+<img src="../mushroom.png" alt="drawing" width="500" />   
 
 together with Josephine and June, we worked on a mushroom model analysing the 'plastic bottle'. It seemed like a specific objective at first but it turned out to be much more complex than we thought..  
  
-<img src="../mushroom model.jpg" alt="drawing" width="600" />   
+<img src="../mushroom model.jpg" alt="drawing" width="850" />   
 
 ## the reflection tree   
 
-<img src="../reflection tree.jpg" alt="drawing" width="600" />   
+<img src="../reflection tree.jpg" alt="drawing" width="850" />   
 
 After following the text on the miro and practicing my opown reflection accordingly, it turns out that my project does not fulfill all of the values. Nevertheless, reflecting on a project's impact can help identify areas for improvement and provide insights for creating more open, collaborative, regenerative, and ecosystemic projects. I realised that it's important to approach the Reflection Tree with an open and honest mindset and not worry about achieving perfect scores. Every project is unique, and its alignment with the platform's values depends on its specific goals and context. The goal is to use the Reflection Tree as a tool for growth and improvement rather than a test to pass.  
 
