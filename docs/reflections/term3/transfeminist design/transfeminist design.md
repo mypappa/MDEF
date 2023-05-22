@@ -35,4 +35,30 @@ returning agency!
  articulating counter-proposals to the promises of the future.  
  critical - ironic perspective that aims to de-articulate the myth of binaries and open up new possibilities  
 
-implantacion de chip - proyecto trans*plant  
+implantacion de chip - proyecto trans*plant   
+
+
+**transhack feminism**  https://wetlab.hangar.org  
+
+three questions always to be asked by ourselves to ourselves:  
+
+- what is missing in this space?   
+
+- what is toxic, what is pure?   
+
+- for whom did you serearch today?  
+
+
+situated epistemology: 'the notion of situated knowledges is an effort to think outside the duality of objectivity-relativism that is both ineffective and harmful for feminist purposes'  
+
+purity comes from catholicism    
+
+SYMBIOCRACY  
+
+*aqua_forensic*  
+
+underwater Interception of *Biotweaking in **Aquatocene  
+
+by Robertina Šebjanič and Gjino Šutić  
+
+## design justice  
