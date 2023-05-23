@@ -53,8 +53,11 @@ nav:
       - transfeminist design: reflections/term3/transfeminist design/transfeminist design.md
       - decentralised autonomous organisations: reflections/term3/decentralised autonomous/decentralised autonomous.md
       - prototyping: 
+        - live coding:  reflections/term3/prototyping/live coding/live coding.md
+        - blender:  reflections/term3/prototyping/blender/blender.md
         - robots:  reflections/term3/prototyping/robots/robots.md
         - live coding:  reflections/term3/prototyping/live coding/live coding.md
+        - microchallenge iii:  reflections/term3/prototyping/microchallenge iii/microchallenge iii.md
   - process:
     - exploring: process/exploring/exploring.md
     - narrating: process/narrating/narrating.md
