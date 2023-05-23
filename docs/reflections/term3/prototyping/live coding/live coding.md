@@ -5,4 +5,10 @@ Citlali and Xavi, our guides through this journey inspired up with their enthusi
 
 As I reflect on the live coding experience with Citlali, I am reminded that technology is an ever-expanding universe waiting to be explored. The exercise served as a reminder that with dedication, curiosity, and the right tools, we can create something truly remarkable.  
 
-<img src="../hydra.png" alt="drawing" width="700" />   
+<img src="../hydra.png" alt="drawing" width="700" />    
+
+at the end of the class we were introduced to the concept of 'algorave': a concept that started in 2011 in London and is essentially a 'rave' type event where the music is generated from algorithms, often using live coding techniques. Coincidentally there was an algorave party in Poblenou the day after the class where Citlali was going to take part as well so we booked tickets right away and went.  
+
+it was a very interesting experience, different than the usual electronic music parties that I have been. it had more of a 'nerdy' vibe, perhaps because of the people who were not there by chance..!   
+
+<img src="../algorave.jpeg" alt="drawing" width="700" />    
