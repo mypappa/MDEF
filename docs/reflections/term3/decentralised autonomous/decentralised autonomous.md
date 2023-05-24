@@ -15,4 +15,4 @@ large language models have impact
 
 ¿ centralised, decentralised or distributed ?  
 Ethereum is a decentralized blockchain  
-very energy demanding but not as much as streaming softwares eg  
+very energy demanding but not as much as streaming softwares 
