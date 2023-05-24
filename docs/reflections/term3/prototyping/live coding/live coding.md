@@ -3,7 +3,7 @@ During the live coding exercise we used 'Hydra', a visually oriented programming
 
 Citlali and Xavi, our guides through this journey inspired up with their enthusiasm and their passion for the subject, motivating me to continue learning about the possibilities that these tools and frameworks have to offer.  
 
-As I reflect on the live coding experience with Citlali, I am reminded that technology is an ever-expanding universe waiting to be explored. The exercise served as a reminder that with dedication, curiosity, and the right tools, we can create something truly remarkable.  
+As I reflect on the live coding experience with Citlali, I am reminded that technology is an ever-expanding universe waiting to be explored. The exercise served as a reminder that with dedication, curiosity, and the right tools, we can create something really cool.  
 
 <img src="../hydra.png" alt="drawing" width="700" />    
 
