@@ -3,7 +3,7 @@ I was very happy to attend this design ethics course with Ariel, as it brought m
 
 What I have realised from my engagement in borderline ethical debates so far is that the deeper you analyse a topic, the more it turnes out as a philosophical discouse where there 'right' and 'wrong' because blurry and hard to objectively define.     
 
-"guns don't kill people. people kill people"  
+"guns don't kill people. people kill people"   
 
 this statement triggered a dialogue during class that got me thinking.  
 
